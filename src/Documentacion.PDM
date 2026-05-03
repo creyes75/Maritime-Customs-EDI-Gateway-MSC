@@ -1,0 +1,315 @@
+[Root]
+Most Recent Package=Standard Setup Package 1
+
+
+[Package|Standard Setup Package 1|Root]
+SubWizProgID=PDWizard.SetupPkgSubWiz
+BuildFolder=D:\Respaldos Carlos Reyes\herramientas cra\Sistema de Documentacion V1.6\package
+
+[Package|Standard Setup Package 1|Configure DAO ISAMs]
+Applicable=No
+
+[Package|Standard Setup Package 1|Configure DAO ODBC]
+JetWorkspace=
+ODBCDirect=
+
+[Package|Standard Setup Package 1|Files Found]
+Copia de Origen.doc=D:\Respaldos Carlos Reyes\herramientas cra\Sistema de Documentacion V1.6\Plantillas\Copia de Origen.doc
+
+[Package|Standard Setup Package 1|Files Released]
+U2FXLS.DLL=
+U2FWORDW.DLL=
+U2FWKS.DLL=
+U2FTEXT.DLL=
+U2FSEPV.DLL=
+U2FRTF.DLL=
+U2FREC.DLL=
+U2FHTML.DLL=
+U2FDIF.DLL=
+U2FCR.DLL=
+U2DMAPI.DLL=
+CRXLAT32.DLL=
+
+[Package|Standard Setup Package 1|Missing Dependency Information]
+C:\Archivos de programa\Microsoft Office\Office\MSWORD9.OLB=
+C:\WINNT\system32\GTNUM32.OCX=
+C:\WINNT\system32\msxml.dll=
+C:\Program Files\Microsoft Office\Office\MSWORD9.OLB=
+
+[Package|Standard Setup Package 1|Out-of-Date Dependency Information]
+C:\WINDOWS\SYSTEM\CRYSTL32.OCX=
+
+[Package|Standard Setup Package 1|Files Added]
+doc.ini=
+plantillamsc.doc=
+origen.doc=
+plantilla.dot=
+plantillakhs.doc=
+plantillakhs2.doc=
+copia de origen.doc=
+plantillamsc53.doc.dot=
+plantillamsc53 para impresora 2100.doc=
+plantillamsc53.doc=
+
+[Package|Standard Setup Package 1|Files Removed]
+
+[Package|Standard Setup Package 1|Files In Project]
+D:\Respaldos Carlos Reyes\herramientas cra\Sistema de Documentacion V1.6\DocumentacionTAY-112006.EXE=Yes
+C:\WINNT\system32\msvbvm60.dll=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\OLEAUT32.DLL=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\OLEPRO32.DLL=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\ASYCFILT.DLL=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\STDOLE2.TLB=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\COMCAT.DLL=Yes
+C:\Program Files\Common Files\System\ado\msado25.tlb=Yes
+C:\Program Files\Microsoft Office\Office\EXCEL9.OLB=Yes
+C:\Program Files\Microsoft Office\Office\MSWORD9.OLB=Yes
+C:\WINNT\system32\MSSTDFMT.DLL=Yes
+C:\Program Files\Common Files\Microsoft Shared\DAO\dao360.dll=Yes
+C:\WINNT\system32\msjet40.dll=Yes
+C:\WINNT\system32\msjter40.dll=Yes
+C:\WINNT\system32\msjint40.dll=Yes
+C:\WINNT\system32\vbajet32.dll=Yes
+C:\WINNT\system32\expsrv.dll=Yes
+C:\WINNT\system32\mswstr10.dll=Yes
+C:\WINNT\system32\mswdat10.dll=Yes
+C:\WINNT\system32\msrd2x40.dll=Yes
+C:\WINNT\system32\msrd3x40.dll=Yes
+C:\WINNT\system32\msrepl40.dll=Yes
+C:\WINNT\system32\msjtes40.dll=Yes
+C:\WINNT\system32\VB5DB.DLL=Yes
+C:\WINNT\system32\MSBIND.DLL=Yes
+C:\WINNT\system32\msxml.dll=Yes
+C:\WINNT\system32\THREED32.OCX=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\MFC40.DLL=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\MSVCRT40.DLL=Yes
+C:\WINNT\system32\crystl32.ocx=Yes
+C:\WINNT\system32\COMCTL32.OCX=Yes
+C:\WINNT\system32\GRID32.OCX=Yes
+C:\WINNT\system32\MSADODC.OCX=Yes
+C:\WINNT\system32\DBGRID32.OCX=Yes
+C:\WINNT\system32\DBLIST32.OCX=Yes
+C:\WINNT\system32\MSDATGRD.OCX=Yes
+C:\WINNT\system32\COMDLG32.OCX=Yes
+C:\WINNT\system32\MSDATLST.OCX=Yes
+C:\WINNT\system32\GTDATE32.OCX=Yes
+C:\WINNT\system32\GTNUM32.OCX=Yes
+C:\WINNT\system32\TABCTL32.OCX=Yes
+C:\WINNT\system32\MSMASK32.OCX=Yes
+C:\WINNT\system32\MSMAPI32.OCX=Yes
+C:\WINNT\system32\SS32X25.OCX=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP.EXE=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP1.EXE=Yes
+C:\WINNT\system32\VB6STKIT.DLL=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\ST6UNST.EXE=Yes
+C:\WINNT\doc.INI=Yes
+D:\Respaldos Carlos Reyes\herramientas cra\Sistema de Documentacion V1.6\Plantillas\plantillaMSC.doc=Yes
+D:\Respaldos Carlos Reyes\herramientas cra\Sistema de Documentacion V1.6\Plantillas\Origen.doc=Yes
+D:\Respaldos Carlos Reyes\herramientas cra\Sistema de Documentacion V1.6\Plantillas\plantilla.dot=Yes
+D:\Respaldos Carlos Reyes\herramientas cra\Sistema de Documentacion V1.6\Plantillas\plantillaKHS.doc=Yes
+D:\Respaldos Carlos Reyes\herramientas cra\Sistema de Documentacion V1.6\Plantillas\plantillaKHS2.doc=Yes
+D:\Respaldos Carlos Reyes\herramientas cra\Sistema de Documentacion V1.6\Plantillas\Copia de Origen.doc=Yes
+D:\Respaldos Carlos Reyes\herramientas cra\Sistema de Documentacion V1.6\Plantillas\plantillaMSC53.DOC.dot=Yes
+D:\Respaldos Carlos Reyes\herramientas cra\Sistema de Documentacion V1.6\Plantillas\plantillaMSC53 para impresora 2100.doc=Yes
+D:\Respaldos Carlos Reyes\herramientas cra\Sistema de Documentacion V1.6\Plantillas\plantillaMSC53.doc=Yes
+
+[Package|Standard Setup Package 1|Configure Registry Files]
+Applicable=No
+
+[Package|Standard Setup Package 1|Configure Remote Servers]
+Applicable=No
+
+[Package|Standard Setup Package 1|Install Locations]
+D:\IAN TAYLOR\sistema de documentacion\Documentacion.EXE=$(AppPath)
+C:\WINDOWS\SYSTEM\MSVBVM60.DLL=$(WinSysPathSysFile)
+C:\Archivos de programa\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\OLEAUT32.DLL=$(WinSysPathSysFile)
+C:\Archivos de programa\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\OLEPRO32.DLL=$(WinSysPathSysFile)
+C:\Archivos de programa\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\ASYCFILT.DLL=$(WinSysPathSysFile)
+C:\Archivos de programa\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\STDOLE2.TLB=$(WinSysPathSysFile)
+C:\Archivos de programa\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\COMCAT.DLL=$(WinSysPathSysFile)
+C:\Archivos de programa\Microsoft Office\Office\EXCEL9.OLB=$(WinSysPath)
+C:\Archivos de programa\Microsoft Office\Office\MSWORD9.OLB=$(WinSysPath)
+C:\WINDOWS\SYSTEM\THREED32.OCX=$(WinSysPath)
+C:\Archivos de programa\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\MFC40.DLL=$(WinSysPathSysFile)
+C:\Archivos de programa\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\MSVCRT40.DLL=$(WinSysPathSysFile)
+C:\WINDOWS\SYSTEM\CRYSTL32.OCX=$(WinSysPath)
+C:\WINDOWS\SYSTEM\Crpe32.dll=$(WinSysPath)
+C:\WINDOWS\SYSTEM\IMPLODE.DLL=$(WinSysPath)
+C:\WINDOWS\SYSTEM\PG32.DLL=$(WinSysPath)
+C:\Archivos de programa\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\CO2C40EN.DLL=$(WinSysPath)
+C:\Archivos de programa\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\MSVCRT20.DLL=$(WinSysPathSysFile)
+C:\WINDOWS\SYSTEM\P2BBND.DLL=$(WinSysPath)
+C:\WINDOWS\SYSTEM\P2BDAO.DLL=$(WinSysPath)
+C:\WINDOWS\SYSTEM\P2CTDAO.DLL=$(WinSysPath)
+C:\WINDOWS\SYSTEM\P2IRDAO.DLL=$(WinSysPath)
+C:\WINDOWS\SYSTEM\P2SODBC.DLL=$(WinSysPath)
+C:\WINDOWS\SYSTEM\U2DDISK.DLL=$(WinPath)\Crystal
+C:\WINDOWS\SYSTEM\COMCTL32.OCX=$(WinSysPath)
+C:\WINDOWS\SYSTEM\GRID32.OCX=$(AppPath)
+C:\WINDOWS\SYSTEM\MSADODC.OCX=$(WinSysPath)
+C:\WINDOWS\SYSTEM\MSSTDFMT.DLL=$(WinSysPath)
+C:\WINDOWS\SYSTEM\DBGRID32.OCX=$(WinSysPath)
+C:\WINDOWS\SYSTEM\DBLIST32.OCX=$(WinSysPath)
+C:\WINDOWS\SYSTEM\MSDATGRD.OCX=$(WinSysPath)
+C:\WINDOWS\SYSTEM\COMDLG32.OCX=$(WinSysPath)
+C:\WINDOWS\SYSTEM\MSDATLST.OCX=$(WinSysPath)
+C:\Archivos de programa\DataMask\bin\gtdate32.ocx=$(WinSysPath)
+C:\Archivos de programa\DataMask\bin\gtnum32.ocx=$(WinSysPath)
+C:\WINDOWS\SYSTEM\TABCTL32.OCX=$(WinSysPath)
+C:\Archivos de programa\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\MDAC_TYP.EXE=$(AppPath)
+C:\Archivos de programa\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP.EXE=$(AppPath)
+C:\Archivos de programa\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP1.EXE=$(WinPath)
+C:\WINDOWS\SYSTEM\VB6STKIT.DLL=$(WinSysPathSysFile)
+C:\Archivos de programa\Microsoft Visual Studio\VB98\Wizards\PDWizard\ST6UNST.EXE=$(WinPath)
+C:\WINDOWS\doc.INI=$(WinPath)
+D:\IAN TAYLOR\sistema de documentacion\Plantillas\plantillaMSC.doc=$(AppPath)\plantillas
+D:\IAN TAYLOR\sistema de documentacion\Plantillas\Origen.doc=$(AppPath)\plantillas
+D:\IAN TAYLOR\sistema de documentacion\Plantillas\plantilla.dot=$(AppPath)\plantillas
+D:\IAN TAYLOR\sistema de documentacion\Plantillas\plantillaKHS.doc=$(AppPath)\plantillas
+D:\IAN TAYLOR\sistema de documentacion\Plantillas\plantillaKHS2.doc=$(AppPath)\plantillas
+D:\IAN TAYLOR\sistema de documentacion\Plantillas\Copia de Origen.doc=$(AppPath)\plantilla
+C:\WINDOWS\Crystal\CRXLAT32.DLL=$(WinPath)\Crystal
+C:\WINDOWS\Crystal\U2DMAPI.DLL=$(WinPath)\Crystal
+C:\WINDOWS\Crystal\U2FCR.DLL=$(WinPath)\Crystal
+C:\WINDOWS\Crystal\U2FDIF.DLL=$(WinPath)\Crystal
+C:\WINDOWS\Crystal\U2FHTML.DLL=$(WinPath)\Crystal
+C:\WINDOWS\Crystal\U2FREC.DLL=$(WinPath)\Crystal
+C:\WINDOWS\Crystal\U2FRTF.DLL=$(WinPath)\Crystal
+C:\WINDOWS\Crystal\U2FSEPV.DLL=$(WinPath)\Crystal
+C:\WINDOWS\Crystal\U2FTEXT.DLL=$(WinPath)\Crystal
+C:\WINDOWS\Crystal\U2FWKS.DLL=$(WinPath)\Crystal
+C:\WINDOWS\Crystal\U2FWORDW.DLL=$(WinPath)\Crystal
+C:\WINDOWS\Crystal\U2FXLS.DLL=$(WinPath)\Crystal
+C:\WINDOWS\SYSTEM\MSMASK32.OCX=$(WinSysPath)
+C:\Archivos de programa\Archivos comunes\Microsoft Shared\DAO\DAO360.DLL=$(MSDAOPath)
+C:\WINDOWS\SYSTEM\msjet40.dll=$(WinSysPathSysFile)
+C:\WINDOWS\SYSTEM\msjter40.dll=$(WinSysPathSysFile)
+C:\WINDOWS\SYSTEM\msjint40.dll=$(WinSysPathSysFile)
+C:\WINDOWS\SYSTEM\vbajet32.dll=$(WinSysPathSysFile)
+C:\WINDOWS\SYSTEM\expsrv.dll=$(WinSysPathSysFile)
+C:\WINDOWS\SYSTEM\mswstr10.dll=$(WinSysPathSysFile)
+C:\WINDOWS\SYSTEM\mswdat10.dll=$(WinSysPathSysFile)
+C:\WINDOWS\SYSTEM\msrd2x40.dll=$(WinSysPathSysFile)
+C:\WINDOWS\SYSTEM\msrd3x40.dll=$(WinSysPathSysFile)
+C:\WINDOWS\SYSTEM\msrepl40.dll=$(WinSysPathSysFile)
+C:\WINDOWS\SYSTEM\msjtes40.dll=$(WinSysPathSysFile)
+C:\WINDOWS\SYSTEM\VB5DB.DLL=$(WinSysPath)
+C:\WINDOWS\SYSTEM\MSBIND.DLL=$(WinSysPath)
+C:\WINDOWS\SYSTEM\MSMAPI32.OCX=$(WinSysPath)
+C:\Archivos de programa\Spread25\BIN\ss32x25.ocx=$(WinSysPath)
+C:\WINDOWS\SYSTEM\MFC42.DLL=$(WinSysPathSysFile)
+C:\WINDOWS\SYSTEM\MSVCRT.DLL=$(WinSysPathSysFile)
+D:\IAN TAYLOR\sistema de documentacion\Plantillas\plantillaMSC53.DOC.dot=$(AppPath)
+D:\IAN TAYLOR\sistema de documentacion\Plantillas\plantillaMSC53 para impresora 2100.doc=$(AppPath)
+D:\IAN TAYLOR\sistema de documentacion\Plantillas\plantillaMSC53.doc=$(AppPath)
+D:\Respaldos Carlos Reyes\herramientas cra\Sistema de Documentacion V1.6\DocumentacionTAY-112006.EXE=$(AppPath)
+C:\WINNT\system32\msvbvm60.dll=$(WinSysPathSysFile)
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\OLEAUT32.DLL=$(WinSysPathSysFile)
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\OLEPRO32.DLL=$(WinSysPathSysFile)
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\ASYCFILT.DLL=$(WinSysPathSysFile)
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\STDOLE2.TLB=$(WinSysPathSysFile)
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\COMCAT.DLL=$(WinSysPathSysFile)
+C:\Program Files\Common Files\System\ado\msado25.tlb=$(WinSysPath)
+C:\Program Files\Microsoft Office\Office\EXCEL9.OLB=$(WinSysPath)
+C:\Program Files\Microsoft Office\Office\MSWORD9.OLB=$(WinSysPath)
+C:\WINNT\system32\MSSTDFMT.DLL=$(WinSysPath)
+C:\Program Files\Common Files\Microsoft Shared\DAO\dao360.dll=$(MSDAOPath)
+C:\WINNT\system32\msjet40.dll=$(WinSysPathSysFile)
+C:\WINNT\system32\msjter40.dll=$(WinSysPathSysFile)
+C:\WINNT\system32\msjint40.dll=$(WinSysPathSysFile)
+C:\WINNT\system32\vbajet32.dll=$(WinSysPathSysFile)
+C:\WINNT\system32\expsrv.dll=$(WinSysPathSysFile)
+C:\WINNT\system32\mswstr10.dll=$(WinSysPathSysFile)
+C:\WINNT\system32\mswdat10.dll=$(WinSysPathSysFile)
+C:\WINNT\system32\msrd2x40.dll=$(WinSysPathSysFile)
+C:\WINNT\system32\msrd3x40.dll=$(WinSysPathSysFile)
+C:\WINNT\system32\msrepl40.dll=$(WinSysPathSysFile)
+C:\WINNT\system32\msjtes40.dll=$(WinSysPathSysFile)
+C:\WINNT\system32\VB5DB.DLL=$(WinSysPath)
+C:\WINNT\system32\MSBIND.DLL=$(WinSysPath)
+C:\WINNT\system32\msxml.dll=$(WinSysPath)
+C:\WINNT\system32\THREED32.OCX=$(WinSysPath)
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\MFC40.DLL=$(WinSysPathSysFile)
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\MSVCRT40.DLL=$(WinSysPathSysFile)
+C:\WINNT\system32\crystl32.ocx=$(WinSysPath)
+C:\WINNT\system32\COMCTL32.OCX=$(WinSysPath)
+C:\WINNT\system32\GRID32.OCX=$(AppPath)
+C:\WINNT\system32\MSADODC.OCX=$(WinSysPath)
+C:\WINNT\system32\DBGRID32.OCX=$(WinSysPath)
+C:\WINNT\system32\DBLIST32.OCX=$(WinSysPath)
+C:\WINNT\system32\MSDATGRD.OCX=$(WinSysPath)
+C:\WINNT\system32\COMDLG32.OCX=$(WinSysPath)
+C:\WINNT\system32\MSDATLST.OCX=$(WinSysPath)
+C:\WINNT\system32\GTDATE32.OCX=$(WinSysPath)
+C:\WINNT\system32\GTNUM32.OCX=$(WinSysPath)
+C:\WINNT\system32\TABCTL32.OCX=$(WinSysPath)
+C:\WINNT\system32\MSMASK32.OCX=$(WinSysPath)
+C:\WINNT\system32\MSMAPI32.OCX=$(WinSysPath)
+C:\WINNT\system32\SS32X25.OCX=$(WinSysPath)
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP.EXE=$(AppPath)
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP1.EXE=$(WinPath)
+C:\WINNT\system32\VB6STKIT.DLL=$(WinSysPathSysFile)
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\ST6UNST.EXE=$(WinPath)
+C:\WINNT\doc.INI=$(WinPath)
+D:\Respaldos Carlos Reyes\herramientas cra\Sistema de Documentacion V1.6\Plantillas\plantillaMSC.doc=$(AppPath)\plantillas
+D:\Respaldos Carlos Reyes\herramientas cra\Sistema de Documentacion V1.6\Plantillas\Origen.doc=$(AppPath)\plantillas
+D:\Respaldos Carlos Reyes\herramientas cra\Sistema de Documentacion V1.6\Plantillas\plantilla.dot=$(AppPath)\plantillas
+D:\Respaldos Carlos Reyes\herramientas cra\Sistema de Documentacion V1.6\Plantillas\plantillaKHS.doc=$(AppPath)\plantillas
+D:\Respaldos Carlos Reyes\herramientas cra\Sistema de Documentacion V1.6\Plantillas\plantillaKHS2.doc=$(AppPath)\plantillas
+D:\Respaldos Carlos Reyes\herramientas cra\Sistema de Documentacion V1.6\Plantillas\Copia de Origen.doc=$(AppPath)\plantillas
+D:\Respaldos Carlos Reyes\herramientas cra\Sistema de Documentacion V1.6\Plantillas\plantillaMSC53.DOC.dot=$(AppPath)\plantillas
+D:\Respaldos Carlos Reyes\herramientas cra\Sistema de Documentacion V1.6\Plantillas\plantillaMSC53 para impresora 2100.doc=$(AppPath)\plantillas
+D:\Respaldos Carlos Reyes\herramientas cra\Sistema de Documentacion V1.6\Plantillas\plantillaMSC53.doc=$(AppPath)\plantillas
+
+[Package|Standard Setup Package 1|Configure Shared Files]
+Applicable=Yes
+D:\IAN TAYLOR\sistema de documentacion\Documentacion.EXE=No
+C:\WINDOWS\SYSTEM\GRID32.OCX=No
+C:\Archivos de programa\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\MDAC_TYP.EXE=No
+D:\IAN TAYLOR\sistema de documentacion\Plantillas\plantillaMSC.doc=No
+D:\IAN TAYLOR\sistema de documentacion\Plantillas\Origen.doc=No
+D:\IAN TAYLOR\sistema de documentacion\Plantillas\plantilla.dot=No
+D:\IAN TAYLOR\sistema de documentacion\Plantillas\plantillaKHS.doc=No
+D:\IAN TAYLOR\sistema de documentacion\Plantillas\plantillaKHS2.doc=No
+D:\IAN TAYLOR\sistema de documentacion\Plantillas\Copia de Origen.doc=No
+D:\IAN TAYLOR\sistema de documentacion\Plantillas\plantillaMSC53.DOC.dot=No
+D:\IAN TAYLOR\sistema de documentacion\Plantillas\plantillaMSC53 para impresora 2100.doc=No
+D:\IAN TAYLOR\sistema de documentacion\Plantillas\plantillaMSC53.doc=No
+D:\Respaldos Carlos Reyes\herramientas cra\Sistema de Documentacion V1.6\DocumentacionTAY-112006.EXE=No
+C:\WINNT\system32\GRID32.OCX=No
+C:\WINNT\doc.INI=No
+D:\Respaldos Carlos Reyes\herramientas cra\Sistema de Documentacion V1.6\Plantillas\plantillaMSC.doc=No
+D:\Respaldos Carlos Reyes\herramientas cra\Sistema de Documentacion V1.6\Plantillas\Origen.doc=No
+D:\Respaldos Carlos Reyes\herramientas cra\Sistema de Documentacion V1.6\Plantillas\plantilla.dot=No
+D:\Respaldos Carlos Reyes\herramientas cra\Sistema de Documentacion V1.6\Plantillas\plantillaKHS.doc=No
+D:\Respaldos Carlos Reyes\herramientas cra\Sistema de Documentacion V1.6\Plantillas\plantillaKHS2.doc=No
+D:\Respaldos Carlos Reyes\herramientas cra\Sistema de Documentacion V1.6\Plantillas\Copia de Origen.doc=No
+D:\Respaldos Carlos Reyes\herramientas cra\Sistema de Documentacion V1.6\Plantillas\plantillaMSC53.DOC.dot=No
+D:\Respaldos Carlos Reyes\herramientas cra\Sistema de Documentacion V1.6\Plantillas\plantillaMSC53 para impresora 2100.doc=No
+D:\Respaldos Carlos Reyes\herramientas cra\Sistema de Documentacion V1.6\Plantillas\plantillaMSC53.doc=No
+
+[Package|Standard Setup Package 1|Distribution]
+Type=single
+Size=
+Title=Sistema de Documentacion
+
+[Package|Standard Setup Package 1|IconGroups]
+Group0=Sistema de Documentacion
+PrivateGroup0=-1
+Parent0=$(Programs)
+
+[Package|Standard Setup Package 1|Sistema de Documentacion]
+Icon1=Documentacion.EXE
+Title1=Sistema de Documentacion
+StartIn1=$(AppPath)
+Key1=Icon1
+
+[Package|Standard Setup Package 1|Package]
+PackageFolder=D:\Respaldos Carlos Reyes\herramientas cra\Sistema de Documentacion V1.6\package
+ProjectFolder=D:\Respaldos Carlos Reyes\herramientas cra\Sistema de Documentacion V1.6
+ServerSideCab=
+File1=D:\Respaldos Carlos Reyes\herramientas cra\Sistema de Documentacion V1.6\package\setup.exe
+File2=D:\Respaldos Carlos Reyes\herramientas cra\Sistema de Documentacion V1.6\package\Setup.Lst
+File3=D:\Respaldos Carlos Reyes\herramientas cra\Sistema de Documentacion V1.6\package\DocumentacionTAY-112006.CAB
+Handler1=PDWizard.FolderDplySubWiz
+Handler2=PDWizard.WebPostDplySubWiz

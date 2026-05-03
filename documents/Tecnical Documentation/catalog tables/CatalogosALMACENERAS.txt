@@ -1,0 +1,94 @@
+9290 	              ACET GRUPO CORPORATION
+7382 	              ADAPAUSTRO S.A.                                   
+7058 	              ADPRISA S.A.
+2495 	              ADUANAPRECUA CIA. LTDA.
+9371 	              ADUANOR
+7020 	              AGMARESA (PERMISIONARIA)                          
+1661 	              ALMACEN GENERAL (MACARA)                          
+8000 	              ALMACEN NO CONSIGNADO
+6420 	              ALMACEN PUERTO BOLIVAR -CAE-
+4054 	              ALMACENERA DEL ECUADOR S.A. ALMESA (TULCAN)
+4015 	              ALMACONTI
+4024 	              ALMAGRESA                            
+7040 	              ANDIGRAIN (PERMISIONARIA)
+1469 	              ANDIPUERTO
+3863 	              ARETINA (MANTA)                                   
+7030 	              ARETINA (PERMISIONARIA)
+6911 	              ARETINA CARGA SUELTA                              
+3009 	              AUTORIDAD PORTUARIA DE ESMERALDAS                 
+6905 	              BANANAPUERTO S.A.
+1740 	              BICEP S.A. (HUAQUILLAS)                           
+9001 	              BISICA
+9010 	              BODALMET                                          
+6086 	              BODEG. 4,5,6,51                      
+6013 	              BODEGA TERMINAL MARITIMO                          
+6070 	              BODEGAS PORTUARIA PUERTO BOLIVAR
+6012 	              BODEGAS PRIVADAS TERAN CIA. LTDA
+9263 	              BODPUYANGO CIA. LTDA.                             
+9678 	              BOSEFO
+7484 	              BOTEMPRI CIA. LTDA.
+7008 	              CABANA (PTO BOLIVAR)
+2459 	              CARGO SERVICES
+0055 	              CARTONERA ANDINA S.A.                             
+1599 	              CHACRAS (HUAQUILLAS)                              
+3818 	              COIMPEXA CIA. LTDA
+7009 	              CONMAREC (PTO BOLIVAR)
+8914 	              COURIER - GYE
+8915 	              COURIER - UIO
+5032 	              DEPOGAS S.A
+4060 	              DEPOSITO COMERCIAL QUITO             
+6927 	              DESCARGA DIRECTA (Art32,43 LOA y Art28,60 Regl
+7319 	              DHL                                               
+6005 	              E.M.S.A. ZONA CARGA (QUITO)
+6004 	              E.M.S.A. ZONA DE CARGA AEROPUERTO
+1587 	              ECUACARGAS (HUAQUILLAS)
+6095 	              ECUAESTIBAS (CARGA SUELTA)            
+6077 	              ECUAESTIBAS (CONTENEDORES)
+7013 	              ECUASTIBAS (PTO BOLIVAR)
+5088 	              ECUATORIANA DE GRANOS
+5061 	              EXTECOMEXSA COMERCIO EXTERIOR
+9272 	              FERTISA, FERTILIZANTES, TERMINALES Y SERVICIOS S.A
+1360 	              FRIOEXPORT                                        
+0415 	              GELEC                                
+0433 	              GRAFANDINA                           
+0514 	              IDEAL
+4330 	              INTERCARGA (GUAYAQUIL)
+4322 	              INTERCARGA QUITO
+7050 	              L.G. ECUATORIANA (PERMISIONARIA)
+1660 	              LA FABRIL S.A (LA FAVORITA GUAYAQUIL)
+4079 	              MARTRADE
+6090 	              MIDECAR MOVIMIENTOS INTERNOS DE CARGA CIA. LTDA.
+5123 	              MILDTRADE                                         
+6960 	              NAPORTEC S.A.
+9993 	              NO DEFINIDO, BL DUMMY
+7011 	              OPCADESBOL (PTO BOLIVAR)
+6482 	              OPERMANTA                                         
+7006 	              OPORSUD (PTO BOLIVAR)
+1197 	              OPPAC - GYE
+6310 	              PORTUARIA DE MANTA                                
+6491 	              REBARBO (MANTA)                                   
+7004 	              REY ESTIBA (PTO BOLIVAR)
+8904 	              S.A.I - GYE                                       
+8905 	              S.A.I - UIO                                       
+6920 	              SAIEXPERSS
+5115 	              SANTA FE PETROLEUM SERVICES                       
+7001 	              SERMATRAN (PTO BOLIVAR)
+9669 	              SERREROQUI                                        
+7007 	              SERVISTAR (PTO BOLIVAR)                           
+4088 	              SIPRESSA
+3854 	              SOC. VERIFICADORA UNIVERSAL (MANTA)               
+7010 	              SVU (PERMISIONARIA)                               
+7005 	              TABULE (PTO BOLIVAR)
+7002 	              TECNINAVE (PTO BOLIVAR)
+7209 	              TELEMERC S.A                                      
+7060 	              TERMIPORT (PERMISIONARIA)                         
+4295 	              TEXTILES LA ESCALA
+6400 	              TIMSA
+9020 	              TPI, TERMINAL PORTUARIO INTERNACIONAL PUERTO HONDO
+7070 	              TRAMABO (PERMISIONARIA)              
+7076 	              TRANSAGENT                                        
+7075 	              TRANSAGENT (CARGA SUELTA)                         
+9443 	              TRANSBOLIVARIANA
+8903 	              TRANSCOMERINTER
+2390 	              TRINIPUERTO
+8309 	              UTEXA S.A.                                        

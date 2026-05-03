@@ -1,0 +1,4 @@
+Línea 21: la clase Crystal.CrystalReport del control CReport no era una clase de control cargada.
+Línea 24: el nombre de la propiedad _ExtentX de CReport no es válido.
+Línea 25: el nombre de la propiedad _ExtentY de CReport no es válido.
+Línea 26: el nombre de la propiedad _Version de CReport no es válido.

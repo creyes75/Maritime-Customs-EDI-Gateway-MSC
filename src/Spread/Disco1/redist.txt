@@ -1,0 +1,79 @@
+Spread Version 2.5  
+REDIST.TXT 
+FarPoint Technologies, Inc.   
+-------------------------------------------------------------------------  
+ 
+If you are redistributing a Spread control with your application, review 
+the following information concerning the files you must distribute with 
+your application. 
+ 
+Before an OCX control can be used in your distributed application, it 
+must be included in the Windows registration database. As a developer,  
+you are responsible for registering the Spread control files, as well as 
+any necessary files listed below. If the files are already present on the 
+target system, they need not be registered. 
+ 
+Your setup program can register controls and files directly. Use the  
+LoadLibrary Windows API to load the control's DLL or the DLL file,  
+then use GetProcAddress to obtain the address of the 
+"DLLRegisterServer" function, and then call that function. 
+ 
+For additional information, consult your development environment's  
+documentation. 
+ 
+ 
+*** OCX Controls *** 
+ 
+You must include the following files, based on your development  
+environment.  
+ 
+To redistribute the Spread 16-bit OCX control, include the following 
+files: 
+	SS16X25.OCX	Spread 16-bit OCX control 
+	0C25.DLL	16-bit control run-time DLL 
+ 
+To redistribute the Spread 32-bit OCX control, include the following 
+files: 
+	SS32X25.OCX	Spread 32-bit OCX control 
+	MFC40.DLL	Library file 
+	MSVCRT40.DLL	C run-time libraries 
+	OLEPRO32.DLL	Library file 
+
+ If you are redistributing the Spread 32-bit OCX control with an  
+ international application, include the following files in addition to  
+ the preceding files as appropriate: 
+	MFC40CHS.DLL	Chinese 
+	MFC40DEU.DLL	German 
+	MFC40ESP.DLL	Spanish 
+	MFC40FRA.DLL	French 
+	MFC40ITA.DLL	Italian 
+	MFC40JAP.DLL	Japanese 
+	MFC40KOR.DLL	Korean 
+ 
+*** DLL Controls *** 
+ 
+To redistribute the Spread 16-bit DLL control, include the following 
+file: 
+	SS16D25.DLL	Spread 16-bit DLL control 
+ 
+To redistribute the Spread 32-bit DLL control, include the following 
+file: 
+	SS32D25.DLL	Spread 32-bit DLL control 
+ 
+*** VBX Controls *** 
+ 
+To redistribute the Spread VBX control, include the following file: 
+	SSVBX25.VBX	Spread VBX control
+
+
+-----------------------------------------------------------------------------------
+FarPoint Technologies, Inc.
+133 Southcenter Court
+Suite 1000  
+Morrisville, NC 27560  
+Phone (919) 460-4551  
+Fax (919) 460-7606  
+Tech Support (919) 460-1887  
+Web Site http://www.fpoint.com  
+email farpoint@fpoint.com   
+© 1996 FarPoint Technologies, Inc.

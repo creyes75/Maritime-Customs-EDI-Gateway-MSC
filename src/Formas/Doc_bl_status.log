@@ -1,0 +1,36 @@
+Línea 199: la clase GTMaskNum.GTMaskNum del control GTM_dias no era una clase de control cargada.
+Línea 260: la clase GTMaskDate.GTMaskDate del control Msk_fecha_desde no era una clase de control cargada.
+Línea 318: la clase GTMaskDate.GTMaskDate del control Msk_fecha_hasta no era una clase de control cargada.
+Línea 205: el nombre de la propiedad _Version de GTM_dias no es válido.
+Línea 206: el nombre de la propiedad _ExtentX de GTM_dias no es válido.
+Línea 207: el nombre de la propiedad _ExtentY de GTM_dias no es válido.
+Línea 208: el nombre de la propiedad _StockProps de GTM_dias no es válido.
+Línea 218: el nombre de la propiedad NullFont de GTM_dias no es válido.
+Línea 219: el nombre de la propiedad TabOnEnter de GTM_dias no es válido.
+Línea 228: el nombre de la propiedad CalcDispFont de GTM_dias no es válido.
+Línea 237: el nombre de la propiedad CalcBtnFont de GTM_dias no es válido.
+Línea 246: el nombre de la propiedad CalcMemFont de GTM_dias no es válido.
+Línea 247: el nombre de la propiedad MaskShowThousandSep de GTM_dias no es válido.
+Línea 248: el nombre de la propiedad MaskType de GTM_dias no es válido.
+Línea 249: el nombre de la propiedad DataType de GTM_dias no es válido.
+Línea 258: el nombre de la propiedad ToolTipFont de GTM_dias no es válido.
+Línea 266: el nombre de la propiedad _Version de Msk_fecha_desde no es válido.
+Línea 267: el nombre de la propiedad _ExtentX de Msk_fecha_desde no es válido.
+Línea 268: el nombre de la propiedad _ExtentY de Msk_fecha_desde no es válido.
+Línea 269: el nombre de la propiedad _StockProps de Msk_fecha_desde no es válido.
+Línea 279: el nombre de la propiedad NullFont de Msk_fecha_desde no es válido.
+Línea 280: el nombre de la propiedad MaskCentury de Msk_fecha_desde no es válido.
+Línea 289: el nombre de la propiedad CalFont de Msk_fecha_desde no es válido.
+Línea 298: el nombre de la propiedad CalCaptionFont de Msk_fecha_desde no es válido.
+Línea 307: el nombre de la propiedad CalDayCaptionFont de Msk_fecha_desde no es válido.
+Línea 316: el nombre de la propiedad ToolTipFont de Msk_fecha_desde no es válido.
+Línea 324: el nombre de la propiedad _Version de Msk_fecha_hasta no es válido.
+Línea 325: el nombre de la propiedad _ExtentX de Msk_fecha_hasta no es válido.
+Línea 326: el nombre de la propiedad _ExtentY de Msk_fecha_hasta no es válido.
+Línea 327: el nombre de la propiedad _StockProps de Msk_fecha_hasta no es válido.
+Línea 337: el nombre de la propiedad NullFont de Msk_fecha_hasta no es válido.
+Línea 338: el nombre de la propiedad MaskCentury de Msk_fecha_hasta no es válido.
+Línea 347: el nombre de la propiedad CalFont de Msk_fecha_hasta no es válido.
+Línea 356: el nombre de la propiedad CalCaptionFont de Msk_fecha_hasta no es válido.
+Línea 365: el nombre de la propiedad CalDayCaptionFont de Msk_fecha_hasta no es válido.
+Línea 374: el nombre de la propiedad ToolTipFont de Msk_fecha_hasta no es válido.

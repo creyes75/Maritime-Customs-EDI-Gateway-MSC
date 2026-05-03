@@ -1,0 +1,12 @@
+Línea 129: la clase GTMaskDate.GTMaskDate del control Msk_fecha_trasb no era una clase de control cargada.
+Línea 775: la clase GTMaskNum.GTMaskNum del control GTM_peso no era una clase de control cargada.
+Línea 934: la clase GTMaskNum.GTMaskNum del control GTM_bultos no era una clase de control cargada.
+Línea 1093: la clase GTMaskNum.GTMaskNum del control GTM_volumen no era una clase de control cargada.
+Línea 1262: la clase GTMaskNum.GTMaskNum del control GTM_seguro no era una clase de control cargada.
+Línea 1499: la clase GTMaskNum.GTMaskNum del control GTM_flete_otros no era una clase de control cargada.
+Línea 1578: la clase GTMaskNum.GTMaskNum del control GTM_flete no era una clase de control cargada.
+Línea 1931: la clase GTMaskDate.GTMaskDate del control GTD_date no era una clase de control cargada.
+Línea 1989: la clase GTMaskDate.GTMaskDate del control GTD_hora no era una clase de control cargada.
+Línea 2063: la clase GTMaskNum.GTMaskNum del control GTM_peso_mal no era una clase de control cargada.
+Línea 2124: la clase GTMaskNum.GTMaskNum del control GTM_bultos_mal no era una clase de control cargada.
+Línea 2799: la clase GTMaskDate.GTMaskDate del control Msk_fecha_emb no era una clase de control cargada.

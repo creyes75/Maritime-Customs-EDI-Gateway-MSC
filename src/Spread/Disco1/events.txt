@@ -1,0 +1,33 @@
+Spread Version 2.5
+EVENTS.TXT
+FarPoint Technologies, Inc.
+-------------------------------------------------------------------------
+If you are upgrading from an existing project using Spread/VBX or Grid/VBX
+to use one of the Spread version 2.5 OCX controls, you must update your
+event parameters as shown in the following list.
+------------------------------------------------------------------------
+Private Sub vaSpread1_Advance(ByVal AdvanceNext As Boolean)
+Private Sub vaSpread1_BlockSelected(ByVal BlockCol As Long, ByVal BlockRow As Long, ByVal BlockCol2 As Long, ByVal BlockRow2 As Long)
+Private Sub vaSpread1_ButtonClicked(ByVal Col As Long, ByVal Row As Long, ByVal ButtonDown As Long)
+Private Sub vaSpread1_Change(ByVal Col As Long, ByVal Row As Long)
+Private Sub vaSpread1_Click(ByVal Col As Long, ByVal Row As Long)
+Private Sub vaSpread1_ColWidthChange(ByVal Col1 As Long, ByVal Col2 As Long)
+Private Sub vaSpread1_CustomFunction(ByVal FunctionName As String, ByVal ParameterCnt As Integer, ByVal Col As Long, ByVal Row As Long, Status As Integer)
+Private Sub vaSpread1_DataColConfig(ByVal Col As Long, ByVal DataField As String, ByVal DataType As Integer)
+Private Sub vaSpread1_DataFill(ByVal Col As Long, ByVal Row As Long, ByVal DataType As Integer, ByVal fGetData As Integer, Cancel As Integer)
+Private Sub vaSpread1_DblClick(ByVal Col As Long, ByVal Row As Long)
+Private Sub vaSpread1_DragDropBlock(ByVal Col As Long, ByVal Row As Long, ByVal Col2 As Long, ByVal Row2 As Long, ByVal NewCol As Long, ByVal NewRow As Long, ByVal NewCol2 As Long, ByVal NewRow2 As Long, ByVal Overwrite As Boolean, Action As Integer, DataOnly As Boolean, Cancel As Boolean)
+Private Sub vaSpread1_DrawItem(ByVal Col As Long, ByVal Row As Long, ByVal hDC As Integer, ByVal Left As Long, ByVal Top As Long, ByVal Right As Long, ByVal Bottom As Long, ByVal Style As Long)
+Private Sub vaSpread1_EditError(ByVal Col As Long, ByVal Row As Long, ByVal EditError As Integer)
+Private Sub vaSpread1_EditMode(ByVal Col As Long, ByVal Row As Long, ByVal Mode As Integer, ByVal ChangeMade As Boolean)
+Private Sub vaSpread1_EnterRow(ByVal Row As Long, ByVal RowIsLast As Long)
+Private Sub vaSpread1_LeaveCell(ByVal Col As Long, ByVal Row As Long, ByVal NewCol As Long, ByVal NewRow As Long, Cancel As Boolean)
+Private Sub vaSpread1_LeaveRow(ByVal Row As Long, ByVal RowWasLast As Boolean, ByVal RowChanged As Boolean, ByVal AllCellsHaveData As Boolean, ByVal NewRow As Long, ByVal NewRowIsLast As Long, Cancel As Boolean)
+Private Sub vaSpread1_QueryAdvance(ByVal AdvanceNext As Boolean, Cancel As Boolean)
+Private Sub vaSpread1_QueryData(ByVal Row As Long, ByVal RowsNeeded As Long, RowsLoaded As Long, ByVal Direction As Integer, AtTop As Boolean, AtBottom As Boolean)
+Private Sub vaSpread1_RightClick(ByVal ClickType As Integer, ByVal Col As Long, ByVal Row As Long, ByVal MouseX As Long, ByVal MouseY As Long)
+Private Sub vaSpread1_RowHeightChange(ByVal Row1 As Long, ByVal Row2 As Long)
+Private Sub vaSpread1_SelChange(ByVal BlockCol As Long, ByVal BlockRow As Long, ByVal BlockCol2 As Long, ByVal BlockRow2 As Long, ByVal CurCol As Long, ByVal CurRow As Long)
+Private Sub vaSpread1_TopLeftChange(ByVal OldLeft As Long, ByVal OldTop As Long, ByVal NewLeft As Long, ByVal NewTop As Long)
+Private Sub vaSpread1_UserFormulaEntered(ByVal Col As Long, ByVal Row As Long)
+Private Sub vaSpread1_VirtualClearData(ByVal Row As Long, ByVal RowsBeingCleared As Long)

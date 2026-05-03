@@ -1,0 +1,365 @@
+$604MVAP/MSC ACAPULCO        /00008NB     /WAR         /POL:PAI/20030205/RECORD=0325/            /                                                                                                    
+$600PORT ROTATION/                                                                                                                                                                                    
+010608                     PAIPUS           DC20022F                                                              ZLO                                         C                                       
+010482                     PAIBUN   ARICLARIDC20000F                                                                                                          C                                       
+010406                     PAIPUS           DC20021F                                                              ZLO                                         C                                       
+010408                     PAIPUS           DC20022F                                                              ZLO                                         C                                       
+010204 GSTU5924759 MSCCLL  CLLBUN   BUNCOBUNDC20035F                                                                                                          C                                       
+010104 XTRU2033340 MSCCLL  CLLBUN   MEXMXLMRDC20207F                                                          0001                                            C                                       
+010306 MSCU2748600 MSCCLL  CLLBUN   BUNCOBUNDC20218F                                                                                                          C                                       
+010508                     PAIPUS           DC20022F                                                              ZLO                                         C                                       
+020206 TRIU5794776 MSCCLL  CLLBUN   BUNCOBUNDC40250F                                                                                                          C                                       
+020208 MSCU4317746 MSCCLL  CLLBUN   BUNCOBUNDC40250F                                                                                                          C                                       
+020106 TRIU5480970 MSCCLL  CLLBUN   BUNCOBUNDC40250F                                                                                                          C                                       
+020108 MSCU8196811 MSCCLL  CLLBUN   BUNCOBUNDCHC164F        0001                                                                                              C                                       
+020182 TRLU4354015 MSC     SAIGYE   GYEECGYEDC40281F                                                                 120684 PAI                         C                                  2          
+020382 CRXU4433922 MSC     SAIGYE   GYEECGYEDC40280F                                                                 120484 PAI                         C                                  2          
+030882 GSTU2686596 MSC     SAIGYE   GYEECGYEDC20257F                                                                 130382 PAI                         C                                  2          
+030682 MSCU2227411 MSC     SAIGYE   GYEECGYEDC20262F        0002                                                     130482 PAI                         C                                  2          
+030608                     PAIPUS           DC20022F                                                              ZLO                                         C                                       
+030482 MSCU2997686 MSC     SAIGYE   GYEECGYEDC20262F        0003                                                     130582 PAI                         C                                  2          
+030404 TRIU1802364 MSCCLL  CLLBUN   MEXMXLMRDC20207F                                                          0002                                            C                                       
+030406 MSCU2418911 MSCCLL  CLLBUN   FXTGBFXTDC20270F                                                          0003                                            C                                       
+030282 GSTU4914714 MSC     SAIGYE   GYEECGYEDC20262F        0004                                                     130682 PAI                         C                                  2          
+030202 TTNU2026234 MSCCLL  CLLBUN   FXTGBFXTDC20270F                                                          0004                                            C                                       
+030204 MSCU2449147 MSCCLL  CLLBUN   BUNCOBUNDC20200F                                                                                                          C                                       
+030102 TPHU6812877 MSCCLL  CLLPUS   PUSJPUKBDC20235F                                                          0005                                            C                                       
+030104 CAXU2110309 MSCCLL  CLLPUS   PUSJPUKBDC20224F                                                          0006                                            C                                       
+030304 GSTU5614774 MSCCLL  CLLBUN   BUNCOBUNDC20216F                                                                                                          C                                       
+030306 GSTU3808024 MSCCLL  CLLBUN   BUNCOBUNDC20215F                                                                                                          C                                       
+030508                     PAIPUS           DC20022F                                                              ZLO                                         C                                       
+030582 MSCU2643682 MSC     SAIGYE   GYEECGYEDC20262F        0005                                                     130782 PAI                         C                                  2          
+030782 MSCU2892031 MSC     SAIGYE   GYEECGYEDC20262F        0006                                                     130882 PAI                         C                                  2          
+070882 INBU3781842 MSC     SAIGYE   GYEECGYEDC20262F        0007                                                     110882 PAI                         C                                  2          
+070682 TRLU2099986 MSC     SAIGYE   GYEECGYEDC20166F        0008                                                     110784 PAI                         C                                  2          
+070404                     PAICWN           DC20022F                                                              ZLO                                         C                                       
+070406                     PAICWN           DC20022F                                                              ZLO                                         C                                       
+070202                     PAICWN           DC20022F                                                              ZLO                                         C                                       
+070204                     PAICWN           DC20022F                                                              ZLO                                         C                                       
+070206                     PAICWN           DC20022F                                                              ZLO                                         C                                       
+070304                     PAICWN           DC20022F                                                              ZLO                                         C                                       
+070306                     PAICWN           DC20022F                                                              ZLO                                         C                                       
+070582 ITLU6459764 MSC     SAIGYE   GYEECGYEDC20084F        0009                                                     110782 PAI                         C                                  2          
+070508                     PAICWN           DC20022F                                                              ZLO                                         C                                       
+070782 CRXU2491370 MSC     SAIGYE   GYEECGYEDC20262F        0010                                                     110682 PAI                         C                                  2          
+080608                     PAICWN           DC40031F                                                              ZLO                                         C                                       
+080408                     PAICWN           DC40029F                                                              ZLO                                         C                                       
+080482 LPIU5903747 MSC     CLLGYE           RF40045E                                                                 120486 PAI                         C     C                            2          
+080208                     PAICWN           DC40029F                                                              ZLO                                         C                                       
+080282 CRLU5180164 MSC     SAIGYE   GYEECGYERFHC291F   -18C                                                          120284 PAI                         C                                  2          
+080002 MSCU8871020 MSCCLL  CLLCWN   CWNCNSHADCHC254F                                                          0007                                            C                                       
+080004 MSCU8280120 MSCCLL  CLLCWN   CWNCNSHADCHC251F                                                          0008                                            C                                       
+080006                     PAIZLO           DCHC30 F                                                                                                          C                                       
+080182 CRLU5166438 MSC     SAIGYE   GYEECGYERFHC291F   -18C                                                          120282 PAI                         C                                  2          
+080102 MSCU8232992 MSCCLL  CLLCWN   CWNCNSHADCHC251F                                                          0009                                                                                    
+080104 GLDU0676721 MSCCLL  CLLCWN   CWNCNSHADCHC250F                                                          0010                                            C                                       
+080106                     PAIZLO           DCHC30 F                                                                                                          C                                       
+080382 MSCU7330377 MSC     CLLGYE           RF40045E                                                                 120686 PAI                         C     C                            2          
+080308                     PAICWN           DC40029F                                                              ZLO                                         C                                       
+090882 TRLU3481083 MSC     SAIGYE   GYEECGYEDC20267F                                                                 110382 PAI                         C                                  2          
+090606                     PAIPUS           DC20023F                                                              ZLO                                         C                                       
+090682 ITLU6967852 MSC     SAIGYE   GYEECGYEDC20024F                                                                 110384 PAI                         C                                  2          
+090402                     PAIPUS           DC20022F                                                              ZLO                                         C                                       
+090404                     PAIPUS           DC20022F                                                              ZLO                                         C                                       
+090406                     PAIPUS           DC20022F                                                              ZLO                                         C                                       
+090202                     PAICWN           DC20022F                                                              ZLO                                         C                                       
+090204                     PAICWN           DC20022F                                                              ZLO                                         C                                       
+090206                     PAIPUS           DC20022F                                                              ZLO                                         C                                       
+090302                     PAICWN           DC20022F                                                              ZLO                                         C                                       
+090304                     PAICWN           DC20022F                                                              ZLO                                         C                                       
+090306                     PAICWN           DC20022F                                                              ZLO                                         C                                       
+090582 MSCU1031466 MSC     SAIGYE   GYEECGYEDC20262F        0011                                                     110582 PAI                         C                                  2          
+090506                     PAICWN           DC20022F                                                              ZLO                                         C                                       
+090508                     PAICWN           DC20023F                                                              ZLO                                         C                                       
+090782 MSCU1058410 MSC     SAIGYE   GYEECGYEDC20262F        0012                                                     110482 PAI                         C                                  2          
+110604                     PAIFPO           DC2022 F                                                                                                          C                                       
+110606                     PAIFPO           DC2022 F                                                                                                          C                                       
+110608                     PAIBUN           DC2022 F                                                                                                          C                                       
+110402                     PAIFPO           DC2022 F                                                                                                          C                                       
+110404                     PAIFPO           DC2022 F                                                                                                          C                                       
+110406                     PAIFPO           DC2022 F                                                                                                          C                                       
+110202                     PAIFPO           DC2023 F                                                                                                          C                                       
+110204                     PAIFPO           DC2023 F                                                                                                          C                                       
+110206                     PAIFPO           DC2024 F                                                                                                          C                                       
+110002                     PAIFPO           DC2023 F                                                                                                          C                                       
+110004                     PAIFPO           DC2023 F                                                                                                          C                                       
+110006                     PAIFPO           DC2023 F                                                                                                          C                                       
+110102                     PAIFPO           DC2023 F                                                                                                          C                                       
+110104                     PAIFPO           DC2023 F                                                                                                          C                                       
+110106                     PAIFPO           DC2023 F                                                                                                          C                                       
+110108                     PAIBUN           DC2023 F                                                                                                          C                                       
+110302                     PAIFPO           DC2024 F                                                                                                          C                                       
+110304                     PAIFPO           DC2024 F                                                                                                          C                                       
+110306                     PAIFPO           DC2024 F                                                                                                          C                                       
+110308                     PAIFPO           DC2027 F                                                                                                          C                                       
+110504                     PAIFPO           DC2022 F                                                                                                          C                                       
+110506                     PAIFPO           DC2022 F                                                                                                          C                                       
+110508                     PAIFPO           DC2022 F                                                                                                          C                                       
+120682                     PAIBUN           DCHC29 F                                                                                                          C                                       
+120482                     PAIFPO           RFHC30 F                                                                                                          C                                       
+120282                     PAIFPO           RFHC31 F                                                                                                          C                                       
+120182                     PAIFPO           RFHC29 F                                                                                                          C                                       
+120382                     PAIFPO           RFHC30 F                                                                                                          C                                       
+120582                     PAIBUN           DCHC29 F                                                                                                          C                                       
+130602                     PAIFPO           DC2022 F                                                                                                          C                                       
+130604                     PAIFPO           DC2023 F                                                                                                          C                                       
+130606                     PAIFPO           DC2023 F                                                                                                          C                                       
+130608                     PAIBUN           DC2023 F                                                                                                          C                                       
+130402                     PAIFPO           DC2022 F                                                                                                          C                                       
+130404                     PAIFPO           DC2022 F                                                                                                          C                                       
+130406                     PAIFPO           DC2022 F                                                                                                          C                                       
+130202                     PAIFPO           DC2022 F                                                                                                          C                                       
+130204                     PAIFPO           DC2022 F                                                                                                          C                                       
+130206                     PAIFPO           DC2022 F                                                                                                          C                                       
+130002                     PAIFPO           DC2022 F                                                                                                          C                                       
+130004                     PAIFPO           DC2022 F                                                                                                          C                                       
+130006                     PAIFPO           DC2022 F                                                                                                          C                                       
+130102                     PAIFPO           DC2022 F                                                                                                          C                                       
+130104                     PAIFPO           DC2022 F                                                                                                          C                                       
+130106                     PAIFPO           DC2022 F                                                                                                          C                                       
+130108                     PAIBUN           DC2022 F                                                                                                          C                                       
+130302                     PAIFPO           DC2022 F                                                                                                          C                                       
+130304                     PAIFPO           DC2022 F                                                                                                          C                                       
+130306                     PAIFPO           DC2022 F                                                                                                          C                                       
+130502                     PAIFPO           DC2022 F                                                                                                          C                                       
+130504                     PAIFPO           DC2022 F                                                                                                          C                                       
+130506                     PAIFPO           DC2022 F                                                                                                          C                                       
+130508                     PAIFPO           DC2022 F                                                                                                          C                                       
+170602 MSCU1523316 MSC     SAIGYE   GYEECGYEDC20267F                                                                                                                                                  
+170402 MSCU2085425 MSC     SAIGYE   GYEECGYEDC20267F                                                                                                                                                  
+170202 TRIU3623619 MSC     SAIGYE   GYEECGYEDC20191F        0013                                                                                                                                      
+180604 ICSU1739106 MSC     SAIGYE   GYEECGYEDC40273F                                                                                                                                                  
+180606 CARU4520713 MSC     SAIGYE   GYEECGYEDCHC292F        0014                                                                                                                                      
+180404 MSCU4140753 MSC     SAIGYE   GYEECGYEDC40284F                                                                                                                                                  
+180406 ITLU5367468 MSC     SAIGYE   GYEECGYEDC40283F                                                                                                                                                  
+180408 TRLU6269268 MSC     SAIGYE   GYEECGYEDC40276F                                                                                                                                                  
+180204 TPHU5156820 MSC     SAIGYE   GYEECGYEDC40281F                                                                                                                                                  
+180206 TRIU4268102 MSC     SAIGYE   GYEECGYEDC40281F                                                                                                                                                  
+180208 TPHU4737455 MSC     SAIGYE   GYEECGYEDC40278F                                                                                                                                                  
+180002 MSCU4300152 MSC     SAIGYE   GYEECGYEDC40279F                                                                                                                                                  
+180004 SCZU3224583 MSC     SAIGYE   GYEECGYEDC40281F                                                                                                                                                  
+180006 CAXU4147272 MSC     SAIGYE   GYEECGYEDC40275F                                                                                                                                                  
+180008 INBU5319704 MSC     SAIGYE   GYEECGYEDC40284F                                                                                                                                                  
+180102 MSCU4194370 MSC     SAIGYE   GYEECGYEDC40277F                                                                                                                                                  
+180104 GSTU6254287 MSC     SAIGYE   GYEECGYEDC40280F                                                                                                                                                  
+180106 MSCU4132228 MSC     SAIGYE   GYEECGYEDC40282F                                                                                                                                                  
+180108 IEAU4613642 MSC     SAIGYE   GYEECGYEDC40278F                                                                                                                                                  
+180302 TGHU4060453 MSC     SAIGYE   GYEECGYEDC40278F                                                                                                                                                  
+180304 MSCU4075405 MSC     SAIGYE   GYEECGYEDC40246F                                                                                                                                                  
+180306 ICSU1795408 MSC     SAIGYE   GYEECGYEDC40276F                                                                                                                                                  
+180308 CRXU4989948 MSC     SAIGYE   GYEECGYEDC40133F                                                                                                                                                  
+180502 TRIU5858696 MSC     SAIGYE   GYEECGYEDC40280F                                                                                                                                                  
+180504 MSCU8733865 MSC     SAIGYE   GYEECGYEDCHC270F        0015                                                                                                                                      
+180506 TRIU4338278 MSC     SAIGYE   GYEECGYEDC40235F                                                                                                                                                  
+190602 ICSU4520410 MSC     SAIGYE   GYEECGYEDC20266F                                                                                                                                                  
+190402 MSCU2263569 MSC     SAIGYE   GYEECGYEDC20267F                                                                                                                                                  
+190202 MSCU2048210 MSC     SAIGYE   GYEECGYEDC20267F                                                                                                                                                  
+210602 MSCU1315185 MSC     SAIBUN   BUNCOBUNDC20285F                                                                                                                                                  
+210682 MSCU2391451 MSC     SAIBUN   BUNCOBUNDC20236F                                                                                                                                                  
+210402 MSCU2020717 MSC     SAIBUN   BUNCOBUNDC20285F                                                                                                                                                  
+210482 MSCU1557260 MSC     SAIBUN   BUNCOBUNDC20236F                                                                                                                                                  
+210202 MSCU1164474 MSC     SAIBUN   BUNCOBUNDC20242F                                                                                                                                                  
+210204 MSCU2867907 MSC     SAIBUN   BUNCOBUNDC20095F        0016                                                                                                                                      
+210282 GSTU5250559 MSC     SAIBUN   BUNCOBUNDC20236F                                                                                                                                                  
+210002 GSTU2861678 MSC     SAIBUN   BUNCOBUNDC20285F                                                                                                                                                  
+210004 GSTU4073490 MSC     SAIBUN   BUNCOBUNDC20228F                                                                                                                                                  
+210102 CAXU2417954 MSC     SAIBUN   BUNCOBUNDC20243F                                                                                                                                                  
+210104 TPHU6548785 MSC     SAIBUN   BUNCOBUNDC20224F                                                                                                                                                  
+210302 MSCU2678858 MSC     SAIBUN   BUNCOBUNDC20285F                                                                                                                                                  
+220882 CAXU4931495 MSC     SAIBUN   BUNCOBUNDCHC214F                                                                                                                                                  
+220604 MSCU8000810 MSC     SAIBUN   BUNCOBUNDCHC214F                                                                                                                                                  
+220606 TRLU6395646 MSC     SAIBUN   BUNCOBUNDC40270F        0017                                                                                                                                      
+220404 ICSU1273527 MSC     SAIBUN   BUNCOBUNDC40303F                                                                                                                                                  
+220406 MSCU4228295 MSC     SAIBUN   BUNCOBUNDC40303F                                                                                                                                                  
+220408 GSTU7400621 MSC     SAIBUN   BUNCOBUNDC40285F                                                                                                                                                  
+220206 MSCU4210906 MSC     SAIBUN   BUNCOBUNDC40293F                                                                                                                                                  
+220208 GSTU6779948 MSC     SAIBUN   BUNCOBUNDC40293F                                                                                                                                                  
+220006 MSCU4031460 MSC     SAIBUN   BUNCOBUNDC40285F                                                                                                                                                  
+220008 CRXU4161254 MSC     SAIBUN   BUNCOBUNDC40285F                                                                                                                                                  
+220182 MSCU8196827 MSC     SAIBUN   BUNCOBUNDCHC159F        0018                                                                                                                                      
+220184 MSCU8954064 MSC     SAIBUN   BUNCOBUNDCHC214F                                                                                                                                                  
+220106 GSTU8918847 MSC     SAIBUN   BUNCOBUNDC40303F                                                                                                                                                  
+220108 MSCU4183251 MSC     SAIBUN   BUNCOBUNDC40285F                                                                                                                                                  
+220382 MSCU8239702 MSC     SAIBUN   BUNCOBUNDCHC160F        0019                                                                                                                                      
+220384 MSCU8216841 MSC     SAIBUN   BUNCOBUNDCHC214F                                                                                                                                                  
+220304 TOLU2249400 MSC     SAIBUN   BUNCOBUNDC40285F                                                                                                                                                  
+220306 TRIU4553521 MSC     SAIBUN   BUNCOBUNDC40285F                                                                                                                                                  
+220308 CRXU4262265 MSC     SAIBUN   BUNCOBUNDC40285F                                                                                                                                                  
+220582 MSCU8821009 MSC     SAIBUN   BUNCOBUNDCHC122F        0020                                                                                                                                      
+220584 MSCU8754786 MSC     SAIGYE   GYEECGYEDCHC301F                                                                                                                                                  
+220502 TRLU6199387 MSC     SAIBUN   BUNCOBUNDC40290F                                                                                                                                                  
+220504 MSCU8165702 MSC     SAIBUN   BUNCOBUNDCHC214F                                                                                                                                                  
+220506 MSCU8767994 MSC     SAIBUN   BUNCOBUNDCHC296F        0021                                                                                                                                      
+220782 MSCU8925600 MSC     SAIBUN   BUNCOBUNDCHC125F        0022                                                                                                                                      
+220784 MSCU8970208 MSC     SAIGYE   GYEECGYEDCHC219F                                                                                                                                                  
+230602 MSCU2955947 MSC     SAIBUN   BUNCOBUNDC20285F                                                                                                                                                  
+230682 TOLU2368009 MSC     SAIBUN   BUNCOBUNDC20123F        0023                                                                                                                                      
+230684 CRXU2985100 MSC     SAIBUN   BUNCOBUNDC20107F                                                                                                                                                  
+230402 TRLU2217435 MSC     SAIBUN   BUNCOBUNDC20258F                                                                                                                                                  
+230482 MSCU2099990 MSC     SAIBUN   BUNCOBUNDC20116F                                                                                                                                                  
+230484 MSCU2264360 MSC     SAIGYE   GYEECGYEDC20262F        0024                                                                                                                                      
+230202 BHCU3001600 MSC     SAIBUN   BUNCOBUNDC20236F                                                                                                                                                  
+230204 MSCU1251270 MSC     SAIBUN   BUNCOBUNDC20236F                                                                                                                                                  
+230282 MSCU2987970 MSC     SAIBUN   BUNCOBUNDC20236F                                                                                                                                                  
+230002 MSCU1169521 MSC     SAIBUN   BUNCOBUNDC20236F                                                                                                                                                  
+230004 MSCU1259271 MSC     SAIBUN   BUNCOBUNDC20190F                                                                                                                                                  
+230102 MSCU1509909 MSC     SAIBUN   BUNCOBUNDC20236F                                                                                                                                                  
+230104 MSCU2089354 MSC     SAIBUN   BUNCOBUNDC20237F                                                                                                                                                  
+230302 MSCU2086524 MSC     SAIBUN   BUNCOBUNDC20236F                                                                                                                                                  
+270882                     PAIPUS           DC20023F                                                              ZLO                                         C                                       
+270604 CATU2831755 MSC     SAIZLO   ZLOMXZLODC20183F                                                                                                                                                  
+270606 MSCU1516641 MSC     SAIZLO   ZLOMXZLODC20156F                                                                                                                                                  
+270682                     PAIPUS           DC20023F                                                              ZLO                                         C                                       
+270482                     PAIPUS           DC20023F                                                              ZLO                                         C                                       
+270382                     PAIPUS           DC20023F                                                              ZLO                                         C                                       
+270582                     PAIPUS           DC20023F                                                              ZLO                                         C                                       
+270504 TRIU3302687 MSC     SAIZLO   ZLOKRPUSDC20238F                                                                                                                                                  
+270782                     PAIPUS           DC20023F                                                              ZLO                                         C                                       
+280402 CAXU9730940 MSC     SAIZLO   ZLOMXMEXDCHC110F                                                                                                                                                  
+280404 TRIU9038709 MSC     SAIZLO   ZLOMXMEXDCHC110F                                                                                                                                                  
+280406 INKU2205336 MSC     SAIZLO   ZLOMXMEXDCHC110F                                                                                                                                                  
+280202 TRLU5751721 MSC     SAIZLO   ZLOCNTAODCHC304F                                                                                                                                                  
+280204 MSCU8987643 MSC     SAIZLO   ZLOCNTAODCHC304F                                                                                                                                                  
+280206 MSCU8824380 MSC     SAIZLO   ZLOUSLGBDCHC086F                                                                                                                                                  
+280282 CRLU7200275 MSC     SAIZLO   ZLOMXZLORFHC298F   -18C                                                                                                                                           
+280284                     PAICWN           DC40029F                                                              ZLO                                         C                                       
+280002 ITLU7375122 MSC     SAIZLO   ZLOCNTAODCHC304F                                                                                                                                                  
+280004 TRLU5717558 MSC     SAIZLO   ZLOCNTAODCHC304F                                                                                                                                                  
+280006 LCRU9603604 MSC     SAIZLO   ZLOMXMEXDCHC088F                                                                                                                                                  
+280182 TRLU1914672 MSC     SAIZLO   ZLOUSLGBRFHC230F   -22C                                                                                                                                           
+280184                     PAICWN           DC40029F                                                              ZLO                                         C                                       
+280102 MSCU8891808 MSC     SAIZLO   ZLOMXZLODCHC231F                                                                                                                                                  
+280104 INKU2897213 MSC     SAIZLO   ZLOMXMEXDCHC111F                                                                                                                                                  
+280106 INKU2273372 MSC     SAIZLO   ZLOMXMEXDCHC111F                                                                                                                                                  
+280302 TRIU9046432 MSC     SAIZLO   ZLOMXMEXDCHC110F                                                                                                                                                  
+280304 TRLU5422623 MSC     SAIZLO   ZLOMXMEXDCHC096F                                                                                                                                                  
+280306 MSCU8254076 MSC     SAIZLO   ZLOMXMEXDCHC096F                                                                                                                                                  
+280506 MSCU4185995 MSC     SAIZLO   ZLOMXZLODC40192F                                                                                                                                                  
+290882                     PAIPUS           DC20230F                                                              ZLO                                         C                                       
+290606 MLCU2293220 MSC     SAIZLO   ZLOKRPUSDC20221F                                                                                                                                                  
+290682                     PAIPUS           DC20023F                                                              ZLO                                         C                                       
+290482                     PAIPUS           DC20022F                                                              ZLO                                         C                                       
+290382                     PAIPUS           DC20022F                                                              ZLO                                         C                                       
+290384                     PAIPUS           DC20022F                                                              ZLO                                         C                                       
+290582                     PAIPUS           DC20022F                                                              ZLO                                         C                                       
+290584                     PAIPUS           DC20022F                                                              ZLO                                         C                                       
+290782                     PAIPUS           DC20023F                                                              ZLO                                         C                                       
+290784                     PAIPUS           DC20023F                                                              ZLO                                         C                                       
+310884 TPHU8060948 MSC     GYEZLO      MXZLODC20022E                                                                                                                                                  
+310886 CRXU2766375 MSC     GYEZLO      MXZLODC20022E                                                                                                                                                  
+310888 MSCU1066117 MSC     GYEZLO      MXZLODC20022E                                                                                                                                                  
+310890 CRXU2709360 MSC     GYEZLO      MXZLODC20022E                                                                                                                                                  
+310682 MSCU2619958 MSC     GYEZLO      MXZLODC20022E                                                                                                                                                  
+310684 CRXU2137201 MSC     GYEZLO      MXZLODC20022E                                                                                                                                                  
+310686 MSCU2834605 MSC     GYEZLO      MXZLODC20022E                                                                                                                                                  
+310688 GSTU4059487 MSC     GYEZLO      MXZLODC20022E                                                                                                                                                  
+310690 MSCU1027770 MSC     GYEZLO      MXZLODC20022E                                                                                                                                                  
+310482 MSCU2450385 MSC     GYEZLO      MXZLODC20022E                                                                                                                                                  
+310484 TPHU6809132 MSC     GYEZLO      MXZLODC20022E                                                                                                                                                  
+310486 ITLU6952214 MSC     GYEZLO      MXZLODC20022E                                                                                                                                                  
+310488 MSCU2803728 MSC     GYEZLO      MXZLODC20022E                                                                                                                                                  
+310490 MSCU2305900 MSC     GYEZLO      MXZLODC20022E                                                                                                                                                  
+310282 TTNU2990087 MSC     GYEZLO      MXZLODC20022E                                                                                                                                                  
+310284 MSCU1244923 MSC     GYEZLO      MXZLODC20022E                                                                                                                                                  
+310286 GSTU4687776 MSC     GYEZLO      MXZLODC20022E                                                                                                                                                  
+310288 MSCU2054614 MSC     GYEZLO      MXZLODC20022E                                                                                                                                                  
+310290 MSCU2456383 MSC     GYEZLO      MXZLODC20022E                                                                                                                                                  
+310292 INBU3280624 MSC     GYEZLO      MXZLODC20022E                                                                                                                                                  
+310182 MSCU2615356 MSC     GYEZLO      MXZLODC20022E                                                                                                                                                  
+310184 XTRU2116403 MSC     GYEZLO      MXZLODC20022E                                                                                                                                                  
+310186 CAXU2207367 MSC     GYEZLO      MXZLODC20022E                                                                                                                                                  
+310188 ICSU4660514 MSC     GYEZLO      MXZLODC20022E                                                                                                                                                  
+310190 MSCU1556454 MSC     GYEZLO      MXZLODC20022E                                                                                                                                                  
+310192 TPHU6782556 MSC     GYEZLO      MXZLODC20022E                                                                                                                                                  
+310382 MSCU1073883 MSC     GYEZLO      MXZLODC20022E                                                                                                                                                  
+310384 TPHU6185273 MSC     GYEZLO      MXZLODC20022E                                                                                                                                                  
+310386 GSTU2147362 MSC     GYEZLO      MXZLODC20022E                                                                                                                                                  
+310388 TTNU2606145 MSC     GYEZLO      MXZLODC20022E                                                                                                                                                  
+310390 MSCU1274595 MSC     GYEZLO      MXZLODC20022E                                                                                                                                                  
+310582 TPXU7099318 MSC     GYEZLO      MXZLODC20022E                                                                                                                                                  
+310584 TRIU3728815 MSC     GYEZLO      MXZLODC20022E                                                                                                                                                  
+310586 IEAU2802781 MSC     GYEZLO      MXZLODC20022E                                                                                                                                                  
+310588 MSCU2647604 MSC     GYEZLO      MXZLODC20022E                                                                                                                                                  
+310590 TPHU8047735 MSC     GYEZLO      MXZLODC20022E                                                                                                                                                  
+310784 MSCU2400471 MSC     GYEZLO      MXZLODC20022E                                                                                                                                                  
+310786 TPHU2458488 MSC     GYEZLO      MXZLODC20022E                                                                                                                                                  
+310788 MSCU1246145 MSC     GYEZLO      MXZLODC20022E                                                                                                                                                  
+310790 MSCU1003799 MSC     GYEZLO      MXZLODC20022E                                                                                                                                                  
+330884 TRIU2794324 MSC     GYEZLO      MXZLODC20022E                                                                                                                                                  
+330886 TPHU6057760 MSC     GYEZLO      MXZLODC20022E                                                                                                                                                  
+330888 CAXU2250701 MSC     GYEZLO      MXZLODC20022E                                                                                                                                                  
+330890 GSTU2599254 MSC     GYEZLO      MXZLODC20022E                                                                                                                                                  
+330682 ITLU6901048 MSC     GYEZLO      MXZLODC20022E                                                                                                                                                  
+330684 MSCU1089391 MSC     GYEZLO      MXZLODC20022E                                                                                                                                                  
+330686 MSCU2769557 MSC     GYEZLO      MXZLODC20022E                                                                                                                                                  
+330688 TOLU2564228 MSC     GYEZLO      MXZLODC20022E                                                                                                                                                  
+330690 MSCU1535003 MSC     GYEZLO      MXZLODC20022E                                                                                                                                                  
+330482 ITLU6914929 MSC     GYEZLO      MXZLODC20022E                                                                                                                                                  
+330484 MSCU1155636 MSC     GYEZLO      MXZLODC20022E                                                                                                                                                  
+330486 GSTU4775218 MSC     GYEZLO      MXZLODC20022E                                                                                                                                                  
+330488 MSCU2951598 MSC     GYEZLO      MXZLODC20022E                                                                                                                                                  
+330490 TPHU6834346 MSC     GYEZLO      MXZLODC20022E                                                                                                                                                  
+330282 MSCU2628435 MSC     GYEZLO      MXZLODC20022E                                                                                                                                                  
+330284 GSTU2854982 MSC     GYEZLO      MXZLODC20022E                                                                                                                                                  
+330286 TPHU8312715 MSC     GYEZLO      MXZLODC20022E                                                                                                                                                  
+330288 GSTU5932501 MSC     GYEZLO      MXZLODC20022E                                                                                                                                                  
+330290 CAXU6304920 MSC     GYEZLO      MXZLODC20022E                                                                                                                                                  
+330292 SCZU7678100 MSC     GYEZLO      MXZLODC20022E                                                                                                                                                  
+330182 MSCU2601922 MSC     GYEZLO      MXZLODC20022E                                                                                                                                                  
+330184 MSCU1180500 MSC     GYEZLO      MXZLODC20022E                                                                                                                                                  
+330186 MSCU2347783 MSC     GYEZLO      MXZLODC20022E                                                                                                                                                  
+330188 MSCU2752317 MSC     GYEZLO      MXZLODC20022E                                                                                                                                                  
+330190 CRXU2617860 MSC     GYEZLO      MXZLODC20022E                                                                                                                                                  
+330192 MSCU2027096 MSC     GYEZLO      MXZLODC20022E                                                                                                                                                  
+330382 GSTU2645220 MSC     GYEZLO      MXZLODC20022E                                                                                                                                                  
+330384 CAXU2379129 MSC     GYEZLO      MXZLODC20022E                                                                                                                                                  
+330386 PRSU2108734 MSC     GYEZLO      MXZLODC20022E                                                                                                                                                  
+330388 GSTU4607683 MSC     GYEZLO      MXZLODC20022E                                                                                                                                                  
+330390 TRIU3865910 MSC     GYEZLO      MXZLODC20022E                                                                                                                                                  
+330582 MSCU2292090 MSC     GYEZLO      MXZLODC20022E                                                                                                                                                  
+330584 CRXU2384536 MSC     GYEZLO      MXZLODC20022E                                                                                                                                                  
+330586 ITLU6635544 MSC     GYEZLO      MXZLODC20022E                                                                                                                                                  
+330588 ITLU8243814 MSC     GYEZLO      MXZLODC20022E                                                                                                                                                  
+330590 TPHU6471446 MSC     GYEZLO      MXZLODC20022E                                                                                                                                                  
+330784 MSCU2400002 MSC     GYEZLO      MXZLODC20022E                                                                                                                                                  
+330786 MSCU1144056 MSC     GYEZLO      MXZLODC20022E                                                                                                                                                  
+330788 TPHU6963472 MSC     GYEZLO      MXZLODC20022E                                                                                                                                                  
+330790 ITLU6748746 MSC     GYEZLO      MXZLODC20022E                                                                                                                                                  
+***Refer to the following remark.                                                                                                                                                                     
+0001 Transhipment Via Freeport                                             BN/            /            /            /            /*BB/LBH/                                                            
+0002 Transhipment Via Freeport                                             BN/            /            /            /            /*BB/LBH/                                                            
+0003 Transhipment Via Freeport                                             BN/            /            /            /            /*BB/LBH/                                                            
+0004 Transhipment Via Freeport                                             BN/            /            /            /            /*BB/LBH/                                                            
+0005 Transhipment Via Manzanillo                                           BN/            /            /            /            /*BB/LBH/                                                            
+0006 Transhipment Via Manzanillo                                           BN/            /            /            /            /*BB/LBH/                                                            
+0007 Transhipment Via Manzanillo                                           BN/            /            /            /            /*BB/LBH/                                                            
+0008 Transhipment Via Manzanillo                                           BN/            /            /            /            /*BB/LBH/                                                            
+0009 Transhipment via Manzanillo                                           BN/            /            /            /            /*BB/LBH/                                                            
+0010 Transhipment via Manzanillo                                           BN/            /            /            /            /*BB/LBH/                                                            
+***Refer to the following IMDG.                                                                                                                                                                       
+0001003 1266                                                                                                                                                                                          
+000200511486                                                                                                                                                                                          
+000300511486                                                                                                                                                                                          
+000400511486                                                                                                                                                                                          
+000500511486                                                                                                                                                                                          
+000600511486                                                                                                                                                                                          
+000700511486                                                                                                                                                                                          
+000800221956                                                                                                                                                                                          
+000900211950                                                                                                                                                                                          
+001000511486                                                                                                                                                                                          
+001100511486                                                                                                                                                                                          
+001200511486                                                                                                                                                                                          
+001300331272                                                                                                                                                                                          
+001400321263                                                                                                                                                                                          
+001401 93082                                                                                                                                                                                          
+001402321210                                                                                                                                                                                          
+001500 92211                                                                                                                                                                                          
+001600311993                                                                                                                                                                                          
+001700 92211                                                                                                                                                                                          
+001800211950                                                                                                                                                                                          
+001900211950                                                                                                                                                                                          
+002000211950                                                                                                                                                                                          
+002100321866                                                                                                                                                                                          
+002200211950                                                                                                                                                                                          
+002300211950                                                                                                                                                                                          
+002400511486                                                                                                                                                                                          

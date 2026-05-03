@@ -1,0 +1,358 @@
+$604MSSU/MSC SHAULA          /31R         /MSC SHAULA  /POL:GYE/20030203/RECORD=0349/            /                                                                                                    
+$600PORT ROTATION/                                                                                                                                                                                    
+050406 TPHU8082628 MSC     SAIBUN   BUNCOBUNDC20179F                                                                                                                                                  
+050206 IEAU2264372 MSC     SAIBUN   BUNCOBUNDC20149F                                                                                                                                                  
+050282 TPHU6851739 MSCCLL  CLLBUN   BUNCOBUNDC20222F                                                                                                          C                                       
+050106 GSTU2171435 MSC     SAIBUN   BUNCOBUNDC20049F                                                                                                                                                  
+050182 XTRU2038321 MSCCLL  CLLBUN   BUNCOBUNDC20222F                                                                                                          C                                       
+050306 TPHU6951804 MSC     SAIBUN   BUNCOBUNDC20233F                                                                                                                                                  
+050382 CRXU2095657 MSCCLL  CLLBUN   BUNCOBUNDC20222F                                                                                                          C                                       
+060882 MSCU8327568 MSC     SAIBUN   BUNCOBUNDCHC128F                                                                                                                                                  
+060682 MSCU8230860 MSC     SAIBUN   BUNCOBUNDCHC129F                                                                                                                                                  
+060482 MSCU8048990 MSC     SAIBUN   BUNCOBUNDCHC143F                                                                                                                                                  
+060582 MSCU8243770 MSC     SAIBUN   BUNCOBUNDCHC144F                                                                                                                                                  
+060782 MSCU8244870 MSC     SAIBUN   BUNCOBUNDCHC150F                                                                                                                                                  
+070404 TRLU3460795 MSC     SAIBUN   BUNCOBUNDC20239F                                                                                                                                                  
+070406 MSCU2305140 MSC     SAIBUN   BUNCOBUNDC20034F                                                                                                                                                  
+070202 GSTU2370993 MSC     SAIBUN   BUNCOBUNDC20278F                                                                                                                                                  
+070204 IEAU2231949 MSC     SAIBUN   BUNCOBUNDC20233F                                                                                                                                                  
+070206 MSCU1084390 MSC     SAIBUN   BUNCOBUNDC20235F                                                                                                                                                  
+070282 CRXU1771079 MSCCLL  CLLBUN   BUNCOBUNDC20061F                                                                                                          C                                       
+070284 MSCU1648843 MSC     GYEBUN   BUNCOBUNDC20054F                                                                                                          C                            2          
+070102 GSTU2132697 MSC     SAIBUN   BUNCOBUNDC20233F                                                                                                                                                  
+070104 ITLU6944163 MSC     SAIBUN   BUNCOBUNDC20239F                                                                                                                                                  
+070106 ICSU4481611 MSC     SAIBUN   BUNCOBUNDC20068F                                                                                                                                                  
+070182 MSCU2347818 MSCCLL  CLLBUN   BUNCOBUNDC20222F                                                                                                          C                                       
+070184 RMCU1140856 MSC     GYEFPO   HOUUSHOUTK20035E                                                                                                          C                            2          
+070304 TPHU6816430 MSC     SAIBUN   BUNCOBUNDC20239F                                                                                                                                                  
+070306 MSCU2418887 MSC     SAIBUN   BUNCOBUNDC20283F                                                                                                                                                  
+070382 MSCU2875055 MSCCLL  CLLBUN   BUNCOBUNDC20222F                                                                                                          C                                       
+070384 RMCU5345108 MSC     GYEFPO   HOUUSHOUTK20035E                                                                                                          C                            2          
+090606 MSCU2310531 MSC     SVEBUN   BUNCOBUNDC20233F                                                                                                                                                  
+090404 TRIU3917526 MSC     SVEBUN   BUNCOBUNDC20233F                                                                                                                                                  
+090406 CRXU2878800 MSC     SVEBUN   BUNCOBUNDC20233F                                                                                                                                                  
+090202 MSCU2608296 MSC     SVEBUN   BUNCOBUNDC20245F                                                                                                                                                  
+090204 TPHU6655166 MSC     SVEBUN   BUNCOBUNDC20238F                                                                                                                                                  
+090206 MSCU2369360 MSC     SVEBUN   BUNCOBUNDC20233F                                                                                                                                                  
+090102 TTNU2618450 MSC     SVEBUN   BUNCOBUNDC20245F                                                                                                                                                  
+090104 TOLU2389824 MSC     SVEBUN   BUNCOBUNDC20238F                                                                                                                                                  
+090106 MSCU2850946 MSC     SVEBUN   BUNCOBUNDC20233F                                                                                                                                                  
+090304 MSCU2454483 MSC     SVEBUN   BUNCOBUNDC20238F                                                                                                                                                  
+090306 CLOU2410725 MSC     SVEBUN   BUNCOBUNDC20233F                                                                                                                                                  
+090506 MSCU2333202 MSC     SVEBUN   BUNCOBUNDC20233F                                                                                                                                                  
+100882 MSCU8369162 MSC     SAIBUN   BUNCOBUNDCHC104F                                                                                                                                                  
+100884 GSTU7310744 MSC     GYEBUN           DC40044E                                                                                                          C                                       
+100886 TRLU4724932 MSC     GYEBUN           DC40044E                                                                                                          C                                       
+100682 MSCU8290730 MSC     SAIBUN   BUNCOBUNDCHC124F                                                                                                                                                  
+100684 XTRU1370516 MSC     GYEBUN           DC40044E                                                                                                          C                                       
+100686 TRIU5213866 MSC     GYEBUN           DC40044E                                                                                                          C                                       
+100482 MSCU8219877 MSC     SAIBUN   BUNCOBUNDCHC115F                                                                                                                                                  
+100484 TOLU3624764 MSCCLL  CLLBUN   BUNCOBUNDC40240F        0001                                                                                              C                                       
+100486 MSCU4025030 MSC     GYEBUN           DC40044E                                                                                                          C                                       
+100282 MSCU8083590 MSC     SAIBUN   BUNCOBUNDCHC120F                                                                                                                                                  
+100284 MSCU8925889 MSC     SAIBUN   BUNCOBUNDCHC129F                                                                                                                                                  
+100286 ITLU5510687 MSC     GYEBUN           DC40044E                                                                                                          C                                       
+100182 MSCU8024962 MSC     SAIBUN   BUNCOBUNDCHC127F                                                                                                                                                  
+100184 MSCU8060126 MSC     SAIBUN   BUNCOBUNDCHC105F                                                                                                                                                  
+100382 MSCU8065175 MSC     SAIBUN   BUNCOBUNDCHC102F                                                                                                                                                  
+100384 TRLU4001656 MSC     GYEBUN           DC40044E                                                                                                          C                                       
+100582 MSCU8933631 MSC     SAIBUN   BUNCOBUNDCHC129F                                                                                                                                                  
+100584 MSCU4214732 MSC     GYEBUN           DC40044E                                                                                                          C                                       
+100586 TRLU4333795 MSC     GYEBUN           DC40044E                                                                                                          C                                       
+100782 MSCU8243370 MSC     SAIBUN   BUNCOBUNDCHC111F                                                                                                                                                  
+100784 GSTU9401078 MSC     GYEBUN           DC40044E                                                                                                          C                                       
+100786 PRSU4059156 MSC     GYEBUN           DC40044E                                                                                                          C                                       
+111082 TPHU8125798 MSCCLL  CLLBUN   BUNCOBUNDC20069F        0002                                                                                              C                                       
+110604 ITLU6685720 MSC     SVEBUN   BUNCOBUNDC20233F                                                                                                                                                  
+110606 MSCU2641967 MSC     SVEBUN   BUNCOBUNDC20243F                                                                                                                                                  
+110402 TPHU6704363 MSC     SVEBUN   BUNCOBUNDC20238F                                                                                                                                                  
+110404 TPHU8142157 MSC     SVEBUN   BUNCOBUNDC20233F                                                                                                                                                  
+110406 MSCU1793501 MSC     SVEBUN   BUNCOBUNDC20238F                                                                                                                                                  
+110202 GSTU4353383 MSC     SVEBUN   BUNCOBUNDC20238F                                                                                                                                                  
+110204 IEAU2826309 MSC     SVEBUN   BUNCOBUNDC20233F                                                                                                                                                  
+110206 MSCU2830739 MSC     SVEBUN   BUNCOBUNDC20238F                                                                                                                                                  
+110102 TPHU6470990 MSC     SVEBUN   BUNCOBUNDC20238F                                                                                                                                                  
+110104 GSTU2420230 MSC     SVEBUN   BUNCOBUNDC20233F                                                                                                                                                  
+110106 TPHU6515821 MSC     SVEBUN   BUNCOBUNDC20238F                                                                                                                                                  
+110302 MSCU2987158 MSC     SVEBUN   BUNCOBUNDC20238F                                                                                                                                                  
+110304 MSCU2808139 MSC     SVEBUN   BUNCOBUNDC20233F                                                                                                                                                  
+110306 SCZU7171959 MSC     SVEBUN   BUNCOBUNDC20233F                                                                                                                                                  
+110504 TOLU2471779 MSC     SVEBUN   BUNCOBUNDC20233F                                                                                                                                                  
+110506 MSCU2254016 MSC     SVEBUN   BUNCOBUNDC20233F                                                                                                                                                  
+110708 TRIU1315453 MSC     SVEBUN   BUNCOBUNDC20245F                                                                                                                                                  
+110982 TOLU4248466 MSC     GYEBUN           OT20022E                                                                                                          C                                       
+130806 MSCU1373767 MSCCLL  CLLLGB   LGBUSLGBDC20230F                                                                                                          C                                       
+130808 MSCU1079937 MSCCLL  CLLLGB   LGBUSLGBDC20235F                                                                                                          C                                       
+130604 IEAU2177025 MSCCLL  CLLPUS   PUSJPMIZDC20242F                                                                                                          C                                       
+130606 MSCU2234257 MSCCLL  CLLLGB   LGBUSLGBDC20231F                                                                                                          C                                       
+130402 MSCU2844820 MSCCLL  CLLPUS   PUSJPMIZDC20242F                                                                                                          C                                       
+130404 MSCU2625360 MSCCLL  CLLPUS   PUSJPMIZDC20242F                                                                                                          C                                       
+130406 MSCU1467399 MSCCLL  CLLLGB   LGBUSLGBDC20220F                                                                                                          C                                       
+130202 MSCU2660817 MSCCLL  CLLPUS   PUSJPMIZDC20242F                                                                                                          C                                       
+130204 MSCU1474079 MSCCLL  CLLPUS   PUSJPUKBDC20242F                                                                                                          C                                       
+130206 MSCU1520024 MSCCLL  CLLLGB   LGBUSLGBDC20221F                                                                                                          C                                       
+130208 GSTU4679127 MSCCLL  CLLLGB   ZLOMXZLODC20220F                                                                                                          C                                       
+130504 CAXU2306919 MSCCLL  CLLPUS   PUSJPUKBDC20242F                                                                                                          C                                       
+130506 CRXU2732170 MSCCLL  CLLCWN   CWNCNSHADC2H226F                                                                                                          C                                       
+130706 MSCU1238828 MSCCLL  CLLHKG   LGBUSLGBDC20231F                                                                                                          C                                       
+141082 ICSU1512998 MSC     GYEBUN           DC40044E                                                                                                          C                                       
+141084 ICSU1364294 MSC     GYEBUN           DC40044E                                                                                                          C                                       
+141086 TRLU6273231 MSC     GYEBUN           DC40044E                                                                                                          C                                       
+140882 TPHU5185242 MSC     GYEBUN           DC40044E                                                                                                          C                                       
+140884 MSCU4027562 MSC     GYEBUN           DC40044E                                                                                                          C                                       
+140886 TPHU4715733 MSC     GYEBUN           DC40044E                                                                                                          C                                       
+140682 TRIU4277383 MSC     GYEBUN           DC40044E                                                                                                          C                                       
+140684 IEAU4211807 MSC     GYEBUN           DC40044E                                                                                                          C                                       
+140686 TPHU5021399 MSC     GYEBUN           DC40044E                                                                                                          C                                       
+140482 TRLU6273714 MSC     GYEBUN           DC40044E                                                                                                          C                                       
+140484 TOLU2194530 MSC     GYEBUN           DC40044E                                                                                                          C                                       
+140486 ITLU5286474 MSC     GYEBUN           DC40044E                                                                                                          C                                       
+140582 ICSU1793745 MSC     GYEBUN           DC40044E                                                                                                          C                                       
+140584 TOLU2056037 MSC     GYEBUN           DC40044E                                                                                                          C                                       
+140782 CRXU4651879 MSC     GYEBUN           DC40044E                                                                                                          C                                       
+140784 TRIU4649942 MSC     GYEBUN           DC40044E                                                                                                          C                                       
+140786 TPHU5003939 MSC     GYEBUN           DC40044E                                                                                                          C                                       
+140982 TRIU5854047 MSC     GYEBUN           DC40044E                                                                                                          C                                       
+140984 SCZU3023038 MSC     GYEBUN           DC40044E                                                                                                          C                                       
+140986 TOLU3718267 MSC     GYEBUN           DC40044E                                                                                                          C                                       
+150804 MSCU2226185 MSCCLL  CLLHKG   HKGHKHKGDC20300F                                                                                                          C                                       
+150806 TTNU3635831 MSCCLL  CLLLGB   LGBUSLGBDC20214F                                                                                                          C                                       
+150808 MSCU1760452 MSCCLL  CLLLGB   LGBUSLGBDC20230F                                                                                                          C                                       
+150602 MSCU2243496 MSCCLL  CLLPUS   PUSJPMIZDC20242F                                                                                                          C                                       
+150604 MSCU1230072 MSCCLL  CLLHKG   HKGHKHKGDC20225F                                                                                                          C                                       
+150606 TPHU6739396 MSCCLL  CLLLGB   LGBUSLGBDC20238F                                                                                                          C                                       
+150402 CRXU2109010 MSCCLL  CLLPUS   PUSJPMIZDC20242F                                                                                                          C                                       
+150404 PRSU2207906 MSCCLL  CLLHKG   HKGHKHKGDC20300F                                                                                                          C                                       
+150406 TTNU2609099 MSCCLL  CLLLGB   LGBUSLGBDC20235F                                                                                                          C                                       
+150202 MSCU2323098 MSCCLL  CLLPUS   PUSJPMIZDC20242F                                                                                                          C                                       
+150204 MSCU1375836 MSCCLL  CLLHKG   HKGHKHKGDC20234F                                                                                                          C                                       
+150206 SCZU7387450 MSCCLL  CLLLGB   LGBUSLGBDC20220F                                                                                                          C                                       
+150208 MSCU2415492 MSCCLL  CLLLGB   LGBUSLGBDC20222F                                                                                                          C                                       
+150102 MSCU1144159 MSCCLL  CLLPUS   PUSJPUKBDC20242F                                                                                                          C                                       
+150104 MSCU1220330 MSCCLL  CLLHKG   HKGHKHKGDC20300F                                                                                                          C                                       
+150106 MSCU1156817 MSCCLL  CLLLGB   LGBUSLGBDC20245F                                                                                                          C                                       
+150182 MSCU1743270 MSC     GYELGB   LGBUSLGBDC20233F                                                                                                          C                            2          
+150184 MSCU1318646 MSC     GYELGB   LGBUSLGBDC20236F                                                                                                          C                            2          
+150302 CAXU2622748 MSCCLL  CLLPUS   PUSJPUKBDC20242F                                                                                                          C                                       
+150304 MSCU1199336 MSCCLL  CLLPUS   PUSJPMIZDC20242F                                                                                                          C                                       
+150306 MSCU2911050 MSCCLL  CLLLGB   LGBUSLGBDC20232F                                                                                                          C                                       
+150382 MSCU1024512 MSC     GYELGB   LGBUSLGBDC20233F                                                                                                          C                            2          
+150384 MSCU2664005 MSC     GYELGB   LGBUSLGBDC20230F                                                                                                          C                                       
+150502 CAXU2186238 MSCCLL  CLLPUS   PUSJPMIZDC20242F                                                                                                          C                                       
+150504 MSCU2918706 MSCCLL  CLLPUS   PUSJPUKBDC20242F                                                                                                          C                                       
+150506 MSCU2363146 MSCCLL  CLLLGB   LGBUSLGBDC20221F                                                                                                          C                                       
+150704 MSCU2087691 MSCCLL  CLLPUS   PUSJPMIZDC20242F                                                                                                          C                                       
+150706 MSCU1632209 MSCCLL  CLLLGB   LGBUSLGBDC20232F                                                                                                          C                                       
+150708 MSCU1787622 MSCCLL  CLLLGB   LGBUSLGBDC20230F                                                                                                          C                                       
+170182 MSCU2420708 MSC     GYEFPO   PAPHTPAPDC20281F                                                                                                          C                            2          
+170184 MSCU2658928 MSC     GYEFPO   HAMDEHAMDC20068F                                                                                                          C                            2          
+170382 MSCU1732912 MSC     GYEFPO   ANRESVLCDC20207F                                                                                                          C                            2          
+170384 GLDU2204684 MSC     GYEFPO   PAPHTPAPDC20286F                                                                                                          C                            2          
+181082 CAXU4135414 MSC     SAIZLO   ZLOMXZLODC40194F                                                                                                                                                  
+181084 GSTU8286344 MSC     GYEBUN           DC40044E                                                                                                          C                            2          
+180804 MSCU8108960 MSC     SAIZLO   ZLOMXMZTDCHC267F                                                                                                                                                  
+180806 GLDU0682447 MSC     SAIZLO   ZLOMXMZTDCHC240F                                                                                                                                                  
+180808 MSCU8107265 MSC     SAIZLO   ZLOMXMEXDCHC084F                                                                                                                                                  
+180810 MSCU8774648 MSC     SAIZLO   ZLOMXMEXDCHC084F                                                                                                                                                  
+180882 TPHU4642508 MSC     SAIZLO   HWACNH34DC40238F                                                                                                                                                  
+180884 MSCU8788852 MSC     SAIZLO   ZLOMXMZTDCHC154F                                                                                                                                                  
+180602 CRXU9364059 MSC     SAIZLO   ZLOMXMZTDCHC139F                                                                                                                                                  
+180604 CRXU9541215 MSC     SAIZLO   ZLOMXMZTDCHC139F                                                                                                                                                  
+180606 MSCU8926653 MSC     SAIZLO   ZLOMXMZTDCHC154F                                                                                                                                                  
+180608 MSCU8862292 MSC     SAIZLO   ZLOMXMZTDCHC154F                                                                                                                                                  
+180682 TRLU6064951 MSC     SAIZLO   ZLOKRPUSDC40237F                                                                                                                                                  
+180684 MSCU8794515 MSC     SAIZLO   ZLOMXMEXDCHC098F                                                                                                                                                  
+180402 MSCU8826994 MSC     SAIZLO   HWACNHWADCHC265F                                                                                                                                                  
+180404 INKU2283935 MSC     SAIZLO   ZLOMXMZTDCHC139F                                                                                                                                                  
+180406 TRIU9150200 MSC     SAIZLO   ZLOMXMZTDCHC138F                                                                                                                                                  
+180408 GLDU0525073 MSC     SAIZLO   ZLOMXMZTDCHC139F                                                                                                                                                  
+180410 MSCU8057689 MSC     SAIZLO   ZLOMXMZTDCHC137F                                                                                                                                                  
+180482 SCZU3036755 MSC     SAIZLO   ZLOMXMEXDC40214F                                                                                                                                                  
+180484 TRLU5750767 MSC     SAIZLO   ZLOMXMEXDCHC098F                                                                                                                                                  
+180202 TRLU5753679 MSC     SAIZLO   TAOCNYT DCHC302F                                                                                                                                                  
+180204 TOLU1507080 MSC     SAIZLO   TAOCNYT DCHC283F                                                                                                                                                  
+180206 TTNU9580989 MSC     SAIZLO   TAOCNYT DCHC275F                                                                                                                                                  
+180208 TRIU9309591 MSC     SAIZLO   HWACNHWADCHC276F                                                                                                                                                  
+180210 INKU2333701 MSC     SAIZLO   ZLOMXMZTDCHC139F                                                                                                                                                  
+180282 MSCU4063493 MSC     SAIZLO   ZLOMXZLODC40306F                                                                                                                                                  
+180284 MSCU8721289 MSC     SAIZLO   ZLOMXZLODCHC299F                                                                                                                                                  
+180102 INKU2330180 MSCCLL  CLLCWN   CWNCNSHADCHC252F                                                                                                          C                                       
+180302 MSCU8883649 MSCCLL  CLLCWN   CWNCNHUIDCHC240F                                                                                                          C                                       
+180582 TRIU8324360 MSCCLL  CLLLGB   ZLOUSLGBRFHC254F    -18C                                                                                                  C                                       
+180584 TPHU4231106 MSC     GYEBUN           DC40044E                                                                                                          C                            2          
+180782 TRLU1793734 MSCCLL  CLLLGB   ZLOUSLG RFHC267F    -20C                                                                                                  C                                       
+180784 MSCU4068598 MSC     GYEBUN           DC40044E                                                                                                          C                            2          
+180982 MSCU8187511 MSCCLL  CLLLGB   ZLOUSLGBDCHC100F                                                                 180502 CLL                         C     C                            2          
+180984 MSCU4302854 MSC     GYEBUN           DC40044E                                                                                                          C                            2          
+190182 MSCU1358103 MSC     GYEFPO   VERMXVERDC20203F                                                                                                          C                            2          
+190382 MSCU1171750 MSC     GYEFPO   PAPHTPAPDC20288F                                                                                                          C                            2          
+190384 MSCU1283560 MSC     GYECHS   CHSUSCHSDC20200F                                                                                                          C                            2          
+220804 MSCU4202393 MSC     SVEBUN   BUNCOBUNDC40294F                                                                                                                                                  
+220806 TPHU5224523 MSC     SVEBUN   BUNCOBUNDC40290F                                                                                                                                                  
+220808 CRXU4944922 MSC     SVEBUN   BUNCOBUNDC40294F                                                                                                                                                  
+220810 TPHU5056121 MSC     SVEBUN   BUNCOBUNDC40287F                                                                                                                                                  
+220812 TRLU6247119 MSC     SVEBUN   BUNCOBUNDC40293F                                                                                                                                                  
+220882 MSCU4188398 MSC     GYEBUN           DC40044E                                                                                                          C                                       
+220602 GSTU9048320 MSC     SVEBUN   BUNCOBUNDC40294F                                                                                                                                                  
+220604 MSCU8123456 MSC     SVEBUN   BUNCOBUNDCHC279F                                                                                                                                                  
+220606 ITLU5439275 MSC     SAIBUN   BUNCOBUNDC40294F                                                                                                                                                  
+220608 GSTU6141892 MSC     SAIBUN   BUNCOBUNDC40232F                                                                                                                                                  
+220610 CRXU4650281 MSC     SAIBUN   BUNCOBUNDC40243F                                                                                                                                                  
+220682 CRXU4071741 MSC     GYEBUN           DC40044E                                                                                                          C                                       
+220684 TRIU5026757 MSC     GYEBUN           DC40044E                                                                                                          C                                       
+220402 IEAU4314322 MSC     GYENYC   NYCUSNYCDC40239F                                                                                                          C                                       
+220404 MSCU4052755 MSC     GYENYC   NYCUSNYCDC40239F                                                                                                          C                                       
+220406 INBU5320351 MSC     GYENYC   NYCUSNYCDC40267F                                                                                                          C                                       
+220408 GSTU9689046 MSC     GYEBUN   BUNCOBUNDCHC290F                                                                                                          C                                       
+220410 GLDU0680779 MSC     GYEBUN   BUNCOBUNDCHC290F                                                                                                          C                                       
+220482 CRXU4268670 MSC     GYEFPO   NEWUSNEWDCHC259F                                                                                                          C                                       
+220484 TRLU4204099 MSC     GYEBUN           DC40044E                                                                                                          C                                       
+220202 CRXU4080511 MSC     GYEFPO   ANRNLAMSDC40240F                                                                                                          C                            2          
+220204 TRIU4251373 MSC     GYEFPO   HAMDEHAMDC40240F                                                                                                          C                            2          
+220206 MSCU4073254 MSC     GYEFPO   HAMDEHAMDC40240F                                                                                                          C                                       
+220208 TRIU9313966 MSC     GYEBUN   BUNCOBUNDCHC240F                                                                                                          C                                       
+220282 MSCU4212405 MSC     GYEFPO   NEWUSNEWDCHC258F                                                                                                          C                                       
+220284 CAXU7087536 MSC     GYEFPO   NEWUSNEWDCHC259F                                                                                                          C                            2          
+220102 MSCU8135930 MSC     SVEBUN   BUNCOBUNDCHC290F                                                                                                                                                  
+220104 MSCU8961377 MSC     SVEBUN   BUNCOBUNDCHC296F                                                                                                                                                  
+220106 MSCU8186304 MSC     SVEBUN   BUNCOBUNDCHC287F                                                                                                                                                  
+220108 MSCU8828024 MSC     SVEBUN   BUNCOBUNDCHC284F                                                                                                                                                  
+220110 GSTU8713683 MSC     SVEBUN   BUNCOBUNDCHC276F                                                                                                                                                  
+220182 MSCU8682388 MSC     SAIBUN   BUNCOBUNDCHC274F                                                                                                                                                  
+220184 MSCU8327151 MSC     SAIBUN   BUNCOBUNDCHC134F                                                                                                                                                  
+220186 MSCU8924136 MSC     SAIBUN   BUNCOBUNDCHC154F                                                                                                                                                  
+220302 CRXU9145750 MSC     SVEBUN   BUNCOBUNDCHC296F                                                                                                                                                  
+220304 MSCU8989142 MSC     SVEBUN   BUNCOBUNDCHC290F                                                                                                                                                  
+220306 MSCU8199364 MSC     SVEBUN   BUNCOBUNDCHC290F                                                                                                                                                  
+220308 TRLU5758182 MSC     SVEBUN   BUNCOBUNDCHC295F                                                                                                                                                  
+220310 MSCU8039448 MSC     SVEBUN   BUNCOBUNDCHC293F                                                                                                                                                  
+220382 TRIU9048060 MSC     SAIBUN   BUNCOBUNDCHC224F                                                                                                                                                  
+220384 MSCU8155601 MSC     SAIBUN   BUNCOBUNDCHC120F                                                                                                                                                  
+220386 MSCU8126666 MSC     SAIBUN   BUNCOBUNDCHC124F                                                                                                                                                  
+220502 MSCU8239169 MSC     SVEBUN   BUNCOBUNDCHC289F                                                                                                                                                  
+220504 MSCU8313820 MSC     SVEBUN   BUNCOBUNDCHC293F                                                                                                                                                  
+220506 TRLU5712258 MSC     SVEBUN   BUNCOBUNDCHC289F                                                                                                                                                  
+220508 TGHU7029699 MSC     SVEBUN   BUNCOBUNDCHC296F                                                                                                                                                  
+220510 MSCU8734310 MSC     SVEBUN   BUNCOBUNDCHC296F                                                                                                                                                  
+220582 MSCU8316650 MSC     SAIBUN   BUNCOBUNDCHC133F                                                                                                                                                  
+220584 MSCU8326068 MSC     SAIBUN   BUNCOBUNDCHC147F                                                                                                                                                  
+220586 MSCU8186562 MSC     SAIBUN   BUNCOBUNDCHC136F                                                                                                                                                  
+220704 MSCU8777591 MSC     SVEBUN   BUNCOBUNDCHC290F                                                                                                                                                  
+220706 MSCU8890123 MSC     SVEBUN   BUNCOBUNDCHC293F                                                                                                                                                  
+220708 MSCU8194357 MSC     SVEBUN   BUNCOBUNDCHC292F                                                                                                                                                  
+220710 MSCU8117129 MSC     SVEBUN   BUNCOBUNDCHC288F                                                                                                                                                  
+220782 TTNU5218689 MSC     SAIBUN   BUNCOBUNDC40245F                                                                                                                                                  
+220784 ICSU1631493 MSC     SAIBUN   BUNCOBUNDC40288F                                                                                                                                                  
+220982 GLDU4025292 MSC     SAIBUN   BUNCOBUNDC40245F                                                                                                                                                  
+220984 MSCU4016716 MSC     SAIBUN   BUNCOBUNDC40291F                                                                                                                                                  
+220986 MSCU8750219 MSC     SAIBUN   BUNCOBUNDCHC144F                                                                                                                                                  
+261082 MSCU8705816 MSC     SVEZLO   ZLOMXMZTDCHC264F                                                                                                                                                  
+261084 LCRU9604344 MSC     SAIZLO   ZLOMXMZTDCHC137F                                                                                                                                                  
+260804 MSCU4069824 MSC     SVEZLO   ZLOMXMZTDC40264F                                                                                                                                                  
+260806 GSTU6538616 MSC     SVEZLO   ZLOMXMZTDC40264F                                                                                                                                                  
+260808 TRIU5008310 MSC     SVEZLO   ZLOMXMZTDC40264F                                                                                                                                                  
+260810 GSTU9445965 MSC     SVEZLO   ZLOMXMZTDC40264F                                                                                                                                                  
+260812 CRXU4646358 MSC     SVEZLO   ZLOMXMZTDC40264F                                                                                                                                                  
+260882 MSCU8753727 MSC     SVELGB   LGBUSLGBDCHC209F                                                                                                                                                  
+260884 CRXU9162187 MSC     SVELGB   LGBUSLGBDCHC163F                                                                                                                                                  
+260602 MSCU8766200 MSC     SVEZLO   ZLOMXMZTDCHC248F                                                                                                                                                  
+260604 MSCU8033964 MSC     SVEZLO   ZLOMXZLODCHC226F                                                                                                                                                  
+260606 MSCU8238809 MSC     SVEZLO   ZLOMXZLODCHC226F                                                                                                                                                  
+260608 MSCU8324126 MSC     SVEZLO   ZLOMXZLODCHC226F                                                                                                                                                  
+260610 MSCU8785473 MSC     SVEZLO   ZLOMXMZTDCHC244F                                                                                                                                                  
+260682 MSCU8918832 MSC     SVELGB   LGBUSLGBDCHC291F                                                                                                                                                  
+260684 MSCU8000364 MSC     SVELGB   LGBUSLGBDCHC150F                                                                                                                                                  
+260402 MSCU8007456 MSC     SVEZLO   ZLOMXMZTDCHC220F                                                                                                                                                  
+260404 MSCU8760428 MSC     SVEZLO   ZLOMXMZTDCHC227F                                                                                                                                                  
+260406 MSCU8008719 MSC     SVEZLO   ZLOMXMZTDCHC225F                                                                                                                                                  
+260408 MSCU8835234 MSC     SVEZLO   ZLOMXMZTDCHC240F                                                                                                                                                  
+260410 TPHU4924034 MSC     SVEZLO   ZLOMXMZTDCHC245F                                                                                                                                                  
+260482 MSCU8799100 MSC     SVELGB   LGBUSLGBDCHC242F                                                                                                                                                  
+260484 TPHU4933400 MSC     SVELGB   LGBUSLGBDCHC215F                                                                                                                                                  
+260202 MSCU8946428 MSC     SVEZLO   ZLOMXMZTDCHC264F                                                                                                                                                  
+260204 MSCU8243180 MSC     SVEZLO   ZLOMXZLODCHC226F                                                                                                                                                  
+260206 MSCU8980926 MSC     SVEZLO   ZLOMXZLODCHC299F                                                          0001                                                                                    
+260208 CRXU9751973 MSC     SVEZLO   ZLOMXZLODCHC299F                                                          0002                                                                                    
+260210 TRLU5762222 MSC     SVEZLO   ZLOMXZLODCHC271F                                                          0003                                                                                    
+260282 GSTU7745984 MSC     SVEZLO   ZLOMXMZTDCHC301F                                                                                                                                                  
+260284 GCEU6626894 MSC     SAIZLO   ZLOMXZLORFHC288F     1C                                                                                                                                           
+260102 MSCU8946346 MSC     SVEZLO   ZLOMXMZTDCHC249F                                                                                                                                                  
+260104 TOLU1574746 MSC     SVEZLO   ZLOMXMZTDCHC264F                                                                                                                                                  
+260106 MSCU8734331 MSC     SVEZLO   ZLOMXMZTDCHC264F                                                                                                                                                  
+260108 GSTU9803591 MSC     SVEZLO   ZLOMXMZTDCHC264F                                                                                                                                                  
+260110 CLHU8121910 MSC     SVEZLO   ZLOMXMZTDCHC264F                                                                                                                                                  
+260182 MSCU8745697 MSC     SVEZLO   ZLOMXMZTDCHC286F                                                                                                                                                  
+260184 CAXU4842361 MSC     SAIZLO   ZLOMXMZTDCHC139F                                                                                                                                                  
+260302 MSCU8014373 MSC     SVEZLO   ZLOMXMZTDCHC253F                                                                                                                                                  
+260304 MSCU8800599 MSC     SVEZLO   ZLOMXMZTDCHC255F                                                                                                                                                  
+260306 TRLU5466637 MSC     SVEZLO   ZLOMXMZTDCHC248F                                                                                                                                                  
+260308 ITLU7360652 MSC     SVEZLO   ZLOMXMZTDCHC240F                                                                                                                                                  
+260310 MSCU8189134 MSC     SVEZLO   ZLOMXMZTDCHC274F                                                                                                                                                  
+260382 GLDU0682811 MSC     SVEZLO   ZLOMXMZTDCHC230F                                                                                                                                                  
+260384 CRXU5829440 MSC     SAIZLO   ZLOMXMEXRF40280F     0C                                                                                                                                           
+260502 MSCU8964972 MSC     SVEZLO   ZLOMXMZTDCHC268F                                                                                                                                                  
+260504 MSCU8847554 MSC     SVEZLO   ZLOMXMZTDCHC279F                                                                                                                                                  
+260506 TRLU5641508 MSC     SVEZLO   ZLOMXMZTDCHC293F                                                                                                                                                  
+260508 INKU2289255 MSC     SVEZLO   ZLOMXMZTDCHC291F                                                                                                                                                  
+260510 GSTU9867554 MSC     SVEZLO   ZLOMXMZTDCHC296F                                                                                                                                                  
+260582 MSCU8103315 MSC     SVEZLO   ZLOMXMZTDCHC222F                                                                                                                                                  
+260584 MSCU7330818 MSC     SAIZLO   ZLOMXMEXRF40286F     0C                                                                                                                                           
+260704 MSCU8982678 MSC     SVEZLO   ZLOMXMZTDCHC263F                                                                                                                                                  
+260706 MSCU8012869 MSC     SVEZLO   ZLOMXMZTDCHC251F                                                                                                                                                  
+260708 TOLU2265443 MSC     SVEZLO   ZLOMXMZTDCHC251F                                                                                                                                                  
+260710 GSTU7576170 MSC     SVEZLO   ZLOMXMZTDCHC248F                                                                                                                                                  
+260782 TRLU5711945 MSC     SVEZLO   ZLOMXMZTDCHC273F                                                                                                                                                  
+260784 TRIU9049468 MSC     SAIZLO   ZLOMXMZTDCHC138F                                                                                                                                                  
+260982 GLDU0674035 MSC     SVEZLO   ZLOMXMZTDCHC273F                                                                                                                                                  
+260984 MSCU8051090 MSC     SAIZLO   ZLOMXMZTDCHC139F                                                                                                                                                  
+290804 MSCU2750850 MSC     SAIZLO   ZLOMXMEXDC20193F                                                                                                                                                  
+290602 ITLU6738286 MSC     SVEZLO   ZLOHKHKGDC20225F                                                                                                                                                  
+290604 MSCU1042239 MSC     SAIZLO   ZLOMXZLODC20231F                                                                                                                                                  
+290402 TPHU2460171 MSC     SVEZLO   ZLOHKHKGDC20221F                                                                                                                                                  
+290404 MSCU1059669 MSC     SAIZLO   ZLOMXZLODC20230F                                                                                                                                                  
+290202 CRXU2082407 MSC     SVEZLO   ZLOMXMZTDC20240F                                                                                                                                                  
+290204 TTNU2603953 MSC     SAIZLO   ZLOMXZLODC20230F                                                                                                                                                  
+290502 SCZU7618353 MSC     SAIZLO   ZLOKRPUSDC20222F                                                                                                                                                  
+290504 MSCU2745719 MSC     SAIZLO   ZLOMXMEXDC20193F                                                                                                                                                  
+290704 PRSU2186613 MSC     SAIZLO   ZLOUSLGBDC20036F                                                                                                                                                  
+290706 CRXU1272871 MSC     GYEFPO   ANRROCNDDC20094F                                                                                                          C                                       
+301082 ICSU1887000 MSC     GYEBUN           DC40044E                                                                                                          C                                       
+300882 TRLU1907858 MSC     GYENYC   NYCUSNYCRFHC270F    -18C                                                                                                  C                            2          
+300884 TRLU9207700 MSC     GYEBUN           DC40044E                                                                                                          C                            2          
+300682 CRLU7202149 MSC     GYENYC   NYCUSNYCRFHC270F    -18C                                                                                                  C                            2          
+300684 CAXU4115402 MSC     GYEBUN           DC40044E                                                                                                          C                                       
+300482 MSCU4009996 MSC     GYEBUN           DC40044E                                                                                                          C                            2          
+310602 MSCU1478794 MSC     SVELGB   LGBUSLGBDC20288F                                                                                                                                                  
+310604 IEAU2810200 MSC     SAIZLO   LGBUSR19DC20068F                                                                                                                                                  
+310402 IPXU2236530 MSC     SVELGB   LGBUSLGBDC20288F                                                                                                                                                  
+310404 TPHU6550186 MSC     SVELGB   LGBUSLGBDC20214F                                                                                                                                                  
+310202 TRLU2181287 MSC     SVELGB   LGBUSLGBDC20288F                                                                                                                                                  
+310204 CRXU1209307 MSC     SVELGB   LGBUSLGBDC20288F                                                                                                                                                  
+310102 MSCU1089853 MSC     SVELGB   LGBUSLGBDC20288F                                                                                                                                                  
+310104 TTNU2602896 MSC     SVELGB   LGBUSLGBDC20288F                                                                                                                                                  
+310302 MSCU2242946 MSC     SVELGB   LGBUSLGBDC20296F                                                                                                                                                  
+310304 CARU2151154 MSC     SVELGB   LGBUSLGBDC20288F                                                                                                                                                  
+310502 TEXU3547120 MSC     SVELGB   LGBUSLGBDC20283F                                                                                                                                                  
+310504 GSTU5803058 MSC     SAIZLO   ZLOCNNBODC20222F                                                                                                                                                  
+341082 MLCU5046800 MSC     GYEBUN           DC40044E                                                                                                          C                                       
+340882 TRLU1793457 MSC     GYEFPO   MIAUSMIARFHC308F    -18C                                                                                                  C                                       
+340682 CRLU7228312 MSC     GYEMTN   RTPUSRTPRFHC270F    -22C                                                                                                  C                                       
+340684 CRXU4932876 MSC     GYEFPO   NEWUSNEWDC40240F                                                                                                          C                            2          
+340482 MSCU8107460 MSC     SAIBUN   BUNCOBUNDCHC162F                                                                 221082 GYE                         C                                  2          
+340484 MSCU4162808 MSC     GYEFPO   NEWUSNEWDC40262F                                                                                                          C                            2          
+340282 MSCU8955570 MSC     GYELGB   LGBUSLGBDCHC243F                                                                                                          C                            2          
+340284 TRLU5692491 MSC     SAIBUN   BUNCOBUNDCHC117F                                                                 221084 GYE                         C                                  2          
+340182 GSTU6215660 MSC     GYENYC   NYCUSNYCDC40240F                                                                                                          C                            2          
+340184 TPHU4723148 MSC     GYEFPO   NEWUSNEWDC40200F                                                                                                          C                            2          
+340382 CRLU7228483 MSC     GYEMTN   RTPUSRTPRFHC270F    -22C                                                                                                  C                                       
+340384 MSCU8201163 MSC     GYEFPO   NEWUSNEWDC40259F                                                                                                          C                            2          
+340582 TRLU1535806 MSC     GYEMTN   RTPUSRTPRFHC270F    -22C                                                                                                  C                                       
+340782 CRXU4054810 MSC     GYEBUN           DC40044E                                                                                                          C                                       
+340982 ICSU1812911 MSC     GYEBUN           OT40044E                                                                                                          C                                       
+***Refer to the following remark.                                                                                                                                                                     
+0001 INAL DESTINATION :FINAL DESTINATION CUERNAVACA MEXICO                 BN/            /            /            /            /*BB/LBH/                                                            
+0002 INAL DESTINATION :FINAL DESTINATION CUERNAVACA MEXICO                 BN/            /            /            /            /*BB/LBH/                                                            
+0003 INAL DESTINATION :FINAL DESTINATION CUERNAVACA MEXICO                 BN/            /            /            /            /*BB/LBH/                                                            
+***Refer to the following IMDG.                                                                                                                                                                       
+0001003 1266                                                                                                                                                                                          
+0002003 1266                                                                                                                                                                                          

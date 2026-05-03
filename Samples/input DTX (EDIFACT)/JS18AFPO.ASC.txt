@@ -1,0 +1,1203 @@
+$$$/MSJS/MSC  JASMINE        /518A    /            /POL:FPO/30207 /RECORD=1200                /H                                                    
+$$$/PORT ROTATION/                                                                                                                                  
+010882MSCU1797425MSCUSCHSCHSCTG   CTGCOCTGDC20123F                                                                                                  
+010884MCIU0000081MSCUSNEWFPOCTG   CTGCOCTGTK20068F                                                                                                  
+010682MSCU2285193MSCBEANRFPOCLL   CLLPECLLDC20210F       3 2055                                                                                     
+010684GSTU3685233MSCUSNYCFPOCLL   CLLPECLLDC20041F                                                                                                  
+010482MSCU2335170MSCBEANRFPOCLL   CLLPECLLDC20222F       3 2055                                                                                     
+010484GSTU3605161MSCBEANRFPOCLL   CLLPECLLDC20190F       3 1171                                                                                     
+010406MSCU1521442MSCBEANRFPOSAI   SAICLSAIDC20237F                                                                                                  
+010408PONU0997198NDLUSHOUFPOSAI   SAICLSAIDC20239F                                                                                                  
+010410POCU0345642NDLUSNEWFPOSAI   SAICLSAIDC20216F                                                                                                  
+010412POCU0129983NDLUSNYCFPOSAI   SAICLSAIDC20159F                                                                                                  
+010282MSCU2368317MSCBEANRFPOCLL   CLLPECLLDC20223F       3 2055                                                                                     
+010284CLOU2314357MSCBEANRFPOCLL   CLLPECLLDC20166F       3 1120                                                                                     
+010202MSCU2154439MSCUSMTNFPOSAI   SAICLSAIDC20252F                                                                                                  
+010204CAXU2319979MSCUSMTNFPOSAI   SAICLSAIDC20229F                                                                                                  
+010206MSCU2820860MSCUSNYCFPOSAI   SAICLSAIDC20209F                                                                                                  
+010208CARU2157050MSCUSHOUFPOSAI   SAICLSAIDC20188F                                                                                                  
+010210TRIU3763098MSCUSNEWFPOSAI   SAICLSAIDC20215F                                                                                                  
+010212POCU0425856NDLUSHOUFPOSAI   SAICLSAIDC20193F       9 3082                                                                                     
+010082MSCU2257376MSCBEANRFPOCLL   CLLPECLLDC20232F       8 1823                                                                                     
+010084TPHU6207731MSCZADURFPOCLL   CLLPECLLDC20180F       3 1170                                                                                     
+010102MSCU1295962MSCUSMTNFPOSAI   SAICLSAIDC20237F                                                                                                  
+010104MSCU2790955MSCUSMTNFPOSAI   SAICLSAIDC20237F                                                                                                  
+010106GSTU5377013MSCMXLMRFPOSAI   SAICLSAIDC20230F                                                                                                  
+010108MSCU2074210MSCUSNYCFPOSAI   SAICLSAIDC20190F                                                                                                  
+010110TRIU2606514MSCUSHOUFPOSAI   SAICLSAIDC20187F                                                                                                  
+010112TRIU3746022MSCUSHOUFPOSAI   SAICLSAIDC20186F                                                                                                  
+010182TOLU2310218MSCUSHOUFPOCLL   CLLPECLLDC20230F       612078                                                                                     
+010184TPHU8255913MSCBEANRFPOCLL   CLLPECLLDC20185F       3 2055                                                                                     
+010306IEAU2258739MSCMXLMRFPOSAI   SAICLSAIDC20230F                                                                                                  
+010308MSCU1756724MSCUSNYCFPOSAI   SAICLSAIDC20181F                                                                                                  
+010310CAXU2556348MSCGBFXTFPOSAI   SAICLSAIDC20203F                                                                                                  
+010312TRLU9030791MSCUSHOUFPOSAI   SAICLSAIOT20211F AK                 30            1                                                               
+010382CAXU2230881MSCBEANRFPOCLL   CLLPECLLDC20062F                                                                                                  
+010384MSCU2828264MSCBEANRFPOCLL   CLLPECLLDC20166F       3 1120                                                                                     
+010582IEAU2650349MSCBEANRFPOCLL   CLLPECLLDC20223F       3 2055                                                                                     
+010584MSCU1178164MSCUSNYCFPOCLL   CLLPECLLDC20073F       612757                                                                                     
+010782MSCU2400949MSCBEANRFPOCTG   CTGCOCTGDC20122F                                                                                                  
+010784CRXU1218633MSCUSNYCFPOCTG   CTGCOCTGDC20040F                                                                                                  
+020614ITLU5494333MSCUSHOUFPOSAI   SAICLSAIDC40264F                                                                                                  
+020414TOLU6005758MSCBEANRFPOSAI   SAICLSAIOT40290F                                                                                                  
+020214MSCU4161709MSCUSHOUFPOSAI   SAICLSAIDC40273F                                                                                                  
+020114ITLU5342027MSCUSHOUFPOSAI   SAICLSAIDC40264F                                                                                                  
+020514TRIU5817207MSCUSHOUFPOSAI   SAICLSAIDC40261F                                                                                                  
+031082CAXU2229730MSCUSNYCFPOCTG   CTGCOCTGDC20118F                                                                                                  
+031084MSCU2244912MSCUSCHSCHSCTG   CTGCOCTGDC20134F                                                                                                  
+030882MSCU2247362MSCUSCHSCHSCLL   CLLPECLLDC20234F       611689                                                                                     
+030884MSCU2637988MSCUSCHSCHSCLL   CLLPECLLDC20239F       611689                                                                                     
+030682TPHU8225647MSCUSCHSCHSCLL   CLLPECLLDC20238F       611689                                                                                     
+030684MSCU2390326MSCUSCHSCHSCLL   CLLPECLLDC20237F       611689                                                                                     
+030606MSCU1024723MSCUSMTNFPOSAI   SAICLSAIDC20233F                                                                                                  
+030608TRIU3788820MSCBEANRFPOSAI   SAICLSAIDC20237F                                                                                                  
+030610MSCU2067400MSCBEANRFPOSAI   SAICLSAIDC20230F                                                                                                  
+030612MSCU1830668MSCGBFXTFPOSAI   SAICLSAIDC20163F                                                                                                  
+030482ITLU6731044MSCUSCHSCHSCLL   CLLPECLLDC20240F       611689                                                                                     
+030484GSTU5269981MSCUSCHSCHSCLL   CLLPECLLDC20238F       611689                                                                                     
+030402MSCU2850695MSCBEANRFPOSAI   SAICLSAIDC20237F                                                                                                  
+030404GSTU5259448MSCBEANRFPOSAI   SAICLSAIDC20240F                                                                                                  
+030406MSCU1229256MSCBEANRFPOSAI   SAICLSAIDC20237F                                                                                                  
+030408PONU0205536NDLUSNEWFPOSAI   SAICLSAIDC20216F                                                                                                  
+030410PONU0146726NDLUSHOUFPOSAI   SAICLSAIDC20237F                                                                                                  
+030412MSCU2281686MSCGBFXTFPOSAI   SAICLSAIDC20153F                                                                                                  
+030282CRXU2837782MSCUSCHSCHSCLL   CLLPECLLDC20242F       611689                                                                                     
+030284MSCU1744472MSCUSCHSCHSCLL   CLLPECLLDC20266F       611689                                                                                     
+030202MSCU2836790MSCFRLEHFPOSAI   SAICLSAIDC20226F                                                                                                  
+030204MSCU1024385MSCUSMTNFPOSAI   SAICLSAIDC20248F                                                                                                  
+030206TTNU3475749NDLUSHOUFPOSAI   SAICLSAIDC20237F                                                                                                  
+030208MSCU2235910MSCUSHOUFPOSAI   SAICLSAIDC20189F                                                                                                  
+030210LCRU2339716MSCBEANRFPOSAI   SAICLSAIDC20185F                                                                                                  
+030212GSTU2631459MSCUSHOUFPOSAI   SAICLSAIDC20213F                                                                                                  
+030082TRIU3125600MSCUSCHSCHSCLL   CLLPECLLDC20269F       611689                                                                                     
+030084MSCU1339084MSCUSCHSCHSCLL   CLLPECLLDC20236F       611689                                                                                     
+030102SCZU7247273MSCBEANRFPOSAI   SAICLSAIDC20237F                                                                                                  
+030104KNLU3299895NDLUSHOUFPOSAI   SAICLSAIDC20238F                                                                                                  
+030106CRXU2920285MSCBEANRFPOSAI   SAICLSAIDC20230F                                                                                                  
+030108SCZU7209416MSCUSSAVFPOSAI   SAICLSAIDC20176F                                                                                                  
+030110MSCU2122154MSCGBFXTFPOSAI   SAICLSAIDC20204F                                                                                                  
+030112MSCU2665980MSCUSHOUFPOSAI   SAICLSAIDC20198F                                                                                                  
+030182INBU3099405MSCUSCHSCHSCLL   CLLPECLLDC20204F       611689                                                                                     
+030184CRXU2555372MSCUSCHSCHSCLL   CLLPECLLDC20198F       611689                                                                                     
+030302TPHU6279942MSCBEANRFPOSAI   SAICLSAIDC20227F                                                                                                  
+030304MSCU2864533MSCBEANRFPOSAI   SAICLSAIDC20230F                                                                                                  
+030306MSCU2367882MSCUSMTNFPOSAI   SAICLSAIDC20210F                                                                                                  
+030308MSCU1250084MSCUSNYCFPOSAI   SAICLSAIDC20200F                                                                                                  
+030310CRXU2109323MSCBEANRFPOSAI   SAICLSAIDC20192F                                                                                                  
+030312MSCU2946924MSCUSNEWFPOSAI   SAICLSAIDC20158F                                                                                                  
+030314CRXU2312860MSCUSNYCFPOSAI   SAICLSAIDC20131F                                                                                                  
+030382MSCU2168176MSCUSCHSCHSCLL   CLLPECLLDC20237F       611689                                                                                     
+030384GLDU2220962MSCUSCHSCHSCLL   CLLPECLLDC20239F       611689                                                                                     
+030506TOLU2320772MSCBEANRFPOSAI   SAICLSAIDC20237F                                                                                                  
+030508POCU0447789NDLUSHOUFPOSAI   SAICLSAIDC20232F                                                                                                  
+030510MSCU1057408MSCUSMTNFPOSAI   SAICLSAIDC20238F                                                                                                  
+030512POCU0631116NDLUSHOUFPOSAI   SAICLSAIDC20171F                                                                                                  
+030582ITLU6482511MSCBEANRFPOCLL   CLLPECLLDC20222F       3 2055                                                                                     
+030584MSCU1145427MSCUSCHSCHSCLL   CLLPECLLDC20209F       611689                                                                                     
+030782MLCU2536758MSCBEANRFPOCLL   CLLPECLLDC20185F       3 2055                                                                                     
+030982TOLU8104636MSCBRSSZFPOCTG   CTGCOCTGFR20190F                                                                                                  
+051282ICSU4917182MSCGBFXTFPOSAI   SAICLSAIDC20263F                                                                                                  
+051284TIFI3481813MSCXXOPTFPOSAI   SAICLSAIDC20041F                                                                                                  
+051082UTTU2311506MSCUSHOUFPOSAI   SAICLSAITK20202F       311268                                                                                     
+051084TPHU8014794MSCUSHOUFPOARI   ARICLARIDC20217F       612078                                                                                     
+050882KNLU3294635NDLUSHOUFPOSAI   SAICLSAIDC20231F       612078                                                                                     
+050884MSCU1229678MSCUSHOUFPOSAI   SAICLSAIDC20192F       311993                                                                                     
+050804MSCU1729919MSCBEANRFPOSAI   SAICLSAIDC20262F                                                                                                  
+050806MSCU2844265MSCGBFXTFPOSAI   SAICLSAIDC20238F                                                                                                  
+050808MSCU1353400MSCGBFXTFPOSAI   SAICLSAIDC20238F                                                                                                  
+050810INBU3136685NDLUSNYCFPOSAI   SAICLSAIDC20168F                                                                                                  
+050812ITLU6465387MSCUSHOUFPOSAI   SAICLSAIDC20147F       9 3082                                                                                     
+050682XTRU2055801MSCBEANRFPOSAI   SAICLSAIDC20220F       3 1266                                                                                     
+050684CRXU2546093MSCBEANRFPOSAI   SAICLSAIDC20195F       3 1866                                                                                     
+050602PONU0825265NDLUSHOUFPOSAI   SAICLSAIDC20236F                                                                                                  
+050482MSCU2118961MSCGBFXTFPOARI   ARICLARIDC20273F                                                                                                  
+050484MSCU1365144MSCUSNYCFPOARI   ARICLARIDC20141F                                                                                                  
+050402TOLU4679062MSCFRLEHFPOSAI   SAICLSAIOT20294F                                                                                                  
+050404CRXU1761384MSCUSHOUFPOSAI   SAICLSAIDC20222F                                                                                                  
+050406MSCU2842621MSCUSMTNFPOSAI   SAICLSAIDC20156F                                                                                                  
+050408TOLU3228927MSCUSNYCFPOSAI   SAICLSAIDC20121F                                                                                                  
+050282CAXU2158534MSCUSNYCFPOARI   ARICLARIDC20263F                                                                                                  
+050284MSCU1179010MSCUSNEWFPOARI   ARICLARIDC20188F                                                                                                  
+050202MSCU2602770MSCUSCHSCHSSVE   SVECLSVEDC20208F                                                                                                  
+050204MSCU2836450MSCBEANRFPOSAI   SAICLSAIDC20222F                                                                                                  
+050206PONU0138607NDLUSHOUFPOSAI   SAICLSAIDC20180F                                                                                                  
+050208MSCU2948249MSCUSNEWFPOSAI   SAICLSAIDC20135F                                                                                                  
+050082CLOU2371207MSCGBFXTFPOARI   ARICLARIDC20273F                                                                                                  
+050084MSCU1081750MSCMXVERFPOARI   ARICLARIDC20233F                                                                                                  
+050102MSCU2914547MSCUSCHSCHSSVE   SVECLSVEDC20218F                                                                                                  
+050104GSTU2678857MSCBEANRFPOSAI   SAICLSAIDC20230F                                                                                                  
+050106TPHU6438849MSCBEANRFPOSAI   SAICLSAIDC20222F                                                                                                  
+050108TPHU8346973MSCZADURFPOSAI   SAICLSAIDC20141F                                                                                                  
+050182MSCU2944789MSCGBFXTFPOARI   ARICLARIDC20273F                                                                                                  
+050184MSCU1262932MSCZADURFPOARI   ARICLARIDC20149F                                                                                                  
+050302MSCU1034589MSCUSCHSCHSSVE   SVECLSVEDC20208F                                                                                                  
+050304CAXU6118123MSCGBFXTFPOSAI   SAICLSAIDC20238F                                                                                                  
+050306MSCU1042049MSCUSHOUFPOSAI   SAICLSAIDC20219F                                                                                                  
+050308MSCU1830570MSCGBFXTFPOSAI   SAICLSAIDC20163F                                                                                                  
+050382MSCU2181481MSCFRLEHFPOARI   ARICLARIDC20265F                                                                                                  
+050384TRLU2110679MSCZADURFPOARI   ARICLARIDC20174F                                                                                                  
+050502MSCU2650383MSCBEANRFPOSAI   SAICLSAIDC20262F                                                                                                  
+050504KNLU3018792NDLUSHOUFPOSAI   SAICLSAIDC20234F                                                                                                  
+050506MSCU1119860MSCGBFXTFPOSAI   SAICLSAIDC20238F                                                                                                  
+050508TPHU8053661MSCUSHOUFPOSAI   SAICLSAIDC20218F                                                                                                  
+050582MSCU1496571MSCGBFXTFPOARI   ARICLARIDC20273F                                                                                                  
+050584ITLU6906245MSCUSMIAFPOARI   ARICLARIDC20167F                                                                                                  
+050704TRLU2115027MSCBEANRFPOSAI   SAICLSAIDC20222F                                                                                                  
+050706MSCU2333270MSCBEANRFPOSAI   SAICLSAIDC20222F                                                                                                  
+050708MSCU1477859MSCUSMTNFPOSAI   SAICLSAIDC20235F                                                                                                  
+050782TPHU6588345MSCUSHOUFPOARI   ARICLARIDC20121F                                                                                                  
+050982MLCU2924162MSCZADURFPOARI   ARICLARIDC20075F                                                                                                  
+051182TRXU2551087MSCXXOPTFPOSAI   SAICLSAIDC20097F                                                                                                  
+061014OCLU1323085NDLUSHOUFPOSAI   SAICLSAIDC40076F                                                                                                  
+060814TGHU4061104MSCUSNYCFPOSAI   SAICLSAIDC40218F                                                                                                  
+060604CAXU4078253MSCUSHOUFPOSAI   SAICLSAIDC40266F                                                                                                  
+060606GSTU6535915MSCUSHOUFPOSAI   SAICLSAIDC40270F                                                                                                  
+060608TRIU5589745MSCUSHOUFPOSAI   SAICLSAIDC40268F                                                                                                  
+060610GSTU6414662NDLUSHOUFPOSAI   SAICLSAIDC40249F                                                                                                  
+060612PONU1254704NDLUSSAVFPOSAI   SAICLSAIDC40297F                                                                                                  
+060614PONU1260369NDLUSSAVFPOSAI   SAICLSAIDC40287F                                                                                                  
+060410TRLU4024918MSCUSHOUFPOSAI   SAICLSAIDC40280F                                                                                                  
+060412GSTU9346073NDLUSHOUFPOSAI   SAICLSAIDC40243F                                                                                                  
+060414PONU1281443NDLUSHOUFPOSAI   SAICLSAIDC40247F                                                                                                  
+060210TRLU6263700MSCUSHOUFPOSAI   SAICLSAIDC40265F                                                                                                  
+060212KNLU4299478NDLUSSAVFPOSAI   SAICLSAIDC40288F                                                                                                  
+060214GLDU4023704NDLUSSAVFPOSAI   SAICLSAIDC40292F                                                                                                  
+060110MSCU4303315MSCUSHOUFPOSAI   SAICLSAIDC40269F                                                                                                  
+060112TGHU4087860MSCUSHOUFPOSAI   SAICLSAIDC40266F                                                                                                  
+060114GSTU8381275NDLUSSAVFPOSAI   SAICLSAIDC40290F                                                                                                  
+060310TRIU5420101MSCUSHOUFPOSAI   SAICLSAIDC40267F                                                                                                  
+060312FRLU8602477NDLUSHOUFPOSAI   SAICLSAIDC40241F                                                                                                  
+060510MSCU4243730MSCFRLEHFPOSAI   SAICLSAIDC40278F                                                                                                  
+060512KNLU4332730NDLUSHOUFPOSAI   SAICLSAIDC40245F                                                                                                  
+060514ITLU5199786MSCUSMTNFPOSAI   SAICLSAIDC40268F                                                                                                  
+060710TPHU5144860MSCUSMTNFPOSAI   SAICLSAIDC40259F                                                                                                  
+060712TTNU5243790NDLUSSAVFPOSAI   SAICLSAIDC40295F                                                                                                  
+060714PONU1532831NDLUSHOUFPOSAI   SAICLSAIDC40239F                                                                                                  
+060914TRIU5402854MSCUSHOUFPOSAI   SAICLSAIDC40272F                                                                                                  
+071282MSCU1603303MSCGBFXTFPOARI   ARICLARIDC20273F                                                                                                  
+071284MSCU2887354MSCGBFXTFPOARI   ARICLARIDC20039F                                                                                                  
+071082GSTU2453341MSCUSHOUFPOARI   ARICLARIDC20199F       8 2491                                                                                     
+071084ICSU4965350MSCUSMIAFPOARI   ARICLARIDC20172F       8 2794                                                                                     
+071012MSCU1354094MSCBEANRFPOSAI   SAICLSAIDC20222F                                                                                                  
+070882ITLU6957962MSCBEANRFPOARI   ARICLARIDC20130F       3 1993                                                                                     
+070884MSCU2181115MSCZADURFPOARI   ARICLARIDC20051F                                                                                                  
+070804MSCU1328109MSCUSMTNFPOSAI   SAICLSAIDC20257F                                                                                                  
+070806PONU0104248NDLUSHOUFPOSAI   SAICLSAIDC20240F                                                                                                  
+070808TOLU4421756MSCFRLEHFPOSAI   SAICLSAIOT20294F                                                                                                  
+070810MSCU2605450MSCBEANRFPOSAI   SAICLSAIDC20102F                                                                                                  
+070812MSCU1617082MSCUSMTNFPOSAI   SAICLSAIDC20116F                                                                                                  
+070682MSCU2525777MSCBEANRFPOARI   ARICLARIOT20260F                                                                                                  
+070684GSTU4569161MSCZADURFPOARI   ARICLARIDC20107F                                                                                                  
+070602TRIU1609334NDLUSHOUFPOSAI   SAICLSAIDC20230F                                                                                                  
+070482MSCU2424534MSCGBFXTFPOARI   ARICLARIDC20273F                                                                                                  
+070484MSCU2274202MSCFRLEHFPOARI   ARICLARIDC20096F                                                                                                  
+070402PONU0676602NDLUSHOUFPOSAI   SAICLSAIDC20231F                                                                                                  
+070404CLOU2432323MSCMXLMRFPOSAI   SAICLSAIDC20228F                                                                                                  
+070406GCEU4319728MSCUSNYCFPOSAI   SAICLSAIOT20172F                                                                                                  
+070408MSCU1207154MSCUSNYCFPOSAI   SAICLSAIDC20159F                                                                                                  
+070282TRLU3152703MSCUSNYCFPOSAI   SAICLSAIDC20145F       232199                                                                                     
+070284MSCU1339741MSCUSHOUFPOARI   ARICLARIDC20114F                                                                                                  
+070202MSCU1496490MSCUSCHSCHSSAI   SAICLSAIDC20210F                                                                                                  
+070204TPHU2947196MSCBEANRFPOSAI   SAICLSAIDC20222F                                                                                                  
+070206POCU0442318NDLUSHOUFPOSAI   SAICLSAIDC20160F                                                                                                  
+070208MSCU1234740MSCUSHOUFPOSAI   SAICLSAIDC20139F                                                                                                  
+070082MSCU1603685MSCGBFXTFPOARI   ARICLARIDC20273F                                                                                                  
+070084MSCU1510962MSCUSHOUFPOARI   ARICLARIDC20083F                                                                                                  
+070102GSTU5585721MSCUSCHSCHSSAI   SAICLSAIDC20174F                                                                                                  
+070104MSCU2977289MSCBEANRFPOSAI   SAICLSAIDC20222F                                                                                                  
+070106MSCU2146963MSCBEANRFPOSAI   SAICLSAIDC20189F                                                                                                  
+070108MSCU1127296MSCFRLEHFPOSAI   SAICLSAIDC20163F                                                                                                  
+070182MSCU1358654MSCGBFXTFPOARI   ARICLARIDC20273F                                                                                                  
+070184MSCU2022941MSCGBFXTFPOARI   ARICLARIDC20147F                                                                                                  
+070302MSCU2928601MSCUSMTNFPOSAI   SAICLSAIDC20247F                                                                                                  
+070304CRXU2882523MSCBEANRFPOSAI   SAICLSAIDC20222F                                                                                                  
+070306SCZU7147103MSCUSHOUFPOSAI   SAICLSAIDC20186F                                                                                                  
+070308OCLU0892997NDLUSNYCFPOSAI   SAICLSAIDC20159F                                                                                                  
+070382MSCU1648416MSCGBFXTFPOARI   ARICLARIDC20268F                                                                                                  
+070384TRLU2117800MSCMXLMRFPOARI   ARICLARIDC20116F                                                                                                  
+070502CRXU2002510MSCUSNYCFPOSAI   SAICLSAIDC20250F                                                                                                  
+070504GSTU4449886NDLUSHOUFPOSAI   SAICLSAIDC20225F                                                                                                  
+070506TPHU6863920MSCFRLEHFPOSAI   SAICLSAIDC20182F                                                                                                  
+070508MSCU1380180MSCBEANRFPOSAI   SAICLSAIDC20222F                                                                                                  
+070582CRXU2005519MSCBEANRFPOSAI   SAICLSAIDC20085F       9 3077                                                                                     
+070584MSCU1334945MSCUSHOUFPOARI   ARICLARIDC20116F                                                                                                  
+070704TPHU8254331MSCBEANRFPOSAI   SAICLSAIDC20222F                                                                                                  
+070706INBU3276882NDLUSHOUFPOSAI   SAICLSAIDC20237F                                                                                                  
+070708GSTU5930324MSCGBFXTFPOSAI   SAICLSAIDC20263F                                                                                                  
+070782DWAU0000161MSCUSNEWFPOSAI   SAICLSAITK20217F       512015                                                                                     
+070784MSCU1341395MSCGBFXTFPOSAI   SAICLSAIDC20103F       511873                                                                                     
+070912TPHU6718290MSCFRLEHFPOSAI   SAICLSAIDC20236F                                                                                                  
+070982DWAU0000351MSCUSNEWFPOSAI   SAICLSAITK20219F       512015                                                                                     
+070984DWAU0000367MSCUSNEWFPOSAI   SAICLSAITK20222F       512015                                                                                     
+071182PONU0843865NDLUSMTNFPOARI   ARICLARIDC20067F                                                                                                  
+111282MSCU2775539MSCUSHOUFPOCLL   CLLPECLLDC20190F                                                                                                  
+111284GSTU2341233MSCUSHOUFPOCLL   CLLPECLLDC20169F                                                                                                  
+111286TRIU3638769MSCUSHOUFPOCLL   CLLPECLLDC20124F                                                                                                  
+111288    2004712MSCFRLEHFPOCLL   CLLPECLLDC20106F                                                                                                  
+111082CRXU2965490MSCUSHOUFPOCLL   CLLPECLLDC20230F       8 3267                                                                                     
+111084CAXU6306141MSCGBFXTFPOCLL   CLLPECLLDC20142F       8 2585                                                                                     
+111086MSCU1522114MSCUSHOUFPOCLL   CLLPECLLDC20135F                                                                                                  
+111088MSCU2645330MSCGBFXTFPOCLL   CLLPECLLDC20078F                                                                                                  
+111002MSCU1460305MSCUSCHSCHSCLL   CLLPECLLDC20227F                                                                                                  
+111004MSCU1784069MSCUSCHSCHSCLL   CLLPECLLDC20224F                                                                                                  
+111006GLDU2203918MSCBEANRFPOCLL   CLLPECLLDC20290F                                                                                                  
+111008MSCU2941795MSCUSCHSCHSCLL   CLLPECLLDC20230F                                                                                                  
+111010XTRU2025751MSCBEANRFPOCLL   CLLPECLLDC20219F                                                                                                  
+111012GSTU4726194MSCBEANRFPOCLL   CLLPECLLDC20162F                                                                                                  
+110882TRIU3108157MSCGBFXTFPOCLL   CLLPECLLDC20223F                                                                                                  
+110884ICSU4368539MSCBEANRFPOCLL   CLLPECLLDC20164F                                                                                                  
+110886ITLU6986549MSCMXLMRFPOCLL   CLLPECLLDC20142F                                                                                                  
+110888MSCU1467104MSCFRLEHFPOCLL   CLLPECLLDC20092F                                                                                                  
+110802MSCU1386300MSCUSCHSCHSCLL   CLLPECLLDC20221F                                                                                                  
+110804TPXU6884126MSCUSCHSCHSCLL   CLLPECLLDC20229F                                                                                                  
+110806MSCU1125056MSCBEANRFPOCLL   CLLPECLLDC20240F                                                                                                  
+110808MSCU1191818MSCMXLMRFPOCLL   CLLPECLLDC20229F                                                                                                  
+110810TPHU8232440MSCBEANRFPOCLL   CLLPECLLDC20202F                                                                                                  
+110812MSCU2144111MSCUSHOUFPOCLL   CLLPECLLDC20190F                                                                                                  
+110682TRIU6707396MSCBEANRFPOARI   ARICLARIRF20168F   -18C                                                                                           
+110684MSCU2317330MSCBRSSZFPOGYE   GYEECGYEDC20125F       3 1263                                                                                     
+110686CRXU2298660MSCUSHOUFPOCTG   CTGCOCTGDC20235F       612078                                                                                     
+110688XTRU2057168MSCUSJAXJAXCTG   CTGCOCTGDC20181F       3 1993                                                                                     
+110602MSCU1477735MSCUSCHSCHSCLL   CLLPECLLDC20229F                                                                                                  
+110604MSCU2290380MSCUSCHSCHSCLL   CLLPECLLDC20228F                                                                                                  
+110606MSCU1297203MSCBRSSZFPOCLL   CLLPECLLDC20268F                                                                                                  
+110608MSCU1610684MSCGBFXTFPOCLL   CLLPECLLDC20223F                                                                                                  
+110610MSCU1473468MSCGBFXTFPOCLL   CLLPECLLDC20223F                                                                                                  
+110612TPHU8110843MSCUSHOUFPOCLL   CLLPECLLDC20193F                                                                                                  
+110482MSCU2403790MSCUSHOUFPOBUN   BUNCOBUNDC20231F       612078                                                                                     
+110484MSCU2748148MSCBEANRFPOGYE   GYEECGYEDC20085F       3 1866                                                                                     
+110486MSCU2395781MSCUSJAXJAXCTG   CTGCOCTGDC20175F       3 1993                                                                                     
+110402CRXU1761379MSCUSCHSCHSARI   ARICLARIDC20205F                                                                                                  
+110404MSCU2229369MSCUSCHSCHSCLL   CLLPECLLDC20223F                                                                                                  
+110406MSCU2952995MSCBEANRFPOCLL   CLLPECLLDC20290F                                                                                                  
+110408MSCU1856214MSCGBFXTFPOCLL   CLLPECLLDC20223F                                                                                                  
+110410CAXU6118294MSCGBFXTFPOCLL   CLLPECLLDC20223F                                                                                                  
+110412TPHU8149803MSCGBFXTFPOCLL   CLLPECLLDC20223F                                                                                                  
+110282SCZU8766360MSCMXVERFPOBUN   BUNCOBUNTK20292F       8                                                                                          
+110284MSCU1304318MSCFRLEHFPOGYE   GYEECGYEDC20073F       32                                                                                         
+110286MSCU1452193MSCUSHOUFPOCTG   CTGCOCTGDC20275F       612078                                                                                     
+110202MSCU2876107MSCUSCHSCHSARI   ARICLARIDC20191F                                                                                                  
+110204GLDU2204175MSCUSCHSCHSCLL   CLLPECLLDC20227F                                                                                                  
+110206GSTU5160305MSCUSCHSCHSCLL   CLLPECLLDC20233F                                                                                                  
+110208MSCU1352358MSCGBFXTFPOCLL   CLLPECLLDC20223F                                                                                                  
+110210MSCU2761221MSCGBFXTFPOCLL   CLLPECLLDC20223F                                                                                                  
+110212MSCU2279550MSCBEANRFPOCLL   CLLPECLLDC20202F                                                                                                  
+110082SCZU8717448MSCMXLMRFPOBUN   BUNCOBUNTK20288F       8 3265                                                                                     
+110084TRIU3412154MSCGBFXTFPOGYE   GYEECGYEDC20082F       3 1266                                                                                     
+110086MSCU1153680MSCUSNYCFPOGYE   GYEECGYEDC20091F       3 1197                                                                                     
+110088TPHU8000656MSCBEANRFPOCTG   CTGCOCTGDC20180F       3 1276                                                                                     
+110102CRXU2093633MSCUSCHSCHSARI   ARICLARIDC20207F                                                                                                  
+110104MSCU1368539MSCUSCHSCHSCLL   CLLPECLLDC20226F                                                                                                  
+110106TPHU6909810MSCUSCHSCHSCLL   CLLPECLLDC20225F                                                                                                  
+110108CAXU2031299MSCBEANRFPOCLL   CLLPECLLDC20237F                                                                                                  
+110110EXFU1750740MSCUSNEWFPOCLL   CLLPECLLTK20217F       9 3082                                                                                     
+110112MSCU1077045MSCBEANRFPOCLL   CLLPECLLDC20219F                                                                                                  
+110182ICSU0282463MSCMXVERFPOBUN   BUNCOBUNTK20284F       8                                                                                          
+110184TRIU3972626MSCUSHOUFPOGYE   GYEECGYEDC20191F       311276                                                                                     
+110186MSCU1773300MSCUSNEWFPOGYE   GYEECGYEDC20227F       612078                                                                                     
+110302CAXU2452739MSCUSCHSCHSARI   ARICLARIDC20198F                                                                                                  
+110304MSCU2672757MSCUSCHSCHSCLL   CLLPECLLDC20226F                                                                                                  
+110306MSCU1063078MSCBEANRFPOCLL   CLLPECLLDC20290F                                                                                                  
+110308CRXU2870899MSCMXLMRFPOCLL   CLLPECLLDC20228F                                                                                                  
+110310MSCU2669882MSCGBFXTFPOCLL   CLLPECLLDC20238F                                                                                                  
+110312MSCU1298998MSCUSHOUFPOCLL   CLLPECLLDC20183F                                                                                                  
+110382TNLU0240700MSCMXVERFPOBUN   BUNCOBUNTK20295F       8                                                                                          
+110384CRXU2647756MSCUSHOUFPOGYE   GYEECGYEDC20184F       311276                                                                                     
+110386CRXU1768007MSCUSHOUFPOCTG   CTGCOCTGDC20242F       612078                                                                                     
+110502MSCU2933017MSCUSCHSCHSCLL   CLLPECLLDC20228F                                                                                                  
+110504MSCU1492180MSCUSCHSCHSCLL   CLLPECLLDC20204F                                                                                                  
+110506MSCU2227047MSCBEANRFPOCLL   CLLPECLLDC20290F                                                                                                  
+110508MSCU1298771MSCBEANRFPOCLL   CLLPECLLDC20290F                                                                                                  
+110510MSCU1016327MSCGBFXTFPOCLL   CLLPECLLDC20238F                                                                                                  
+110512MSCU2424447MSCGBFXTFPOCLL   CLLPECLLDC20189F                                                                                                  
+110582SCZU8748201MSCMXVERFPOBUN   BUNCOBUNTK20292F       8                                                                                          
+110584MSCU1314234MSCUSNENFPOGYE   GYEECGYEDC20077F       8 2794                                                                                     
+110586MSCU2370910MSCUSNEWFPOCTG   CTGCOCTGDC20155F       3 2733                                                                                     
+110588TRLU3453498MSCUSNEWFPOCTG   CTGCOCTGDC20163F       3 1160                                                                                     
+110702INNU2974016MSCUSCHSCHSCLL   CLLPECLLDC20229F                                                                                                  
+110704MSCU1746048MSCUSCHSCHSCLL   CLLPECLLDC20223F                                                                                                  
+110706MSCU2114740MSCBEANRFPOCLL   CLLPECLLDC20290F                                                                                                  
+110708CRXU2560297MSCGBFXTFPOCLL   CLLPECLLDC20223F                                                                                                  
+110710TIFU3242568MSCUSNEWFPOCLL   CLLPECLLTK20220F       9 3082                                                                                     
+110712MSCU2379939MSCUSHOUFPOCLL   CLLPECLLDC20190F                                                                                                  
+110782TOLU9463950MSCMXVERFPOBUN   BUNCOBUNTK20295F       8                                                                                          
+110784TNLU0240104MSCMXLMRFPOBUN   BUNCOBUNTK20290F       8 3265                                                                                     
+110786TOLU8111070MSCBRSSZFPOCTG   CTGCOCTGFR20214F                                                                                                  
+110902MSCU2740867MSCUSCHSCHSCLL   CLLPECLLDC20226F                                                                                                  
+110904MSCU2654481MSCUSCHSCHSCLL   CLLPECLLDC20221F                                                                                                  
+110906MSCU1379220MSCBEANRFPOCLL   CLLPECLLDC20290F                                                                                                  
+110908TRIU3410721MSCUSHOUFPOCLL   CLLPECLLDC20232F                                                                                                  
+110910MSCU1036690MSCBEANRFPOCLL   CLLPECLLDC20237F                                                                                                  
+110912CRXU2069010MSCUSHOUFPOCLL   CLLPECLLDC20180F                                                                                                  
+110982MSCU1471927MSCUSHOUFPOCLL   CLLPECLLDC20212F                                                                                                  
+110984MSCU2417730MSCUSHOUFPOCLL   CLLPECLLDC20156F                                                                                                  
+110986MSCU1723530MSCUSHOUFPOCLL   CLLPECLLDC20124F                                                                                                  
+110988MSCU1337775MSCFRLEHFPOCLL   CLLPECLLDC20119F                                                                                                  
+111182MSCU1474090MSCUSHOUFPOCLL   CLLPECLLDC20195F                                                                                                  
+111184GSTU2643418MSCBEANRFPOCLL   CLLPECLLDC20164F                                                                                                  
+111186MSCU2113640MSCUSHOUFPOCLL   CLLPECLLDC20136F                                                                                                  
+111188MSCU2885412MSCGBFXTFPOCLL   CLLPECLLDC20148F                                                                                                  
+121014ITLU5600034MSCUSNEWFPOCLL   CLLPECLLDC40237F                                                                                                  
+120814TPHU4118430MSCBEANRFPOCLL   CLLPECLLOT40240F                                                                                                  
+120614MSCU4119165MSCBEANRFPOCLL   CLLPECLLDC40250F                                                                                                  
+120414CRXU4463640MSCBEANRFPOCLL   CLLPECLLDC40260F                                                                                                  
+120214ITLU5285061MSCUSNEWFPOCLL   CLLPECLLDC40261F                                                                                                  
+120114MSCU4010533MSCFRLEHFPOCLL   CLLPECLLDC40304F                                                                                                  
+120314MSCU4270931MSCUSNEWFPOCLL   CLLPECLLDC40261F                                                                                                  
+120514GESU4024284MSCBEANRFPOCLL   CLLPECLLDC40294F                                                                                                  
+120714TRLU4272658MSCUSNYCFPOCLL   CLLPECLLDC40252F                                                                                                  
+120914TTNU4405406MSCUSNYCFPOCLL   CLLPECLLDC40251F                                                                                                  
+131282SCZU7610202MSCGBFXTFPOCLL   CLLPECLLDC20223F                                                                                                  
+131284CRXU1704954MSCBEANRFPOCLL   CLLPECLLDC20172F                                                                                                  
+131286TPXU6825993MSCGBFXTFPOCLL   CLLPECLLDC20072F                                                                                                  
+131082TPHU6982831MSCGBFXTFPOCLL   CLLPECLLDC20223F                                                                                                  
+131084TPHU6427891MSCBEANRFPOCLL   CLLPECLLDC20161F                                                                                                  
+131086MSCU2674148MSCUSHOUFPOCLL   CLLPECLLDC20144F                                                                                                  
+131088CAXU2337885MSCFRLEHFPOCLL   CLLPECLLDC20073F                                                                                                  
+131002TPHU6889631MSCUSCHSCHSCLL   CLLPECLLDC20228F                                                                                                  
+131004MSCU1775175MSCUSCHSCHSCLL   CLLPECLLDC20061F                                                                                                  
+131006PRSU2053333MSCBRSSZFPOCLL   CLLPECLLDC20270F                                                                                                  
+131008MSCU2174013MSCFRLEHFPOCLL   CLLPECLLDC20228F                                                                                                  
+131010MSCU2891035MSCMXLMRFPOCLL   CLLPECLLDC20228F                                                                                                  
+131012MSCU2930888MSCBEANRFPOCLL   CLLPECLLDC20172F                                                                                                  
+130882MSCU2848804MSCUSNYCFPOCLL   CLLPECLLDC20204F       9 2590                                                                                     
+130884MSCU1785954MSCBEANRFPOCLL   CLLPECLLDC20237F                                                                                                  
+130886HLCU2047852NDLFRLEHFPOCLL   CLLPECLLDC20101F                                                                                                  
+130888TRLU2105939MSCZADURFPOCLL   CLLPECLLDC20080F       612757                                                                                     
+130802MTYU3212502MSCUSCHSCHSCLL   CLLPECLLDC20228F                                                                                                  
+130804GSTU2430921MSCUSCHSCHSCLL   CLLPECLLDC20227F                                                                                                  
+130806MSCU2020342MSCBEANRFPOCLL   CLLPECLLDC20290F                                                                                                  
+130808CRXU2773883MSCGBFXTFPOCLL   CLLPECLLDC20223F                                                                                                  
+130810CRXU2849335MSCGBFXTFPOCLL   CLLPECLLDC20223F                                                                                                  
+130812TPXU7099576MSCUSHOUFPOCLL   CLLPECLLDC20191F                                                                                                  
+130682ICSU4959070MSCBEANRFPOBUN   BUNCOBUNDC20220F       411325                                                                                     
+130684MSCU2820664MSCBEANRFPOBUN   BUNCOBUNDC20080F       411325                                                                                     
+130686MSCU1186827MSCUSHOUFPOCTG   CTGCOCTGDC20187F       612078                                                                                     
+130602TRIU2179900MSCUSCHSCHSCLL   CLLPECLLDC20228F                                                                                                  
+130604GSTU2582349MSCUSCHSCHSCLL   CLLPECLLDC20230F                                                                                                  
+130606INBU3781879MSCBEANRFPOCLL   CLLPECLLDC20290F                                                                                                  
+130608MSCU2778498MSCGBFXTFPOCLL   CLLPECLLDC20223F                                                                                                  
+130610GSTU2817309MSCBEANRFPOCLL   CLLPECLLDC20219F                                                                                                  
+130612GSTU4250718MSCGBFXTFPOCLL   CLLPECLLDC20223F                                                                                                  
+130482MSCU1771652MSCUSNEWFPOGYE   GYEECGYEDC20227F       612078                                                                                     
+130484TRIU3632903MSCUSHOUFPOBUN   BUNCOBUNDC20235F       612078                                                                                     
+130486MSCU2170471MSCUSNEWFPOCTG   CTGCOCTGDC20155F       3 2733                                                                                     
+130402ITLU8219593MSCUSCHSCHSARI   ARICLARIDC20208F                                                                                                  
+130404MSCU1074540MSCUSCHSCHSCLL   CLLPECLLDC20085F                                                                                                  
+130406MSCU1108779MSCBEANRFPOCLL   CLLPECLLDC20290F                                                                                                  
+130408MSCU1474700MSCGBFXTFPOCLL   CLLPECLLDC20223F                                                                                                  
+130410MSCU1039873MSCUSMTNFPOCLL   CLLPECLLDC20218F                                                                                                  
+130412CRXU1807865MSCFRLEHFPOCLL   CLLPECLLDC20171F                                                                                                  
+130282GESU8012419MSCMXLMRFPOBUN   BUNCOBUNTK20292F       8 2586                                                                                     
+130284SCZU8749044MSCMXVERFPOBUN   BUNCOBUNTK20262F       8                                                                                          
+130286CAXU2114500MSCUSNEWFPOCTG   CTGCOCTGDC20162F       3 1160                                                                                     
+130202MSCU1163101MSCUSCHSCHSARI   ARICLARIDC20051F                                                                                                  
+130204GSTU2643531MSCUSCHSCHSCLL   CLLPECLLDC20227F                                                                                                  
+130206MSCU2877232MSCUSCHSCHSCLL   CLLPECLLDC20230F                                                                                                  
+130208MSCU2176762MSCFRLEHFPOCLL   CLLPECLLDC20222F                                                                                                  
+130210TPHU6323639MSCGBFXTFPOCLL   CLLPECLLDC20201F       223337                                                                                     
+130212GSTU4754391MSCBEANRFPOCLL   CLLPECLLDC20202F                                                                                                  
+130082GESU8012390MSCMXLMRFPOBUN   BUNCOBUNTK20292F       8 2586                                                                                     
+130084RMCU5348046MSCMXVERFPOBUN   BUNCOBUNTK20291F       8                                                                                          
+130086TRLU3037649MSCUSNEWFPOCTG   CTGCOCTGDC20155F       3 2733                                                                                     
+130102MSCU1831216MSCUSCHSCHSARI   ARICLARIDC20198F                                                                                                  
+130104TRLU2002606MSCUSCHSCHSCLL   CLLPECLLDC20229F                                                                                                  
+130106MSCU2275214MSCUSCHSCHSCLL   CLLPECLLDC20234F                                                                                                  
+130108MSCU2835237MSCMXLMRFPOCLL   CLLPECLLDC20228F                                                                                                  
+130110MSCU2249093MSCGBFXTFPOCLL   CLLPECLLDC20223F                                                                                                  
+130112TRIU2730510MSCBEANRFPOCLL   CLLPECLLDC20219F                                                                                                  
+130182SCZU8754570MSCMXVERFPOBUN   BUNCOBUNTK20292F       8                                                                                          
+130184TPMU1516339MSCMXVERFPOBUN   BUNCOBUNTK20295F       8                                                                                          
+130186MSCU2360949MSCUSNEWFPOCTG   CTGCOCTGDC20154F       3 2733                                                                                     
+130302MSCU1775160MSCUSCHSCHSARI   ARICLARIDC20201F                                                                                                  
+130304TRLU2806327MSCUSCHSCHSCLL   CLLPECLLDC20230F                                                                                                  
+130306MSCU2950708MSCBEANRFPOCLL   CLLPECLLDC20290F                                                                                                  
+130308ITLU8223485MSCUSMTNFPOCLL   CLLPECLLDC20237F                                                                                                  
+130310CRXU2729094MSCBEANRFPOCLL   CLLPECLLDC20219F                                                                                                  
+130312TRLU2095430MSCUSHOUFPOCLL   CLLPECLLDC20191F                                                                                                  
+130382SCZU8754246MSCMXVERFPOBUN   BUNCOBUNTK20303F       8                                                                                          
+130384SCZU8753960MSCMXVERFPOBUN   BUNCOBUNTK20295F       8                                                                                          
+130386GSTU5136382MSCBRSSZFPOBUN   BUNCOBUNDC20108F       211950                                                                                     
+130502CRXU2369779MSCUSCHSCHSCLL   CLLPECLLDC20229F                                                                                                  
+130504MSCU1612244MSCUSCHSCHSCLL   CLLPECLLDC20230F                                                                                                  
+130506MSCU2946307MSCBEANRFPOCLL   CLLPECLLDC20290F                                                                                                  
+130508ITLU6707942MSCFRLEHFPOCLL   CLLPECLLDC20238F                                                                                                  
+130510GSTU3239530MSCBEANRFPOCLL   CLLPECLLDC20202F                                                                                                  
+130512GSTU4113593MSCUSNEWFPOCLL   CLLPECLLDC20189F                                                                                                  
+130582GESU8012337MSCMXLMRFPOBUN   BUNCOBUNTK20288F       8 2586                                                                                     
+130584GESU8012466MSCMXLMRFPOBUN   BUNCOBUNTK20291F       8 2586                                                                                     
+130586MSCU2119166MSCUSNEWFPOCTG   CTGCOCTGDC20162F       3 1160                                                                                     
+130702CARU2153820MSCUSCHSCHSCLL   CLLPECLLDC20200F                                                                                                  
+130704MSCU2110805MSCUSCHSCHSCLL   CLLPECLLDC20224F                                                                                                  
+130706MSCU2924801MSCBEANRFPOCLL   CLLPECLLDC20290F                                                                                                  
+130708TRIU3633983MSCGBFXTFPOCLL   CLLPECLLDC20223F                                                                                                  
+130710CAXU6265166MSCUSNYCFPOCLL   CLLPECLLDC20209F                                                                                                  
+130712MSCU1319350MSCUSHOUFPOCLL   CLLPECLLDC20187F                                                                                                  
+130782TNLU0240716MSCMXVERFPOBUN   BUNCOBUNTK20295F       8                                                                                          
+130784MSCU1567090MSCUSNEWFPOGYE   GYEECGYEDC20232F       612078                                                                                     
+130786ICSU4907800MSCUSNYCFPOCTG   CTGCOCTGDC20189F       3 1263                                                                                     
+130902MSCU2885428MSCUSCHSCHSCLL   CLLPECLLDC20229F                                                                                                  
+130904MSCU1485849MSCUSCHSCHSCLL   CLLPECLLDC20229F                                                                                                  
+130906MSCU1385860MSCBEANRFPOCLL   CLLPECLLDC20290F                                                                                                  
+130908MSCU1622047MSCBEANRFPOCLL   CLLPECLLDC20290F                                                                                                  
+130910MSCU1540709MSCFRLEHFPOCLL   CLLPECLLDC20202F                                                                                                  
+130912GLDU0204978MSCUSNYCFPOCLL   CLLPECLLDC20181F                                                                                                  
+130982MSCU2278281MSCGBFXTFPOCLL   CLLPECLLDC20223F                                                                                                  
+130984CRXU1768286MSCGBFXTFPOCLL   CLLPECLLDC20223F                                                                                                  
+130986MSCU2055626MSCXXOPTFPOCLL   CLLPECLLDC20104F                                                                                                  
+131182MSCU1107860MSCGBFXTFPOCLL   CLLPECLLDC20147F                                                                                                  
+131184MSCU2233380MSCGBFXTFPOCLL   CLLPECLLDC20147F                                                                                                  
+131186MSCU1606895MSCUSHOUFPOCLL   CLLPECLLDC20128F                                                                                                  
+151002MSCU1509051MSCUSHOUFPOGYE   GYEECGYEDC20199F                                                                                                  
+151004MSCU1556325MSCUSHOUFPOGYE   GYEECGYEDC20209F                                                                                                  
+151006MSCU1135286MSCUSHOUFPOGYE   GYEECGYEDC20193F                                                                                                  
+151008SCZU7756265NDLUSHOUFPOBUN   BUNCOBUNDC20163F                                                                                                  
+151010MSCU2086437MSCBSFPOFPOBUN   BUNCOBUNDC20162F                                                                                                  
+151012GSTU3452416MSCGBFXTFPOBUN   BUNCOBUNDC20052F                                                                                                  
+151014CAXU6304318MSCFRLEHFPOBUN   BUNCOBUNDC20109F                                                                                                  
+150802MSCU1865453MSCUSHOUFPOGYE   GYEECGYEDC20203F                                                                                                  
+150804CRXU1705903MSCUSHOUFPOGYE   GYEECGYEDC20200F                                                                                                  
+150806MSCU1101840MSCGBFXTFPOGYE   GYEECGYEDC20198F       9 3082                                                                                     
+150808TRLU2424828MSCMXLMRFPOGYE   GYEECGYEDC20163F                                                                                                  
+150810MSCU1251250MSCUSNYCFPOBUN   BUNCOBUNDC20209F       9 2590                                                                                     
+150812GSTU4195009MSCGBFXTFPOBUN   BUNCOBUNDC20072F                                                                                                  
+150602TRIU2736204MSCUSNEWFPOGYE   GYEECGYEDC20179F                                                                                                  
+150604MSCU1290127MSCUSHOUFPOGYE   GYEECGYEDC20207F                                                                                                  
+150606MSCU1775447MSCUSNEWFPOGYE   GYEECGYEDC20193F                                                                                                  
+150608MSCU1383261MSCUSNEWFPOGYE   GYEECGYEDC20188F                                                                                                  
+150610CARU3009951MSCUSHOUFPOBUN   BUNCOBUNDC20116F                                                                                                  
+150612TPHU6591061MSCBRRIOFPOBUN   BUNCOBUNDC20123F                                                                                                  
+150402MSCU2670559MSCUSHOUFPOCTG   CTGCOCTGDC20209F                                                                                                  
+150404MSCU1740970MSCMXVERFPOCTG   CTGCOCTGDC20230F                                                                                                  
+150406MSCU1324438MSCBRVIXFPOCTG   CTGCOCTGDC20257F                                                                                                  
+150408MSCU1249247MSCBRRIGFPOCTG   CTGCOCTGDC20190F                                                                                                  
+150410POCU0175382NDLUSNEWFPOCTG   CTGCOCTGDC20134F                                                                                                  
+150202MSCU2376040MSCBEANRFPOCTG   CTGCOCTGDC20222F                                                                                                  
+150204MSCU2434701MSCMXVERFPOCTG   CTGCOCTGDC20230F                                                                                                  
+150206TOLU2402607MSCUSNEWFPOCTG   CTGCOCTGDC20224F                                                                                                  
+150208PONU0154758NDLUSCHSCHSCTG   CTGCOCTGDC20236F                                                                                                  
+150210MSCU1733992MSCGBFXTFPOCTG   CTGCOCTGDC20151F                                                                                                  
+150102GSTU2205480MSCUSNYCFPOCTG   CTGCOCTGDC20213F                                                                                                  
+150104MSCU2210614MSCMXVERFPOCTG   CTGCOCTGDC20230F                                                                                                  
+150106TTNU2998431MSCBEANRFPOCTG   CTGCOCTGDC20215F                                                                                                  
+150108POCU0177488NDLUSJAXJAXCTG   CTGCOCTGDC20244F                                                                                                  
+150110MSCU2289199MSCUSNYCFPOCTG   CTGCOCTGDC20154F                                                                                                  
+150112MSCU1086330MSCUSHOUFPOCTG   CTGCOCTGDC20213F       9 3082                                                                                     
+150302IEAU2650734MSCUSNEWFPOCTG   CTGCOCTGDC20232F                                                                                                  
+150304MSCU2133626MSCMXVERFPOCTG   CTGCOCTGDC20230F                                                                                                  
+150306GSTU5283573MSCBEANRFPOCTG   CTGCOCTGDC20205F                                                                                                  
+150308MSCU1869799MSCUSCHSCHSCTG   CTGCOCTGDC20241F                                                                                                  
+150310CRXU2377711MSCUSCHSCHSCTG   CTGCOCTGDC20194F                                                                                                  
+150502ITLU6764731MSCUSNEWFPOGYE   GYEECGYEDC20188F                                                                                                  
+150504MSCU1640919MSCUSHOUFPOGYE   GYEECGYEDC20212F                                                                                                  
+150506MSCU2260889MSCUSHOUFPOGYE   GYEECGYEDC20179F                                                                                                  
+150508MSCU1158933MSCBEANRFPOGYE   GYEECGYEDC20180F                                                                                                  
+150510MSCU1157032MSCBSFPOFPOBUN   BUNCOBUNDC20102F                                                                                                  
+150512TRLU9002948MSCBRRIOFPOBUN   BUNCOBUNOT20121F                                                                                                  
+150514TMLU6240075MSCUSNEWFPOBUN   BUNCOBUNTK20027F                                                                                                  
+150702TPTU8205340MSCUSHOUFPOBUN   BUNCOBUNTK20247F                                                                                                  
+150704MSCU1772999MSCUSHOUFPOGYE   GYEECGYEDC20194F                                                                                                  
+150706GSTU2103744MSCUSHOUFPOGYE   GYEECGYEDC20194F                                                                                                  
+150708CRXU1701214MSCUSHOUFPOGYE   GYEECGYEDC20205F                                                                                                  
+150710GSTU2316755MSCUSHOUFPOBUN   BUNCOBUNDC20133F                                                                                                  
+150712MSCU1331334MSCGBFXTFPOBUN   BUNCOBUNDC20125F                                                                                                  
+150714MSCU2757427MSCBRSSZFPOGYE   GYEECGYEDC20067F                                                                                                  
+150902CRXU2197617MSCUSNYCFPOBUN   BUNCOBUNDC20210F                                                                                                  
+150904TRIU3508615MSCUSNYCFPOBUN   BUNCOBUNDC20181F                                                                                                  
+150906CRXU2789494MSCUSNYCFPOBUN   BUNCOBUNDC20190F                                                                                                  
+150908CRXU2638266MSCUSNYCFPOBUN   BUNCOBUNDC20218F                                                                                                  
+150910MSCU1287904MSCBRSSAFPOBUN   BUNCOBUNDC20150F                                                                                                  
+150912GSTU2450147MSCUSHOUFPOBUN   BUNCOBUNDC20149F                                                                                                  
+161282GSTU6623493MSCUSCHSCHSCTG   CTGCOCTGDC40222F                                                                                                  
+161284MSCU4247588MSCUSNEWFPOCTG   CTGCOCTGDC40225F                                                                                                  
+161286CARU6642161MSCUSCHSCHSCTG   CTGCOCTGDC40227F                                                                                                  
+161082CRXU9551640MSCUSHOUFPOCTG   CTGCOCTGDCHC244F                                                                                                  
+161084MSCU8236405MSCUSNEWFPOCTG   CTGCOCTGDCHC264F                                                                                                  
+161086TRLU5892268MSCUSHOUFPOCTG   CTGCOCTGDCHC213F                                                                                                  
+160882MSCU8317657MSCUSNYCFPOCTG   CTGCOCTGDCHC240F                                                                                                  
+160884TRIU9314052MSCUSHOUFPOCTG   CTGCOCTGDCHC247F                                                                                                  
+160886MSCU8865326MSCUSNYCFPOCTG   CTGCOCTGDCHC234F                                                                                                  
+160682MSCU8869152MSCUSHOUFPOCTG   CTGCOCTGDCHC242F                                                                                                  
+160684CRXU9726245MSCUSHOUFPOCTG   CTGCOCTGDCHC245F                                                                                                  
+160686MSCU8151273MSCUSNYCFPOCTG   CTGCOCTGDCHC232F                                                                                                  
+160482TRIU7702064MSCCLSAIFPOCTG   CTGCOCTGRF40299F   -18C                                                                                           
+160484MSCU8811232MSCUSHOUFPOCTG   CTGCOCTGDCHC245F                                                                                                  
+160486MSCU8898021MSCUSHOUFPOCTG   CTGCOCTGDCHC232F                                                                                                  
+160412ITLU5497190MSCBRRIGFPOCTG   CTGCOCTGDC40289F                                                                                                  
+160414LCRU4021895MSCBRRIGFPOCTG   CTGCOCTGDC40289F                                                                                                  
+160282MSCU8323069MSCUSNYCFPOCTG   CTGCOCTGDCHC244F                                                                                                  
+160284GSTU7890447MSCUSHOUFPOCTG   CTGCOCTGDCHC246F                                                                                                  
+160286MSCU8074686MSCUSHOUFPOCTG   CTGCOCTGDCHC240F                                                                                                  
+160212MSCU4001439MSCBRRIGFPOCTG   CTGCOCTGDC40289F                                                                                                  
+160214CAXU4185441MSCBRRIGFPOCTG   CTGCOCTGDC40289F                                                                                                  
+160082MSCU8259930MSCUSHOUFPOCTG   CTGCOCTGDCHC248F                                                                                                  
+160084MSCU8744406MSCUSHOUFPOCTG   CTGCOCTGDCHC242F                                                                                                  
+160086MSCU8134954MSCUSHOUFPOCTG   CTGCOCTGDCHC234F                                                                                                  
+160114TPHU5249706MSCBRRIGFPOCTG   CTGCOCTGDC40289F                                                                                                  
+160182MSCU8216040MSCUSHOUFPOCTG   CTGCOCTGDCHC244F                                                                                                  
+160184MSCU8226789MSCUSHOUFPOCTG   CTGCOCTGDCHC243F                                                                                                  
+160186INKU2334415MSCUSHOUFPOCTG   CTGCOCTGDCHC238F                                                                                                  
+160312CAXU7087264MSCBRRIGFPOCTG   CTGCOCTGDC40289F                                                                                                  
+160314TPHU5379248MSCBRRIGFPOCTG   CTGCOCTGDC40289F                                                                                                  
+160382MSCU4520060MSCZADURFPOCTG   CTGCOCTGDC40244F                                                                                                  
+160384MSCU8323177MSCUSHOUFPOCTG   CTGCOCTGDCHC243F                                                                                                  
+160386MSCU8107898MSCUSHOUFPOCTG   CTGCOCTGDCHC240F                                                                                                  
+160582MSCU8074639MSCUSHOUFPOCTG   CTGCOCTGDCHC253F                                                                                                  
+160584GLDU0681137MSCUSHOUFPOCTG   CTGCOCTGDCHC239F                                                                                                  
+160586TRIU9751140MSCUSHOUFPOCTG   CTGCOCTGDCHC239F                                                                                                  
+160782MSCU8254590MSCUSHOUFPOCTG   CTGCOCTGDCHC244F                                                                                                  
+160784MSCU8152290MSCUSHOUFPOCTG   CTGCOCTGDCHC232F                                                                                                  
+160786MSCU8078085MSCUSHOUFPOCTG   CTGCOCTGDCHC240F                                                                                                  
+160914TPHU5110747MSCBRRIGFPOCTG   CTGCOCTGDC40289F                                                                                                  
+160982TRLU5754145MSCUSHOUFPOCTG   CTGCOCTGDCHC241F                                                                                                  
+160984CAXU4838844MSCUSNYCFPOCTG   CTGCOCTGDCHC239F                                                                                                  
+160986MSCU8229411MSCUSHOUFPOCTG   CTGCOCTGDCHC238F                                                                                                  
+161182MSCU4240460MSCUSCHSCHSCTG   CTGCOCTGDC40223F                                                                                                  
+161184TRLU6247090MSCUSNYCFPOCTG   CTGCOCTGDC40227F                                                                                                  
+161186TRIU5730278MSCBEANRFPOCTG   CTGCOCTGDC40191F                                                                                                  
+171002TRIU3500770MSCUSNYCFPOBUN   BUNCOBUNDC20172F                                                                                                  
+171004TEHU9210969MSCUSNYCFPOBUN   BUNCOBUNDC20200F                                                                                                  
+171006TRLU0212497MSCUSHOUFPOBUN   BUNCOBUNTK20234F                                                                                                  
+171008MSCU1610998MSCMXVERFPOGYE   GYEECGYEDC20128F                                                                                                  
+171010MSCU2072217MSCUSHOUFPOGYE   GYEECGYEDC20102F                                                                                                  
+171012XTRU2041897MSCBRRIOFPOBUN   BUNCOBUNDC20062F                                                                                                  
+171014MSCU1452573MSCUSHOUFPOBUN   BUNCOBUNDC20149F                                                                                                  
+170802TPMU1410389MSCUSHOUFPOBUN   BUNCOBUNTK20241F                                                                                                  
+170804TPHU8171920MSCBRVIXFPOBUN   BUNCOBUNDC20194F                                                                                                  
+170806TPTU8206475MSCUSHOUFPOBUN   BUNCOBUNTK20238F                                                                                                  
+170808CAXU6299994MSCMXVERFPOGYE   GYEECGYEDC20122F                                                                                                  
+170810CRXU1141871MSCUSNYCFPOGYE   GYEECGYEDC20113F                                                                                                  
+170812CRXU2599690MSCGBFXTFPOGYE   GYEECGYEDC20183F                                                                                                  
+170602TPMU1411220MSCUSHOUFPOBUN   BUNCOBUNTK20241F                                                                                                  
+170604TPHU6902501MSCUSNYCFPOBUN   BUNCOBUNDC20190F                                                                                                  
+170606GSTU4607636MSCUSNYCFPOBUN   BUNCOBUNDC20213F                                                                                                  
+170608PONU0280680NDLUSHOUFPOBUN   BUNCOBUNDC20162F                                                                                                  
+170610TRLU3504147MSCBRSSZFPOGYE   GYEECGYEDC20138F                                                                                                  
+170612PONU0967125NDLUSNEWFPOGYE   GYEECGYEDC20100F                                                                                                  
+170614GSTU2226630MSCBRSSZFPOGYE   GYEECGYEDC20066F                                                                                                  
+170402MSCU1742905MSCMXVERFPOCTG   CTGCOCTGDC20230F                                                                                                  
+170404MSCU2456892MSCMXVERFPOCTG   CTGCOCTGDC20230F                                                                                                  
+170406MSCU1112697MSCMXVERFPOCTG   CTGCOCTGDC20230F                                                                                                  
+170408MSCU2096517MSCUSNEWFPOCTG   CTGCOCTGDC20188F                                                                                                  
+170410MSCU2096266MSCUSNEWFPOCTG   CTGCOCTGDC20188F                                                                                                  
+170202MSCU2656740MSCMXVERFPOCTG   CTGCOCTGDC20230F                                                                                                  
+170204MSCU2887570MSCFRLEHFPOCTG   CTGCOCTGDC20222F                                                                                                  
+170206TRIU3327469MSCUSNEWFPOCTG   CTGCOCTGDC20232F                                                                                                  
+170208MSCU1494774MSCMXVERFPOCTG   CTGCOCTGDC20230F                                                                                                  
+170210MSCU1513853MSCBEANRFPOCTG   CTGCOCTGDC20125F                                                                                                  
+170102CARU2155252MSCBRSSZFPOCTG   CTGCOCTGDC20227F                                                                                                  
+170104CRXU2974770MSCUSNEWFPOCTG   CTGCOCTGDC20232F                                                                                                  
+170106MSCU2076254MSCBRVIXFPOCTG   CTGCOCTGDC20255F                                                                                                  
+170108MSCU1474715MSCMXVERFPOCTG   CTGCOCTGDC20230F                                                                                                  
+170110MSCU1629714MSCFRLEHFPOCTG   CTGCOCTGDC20129F                                                                                                  
+170112MSCU2824720MSCUSCHSCHSCTG   CTGCOCTGDC20191F                                                                                                  
+170302GSTU3670629MSCBRSSZFPOCTG   CTGCOCTGDC20226F                                                                                                  
+170304CRXU2316439MSCUSNEWFPOCTG   CTGCOCTGDC20232F                                                                                                  
+170306MSCU1498110MSCMXVERFPOCTG   CTGCOCTGDC20230F                                                                                                  
+170308MSCU2672736MSCMXVERFPOCTG   CTGCOCTGDC20230F                                                                                                  
+170310MSCU2164015MSCUSNYCFPOCTG   CTGCOCTGDC20172F                                                                                                  
+170502MSCU2365621MSCUSSAVFPOGYE   GYEECGYEDC20177F                                                                                                  
+170504MSCU2888936MSCUSHOUFPOGYE   GYEECGYEDC20207F                                                                                                  
+170506TPHU6479431MSCBRSSZFPOGYE   GYEECGYEDC20180F       9 2590                                                                                     
+170508MLCU2003147MSCBRSSZFPOGYE   GYEECGYEDC20180F       9 2590                                                                                     
+170510MSCU1548696MSCUSHOUFPOGYE   GYEECGYEDC20198F                                                                                                  
+170512MSCU2224578MSCBRRIGFPOGYE   GYEECGYEDC20086F                                                                                                  
+170514MSCU1183290MSCFRLEHFPOGYE   GYEECGYEDC20030F                                                                                                  
+170702GSTU2828427MSCBEANRFPOGYE   GYEECGYEDC20180F       9 3077                                                                                     
+170704TPHU8219264MSCUSHOUFPOGYE   GYEECGYEDC20194F                                                                                                  
+170706MSCU1643250MSCUSHOUFPOGYE   GYEECGYEDC20200F                                                                                                  
+170708MSCU2207246MSCBRRIOFPOGYE   GYEECGYEDC20124F                                                                                                  
+170710IEAU2227912MSCBRRIOFPOGYE   GYEECGYEDC20085F                                                                                                  
+170712MSCU2740830MSCBEANRFPOGYE   GYEECGYEDC20126F                                                                                                  
+170714MSCU2940593MSCUSHOUFPOGYE   GYEECGYEDC20071F                                                                                                  
+170902TEXU3238990MSCBEANRFPOGYE   GYEECGYEDC20220F                                                                                                  
+170904MSCU1029350MSCUSHOUFPOGYE   GYEECGYEDC20208F                                                                                                  
+170906MSCU2118811MSCGBFXTFPOBUN   BUNCOBUNDC20192F                                                                                                  
+170908MSCU2647707MSCGBFXTFPOBUN   BUNCOBUNDC20123F                                                                                                  
+170910TPHU6627415MSCUSSAVFPOGYE   GYEECGYEDC20170F                                                                                                  
+170912MSCU1303570MSCMXLMRFPOGYE   GYEECGYEDC20144F                                                                                                  
+221282CAXU4267149MSCUSCHSCHSSAI   SAICLSAIDC40095F                                                                                                  
+221284GSTU7407360NDLUSNYCFPOSAI   SAICLSAIDC40074F                                                                                                  
+221286TPHU4628639MSCUSCHSCHSSAI   SAICLSAIDC40062F                                                                                                  
+221288GSTU9410634MSCUSNEWFPOCTG   CTGCOCTGDC40099F                                                                                                  
+221082MSCU8690399MSCUSNYCFPOSAI   SAICLSAIDCHC270F                                                                                                  
+221084CAXU9619962MSCUSNEWFPOSAI   SAICLSAIDCHC093F                                                                                                  
+221086MSCU8321678MSCUSHOUFPOSAI   SAICLSAIDCHC057F                                                                                                  
+221088INBU4687091NDLUSHOUFPOSAI   SAICLSAIDC40071F                                                                                                  
+221002PONU7310723NDLUSNEWFPOSAI   SAICLSAIDCHC210F                                                                                                  
+221004PONU7349643NDLUSNEWFPOSAI   SAICLSAIDCHC208F                                                                                                  
+221006PONU7314272NDLUSNEWFPOSAI   SAICLSAIDCHC206F                                                                                                  
+221008PONU7309785NDLUSNEWFPOSAI   SAICLSAIDCHC206F                                                                                                  
+221010MSCU8831692MSCUSNYCFPOSAI   SAICLSAIDCHC145F                                                                                                  
+221012MSCU8199111MSCUSCHSCHSSAI   SAICLSAIDCHC130F                                                                                                  
+220882MSCU4066430MSCFRLEHFPOGYE   GYEECGYEDC40289F                                                                                                  
+220884INBU5208763MSCUSHOUFPOGYE   GYEECGYEDC40239F                                                                                                  
+220886TOLU3722605MSCUSSAVFPOBUN   BUNCOBUNDC40196F                                                                                                  
+220888GLDU4031398MSCFRLEHFPOGYE   GYEECGYEDC40080F                                                                                                  
+220802MSCU8924007MSCUSNYCFPOSAI   SAICLSAIDCHC267F                                                                                                  
+220804TRLU5758794MSCUSHOUFPOSAI   SAICLSAIDCHC236F                                                                                                  
+220806PONU7216213NDLUSNEWFPOSAI   SAICLSAIDCHC210F                                                                                                  
+220808MSCU8889164MSCMXVERFPOSAI   SAICLSAIDCHC146F                                                                                                  
+220810PONU7571218NDLUSNEWFPOSAI   SAICLSAIDCHC168F                                                                                                  
+220682TRIU4762516MSCBRRIGFPOBUN   BUNCOBUNDC40287F                                                                                                  
+220684MSCU4246391MSCUSHOUFPOGYE   GYEECGYEDC40234F                                                                                                  
+220686TPHU5207594MSCFRLEHFPOBUN   BUNCOBUNDC40238F                                                                                                  
+220688MSCU8686526MSCUSHOUFPOBUN   BUNCOBUNDCHC077F                                                                                                  
+220602MSCU8761002MSCUSNEWFPOSAI   SAICLSAIDCHC254F                                                                                                  
+220604MSCU8887520MSCUSNYCFPOSAI   SAICLSAIDCHC204F                                                                                                  
+220606MSCU8168722MSCUSHOUFPOSAI   SAICLSAIDCHC220F                                                                                                  
+220608MSCU8771736MSCBEANRFPOSAI   SAICLSAIDCHC164F                                                                                                  
+220610MSCU8195986MSCMXVERFPOSAI   SAICLSAIDCHC148F                                                                                                  
+220612GLDU0680803MSCMXVERFPOSAI   SAICLSAIDCHC117F                                                                                                  
+220482TRIU5379564NDLUSNEWFPOBUN   BUNCOBUNDC40261F                                                                                                  
+220484TGHU4060113MSCUSHOUFPOGYE   GYEECGYEDC40227F                                                                                                  
+220486GSTU6780002MSCUSHOUFPOBUN   BUNCOBUNDC40211F                                                                                                  
+220488MSCU8838927MSCUSCHSCHSBUN   BUNCOBUNDCHC090F                                                                                                  
+220402MSCU8025819MSCUSHOUFPOSAI   SAICLSAIDCHC258F                                                                                                  
+220404MSCU8876763MSCUSHOUFPOSAI   SAICLSAIDCHC238F                                                                                                  
+220406MSCU8998709MSCGBFXTFPOSAI   SAICLSAIDCHC159F                                                                                                  
+220408PONU7534359NDLUSNEWFPOSAI   SAICLSAIDCHC210F                                                                                                  
+220410TRIU9662253MSCUSSAVFPOSAI   SAICLSAIDCHC133F                                                                                                  
+220412MSCU8061971MSCMXVERFPOSAI   SAICLSAIDCHC119F                                                                                                  
+220282TRLU4000773MSCBRRIOFPOBUN   BUNCOBUNDC40263F                                                                                                  
+220284TRIU4186447MSCUSHOUFPOGYE   GYEECGYEDC40231F                                                                                                  
+220286MSCU8053636MSCBSFPOFPOBUN   BUNCOBUNDC40212F                                                                                                  
+220288INKU2289194MSCUSHOUFPOGYE   GYEECGYEDCHC147F                                                                                                  
+220202MSCU4227088MSCUSHOUFPOSAI   SAICLSAIDC40290F                                                                                                  
+220204GSTU6323120MSCUSHOUFPOSAI   SAICLSAIDC40266F                                                                                                  
+220206TRLU6299278MSCUSHOUFPOSAI   SAICLSAIDC40273F                                                                                                  
+220208TRLU6395796MSCFRLEHFPOSAI   SAICLSAIDC40278F                                                                                                  
+220210MSCU4051300MSCUSMTNFPOSAI   SAICLSAIDC40270F                                                                                                  
+220212INBU5186880MSCFRLEHFPOSAI   SAICLSAIDC40252F                                                                                                  
+220214MSCU4209211MSCUSHOUFPOSAI   SAICLSAIDC40267F                                                                                                  
+220082MSCU4033694MSCBRRIGFPOBUN   BUNCOBUNDC40287F                                                                                                  
+220084MSCU4322547MSCUSHOUFPOBUN   BUNCOBUNDC40214F                                                                                                  
+220086MSCU8212770MSCBRRIOFPOGYE   GYEECGYEDCHC177F                                                                                                  
+220088MSCU8003759MSCBEANRFPOGYE   GYEECGYEDCHC080F                                                                                                  
+220102TPHU5229021MSCUSHOUFPOSAI   SAICLSAIDC40261F                                                                                                  
+220104MSCU4166378MSCUSNEWFPOSAI   SAICLSAIDC40261F                                                                                                  
+220106MSCU4013018MSCUSHOUFPOSAI   SAICLSAIDC40269F                                                                                                  
+220108TPHU4597137MSCFRLEHFPOSAI   SAICLSAIDC40282F                                                                                                  
+220110MSCU4057654MSCMXVERFPOSAI   SAICLSAIDC40277F                                                                                                  
+220112TRIU5793424MSCUSHOUFPOSAI   SAICLSAIDC40271F                                                                                                  
+220114TRIU4940264MSCUSHOUFPOSAI   SAICLSAIDC40263F                                                                                                  
+220182MSCU4259439MSCUSSAVFPOBUN   BUNCOBUNDC40270F                                                                                                  
+220184GSTU9040150MSCUSHOUFPOGYE   GYEECGYEDC40230F                                                                                                  
+220186GSTU7171016MSCUSHOUFPOGYE   GYEECGYEDC40235F                                                                                                  
+220188MSCU8084391MSCUSHOUFPOGYE   GYEECGYEDCHC123F                                                                                                  
+220302MSCU4041344MSCUSMTNFPOSAI   SAICLSAIDC40284F                                                                                                  
+220304MSCU4041914MSCUSHOUFPOSAI   SAICLSAIDC40271F                                                                                                  
+220306ITLU5362949MSCGBFXTFPOSAI   SAICLSAIDC40260F                                                                                                  
+220308MSCU4156549MSCUSHOUFPOSAI   SAICLSAIDC40261F                                                                                                  
+220310TRIU5616856MSCMXVERFPOSAI   SAICLSAIDC40267F                                                                                                  
+220312TRIU5595060MSCUSHOUFPOSAI   SAICLSAIDC40266F                                                                                                  
+220314TRIU5330250MSCUSMTNFPOSAI   SAICLSAIDC40261F                                                                                                  
+220382OCLU1335980NDLUSNEWFPOBUN   BUNCOBUNDC40261F                                                                                                  
+220384TPHU5290058MSCBRSSZFPOGYE   GYEECGYEDC40268F                                                                                                  
+220386MSCU8683975MSCBRRIOFPOGYE   GYEECGYEDCHC172F                                                                                                  
+220388MSCU8173586MSCUSCHSCHSCTG   CTGCOCTGDCHC107F                                                                                                  
+220502CRXU9143464MSCFRLEHFPOSAI   SAICLSAIDCHC275F                                                                                                  
+220504MSCU8959744MSCBEANRFPOSAI   SAICLSAIDCHC240F                                                                                                  
+220506PONU7191835NDLUSNEWFPOSAI   SAICLSAIDCHC216F                                                                                                  
+220508PONU7529007NDLUSNEWFPOSAI   SAICLSAIDCHC210F                                                                                                  
+220510TRLU5754649MSCUSCHSCHSSAI   SAICLSAIDCHC209F                                                                                                  
+220512MSCU8950840MSCUSCHSCHSSAI   SAICLSAIDCHC203F                                                                                                  
+220582TRLU4285742MSCFRLEHFPOBUN   BUNCOBUNDC40238F                                                                                                  
+220584TRIU4751300MSCUSHOUFPOGYE   GYEECGYEDC40237F                                                                                                  
+220586MSCU8075960MSCBEANRFPOGYE   GYEECGYEDCHC190F                                                                                                  
+220588TTNU9620295MSCUSCHSCHSCTG   CTGCOCTGDCHC109F                                                                                                  
+220702TRIU9022960MSCUSMTNFPOSAI   SAICLSAIDCHC250F                                                                                                  
+220704KNLU5067841NDLUSNEWFPOSAI   SAICLSAIDCHC210F                                                                                                  
+220706PONU7312310NDLUSNEWFPOSAI   SAICLSAIDCHC208F                                                                                                  
+220708MSCU8110037MSCBEANRFPOSAI   SAICLSAIDCHC180F                                                                                                  
+220710MSCU8112560MSCMXVERFPOSAI   SAICLSAIDCHC141F                                                                                                  
+220712MSCU8093808MSCUSNYCFPOSAI   SAICLSAIDCHC109F                                                                                                  
+220782MSCU4218717MSCUSHOUFPOSAI   SAICLSAIDC40194F       8 1759                                                                                     
+220784INKU2206780MSCBSFPOFPOBUN   BUNCOBUNDC40210F                                                                                                  
+220786TRIU9217664MSCBRSSZFPOGYE   GYEECGYEDCHC112F                                                                                                  
+220788MSCU8952380MSCUSCHSCHSCTG   CTGCOCTGDCHC094F                                                                                                  
+220902IEAU4514064MSCUSHOUFPOSAI   SAICLSAIDC40267F                                                                                                  
+220904PONU1483681NDLUSHOUFPOSAI   SAICLSAIDC40237F                                                                                                  
+220906MSCU4514262MSCFRLEHFPOSAI   SAICLSAIOT40147F                                                                                                  
+220908TOLU4857122MSCFRLEHFPOSAI   SAICLSAIOT40145F                                                                                                  
+220910OCLU1447105NDLUSNYCFPOSAI   SAICLSAIDC40124F                                                                                                  
+220912CARU8515947MSCUSNYCFPOSAI   SAICLSAIOT40100F                                                                                                  
+220914TRLU9237393MSCFRLEHFPOSAI   SAICLSAIOT40110F                                                                                                  
+220982TRLU4150388MSCUSHOUFPOSAI   SAICLSAIDCHC234F       311993                                                                                     
+220984GATU8536370NDLUSNEWFPOSAI   SAICLSAIDCHC210F                                                                                                  
+220986MSCU8909506MSCUSCHSCHSSAI   SAICLSAIDCHC128F                                                                                                  
+220988CAXU9529909MSCUSCHSCHSCTG   CTGCOCTGDCHC110F                                                                                                  
+221182GLDU0963629MSCMXVERFPOSAI   SAICLSAIDC40147F                                                                                                  
+221184ICSU6974622MSCGBFXTFPOSAI   SAICLSAIDC40109F                                                                                                  
+221186GSTU6669684MSCUSNYCFPOSAI   SAICLSAIDC40054F                                                                                                  
+221188GSTU8299969NDLUSNYCFPOSAI   SAICLSAIDC40088F                                                                                                  
+250802MSCU2826298MSCUSCHSCHSBUN   BUNCOBUNDC20225F                                                                                                  
+250804UTTU2417437MSCUSHOUFPOGYE   GYEECGYETK20262F                                                                                                  
+250806TRLU0222031MSCUSHOUFPOBUN   BUNCOBUNTK20236F                                                                                                  
+250808TOLU9260320MSCUSHOUFPOBUN   BUNCOBUNTK20214F                                                                                                  
+250810TRLU0219568MSCUSHOUFPOBUN   BUNCOBUNTK20230F                                                                                                  
+250812PONU0709012NDLUSCHSCHSGYE   GYEECGYEDC20231F                                                                                                  
+250602MSCU1648587MSCUSHOUFPOGYE   GYEECGYEDC20211F                                                                                                  
+250604TRIU3142402MSCBRSSZFPOGYE   GYEECGYEDC20224F       9 2590                                                                                     
+250606CRXU1512632MSCUSNEWFPOBUN   BUNCOBUNDC20209F                                                                                                  
+250608TPMU1410033MSCUSHOUFPOBUN   BUNCOBUNTK20234F                                                                                                  
+250610MSCU1092625MSCGBFXTFPOGYE   GYEECGYEDC20223F                                                                                                  
+250612CRXU2643642MSCUSHOUFPOGYE   GYEECGYEDC20189F                                                                                                  
+250402MSCU1056989MSCMXLMRFPOGYE   GYEECGYEDC20228F                                                                                                  
+250404MSCU2992262MSCUSHOUFPOGYE   GYEECGYEDC20206F                                                                                                  
+250406GSTU2449320MSCBRRIGFPOBUN   BUNCOBUNDC20209F                                                                                                  
+250408TRIU3776264MSCBRSSZFPOGYE   GYEECGYEDC20187F                                                                                                  
+250410MSCU1562647MSCGBFXTFPOGYE   GYEECGYEDC20223F                                                                                                  
+250412ITLU6505556MSCUSNYCFPOGYE   GYEECGYEDC20204F       9 3082                                                                                     
+250202MSCU1560480MSCGBFXTFPOGYE   GYEECGYEDC20223F                                                                                                  
+250204INBU3280497MSCUSHOUFPOGYE   GYEECGYEDC20201F                                                                                                  
+250206KNLU3226353NDLUSHOUFPOBUN   BUNCOBUNDC20231F                                                                                                  
+250208MSCU1234000MSCBRSSAFPOGYE   GYEECGYEDC20189F                                                                                                  
+250210TPHU6595920MSCUSMTNFPOGYE   GYEECGYEDC20232F                                                                                                  
+250212TRLU2417639MSCUSHOUFPOGYE   GYEECGYEDC20203F                                                                                                  
+250102MSCU2129349MSCFRLEHFPOGYE   GYEECGYEDC20237F                                                                                                  
+250104TPHU6501788MSCBRSSZFPOGYE   GYEECGYEDC20224F       9 2590                                                                                     
+250106CRXU2069257MSCUSNYCFPOBUN   BUNCOBUNDC20190F                                                                                                  
+250108PONU0232470NDLUSHOUFPOGYE   GYEECGYEDC20173F                                                                                                  
+250110MSCU2852023MSCBEANRFPOGYE   GYEECGYEDC20220F                                                                                                  
+250112TRIU2970629MSCBRRIGFPOGYE   GYEECGYEDC20197F                                                                                                  
+250302TIFU1486544MSCUSHOUFPOGYE   GYEECGYETK20250F                                                                                                  
+250304TPXU6918273MSCBRSSZFPOGYE   GYEECGYEDC20226F       9 2590                                                                                     
+250306MSCU2888108MSCUSNYCFPOBUN   BUNCOBUNDC20209F                                                                                                  
+250308MSCU1565203MSCUSHOUFPOGYE   GYEECGYEDC20204F                                                                                                  
+250310TRLU2470968MSCUSHOUFPOGYE   GYEECGYEDC20204F                                                                                                  
+250312MSCU1764078MSCUSHOUFPOGYE   GYEECGYEDC20204F                                                                                                  
+250502PRSU2147962MSCBRSSZFPOGYE   GYEECGYEDC20239F                                                                                                  
+250504MSCU1637788MSCUSHOUFPOGYE   GYEECGYEDC20202F                                                                                                  
+250506CAXU2409835MSCUSNYCFPOBUN   BUNCOBUNDC20204F                                                                                                  
+250508MSCU2044540MSCUSHOUFPOGYE   GYEECGYEDC20204F                                                                                                  
+250510MSCU2937516MSCUSHOUFPOGYE   GYEECGYEDC20210F                                                                                                  
+250512TTNU3503820MSCUSHOUFPOGYE   GYEECGYEDC20206F                                                                                                  
+250702SECS8932942MSCUSHOUFPOGYE   GYEECGYETK20256F                                                                                                  
+250704LCRU2209604MSCBRRIOFPOBUN   BUNCOBUNDC20210F                                                                                                  
+250706ITLU6908783MSCUSNYCFPOBUN   BUNCOBUNDC20211F                                                                                                  
+250708MSCU1090670MSCUSHOUFPOGYE   GYEECGYEDC20209F                                                                                                  
+250710MSCU1349190MSCUSHOUFPOGYE   GYEECGYEDC20201F                                                                                                  
+250712MSCU2959053MSCGBFXTFPOGYE   GYEECGYEDC20198F       9 3082                                                                                     
+261282MSCU4257101MSCUSJAXJAXBUN   BUNCOBUNDC40271F                                                                                                  
+261284TEXU4939125MSCUSNEWFPOBUN   BUNCOBUNDC40245F                                                                                                  
+261286TOLU2243110MSCUSHOUFPOGYE   GYEECGYEDC40236F                                                                                                  
+261288ITLU5440764MSCFRLEHFPOBUN   BUNCOBUNDC40078F                                                                                                  
+261082ICSU1629578MSCUSNEWFPOBUN   BUNCOBUNDC40260F                                                                                                  
+261084MSCU8003213MSCUSHOUFPOGYE   GYEECGYEDCHC246F                                                                                                  
+261086TDRU2503937MSCUSHOUFPOGYE   GYEECGYEDC40227F                                                                                                  
+261088TGHU4076260MSCFRLEHFPOGYE   GYEECGYEDC40194F                                                                                                  
+261002TPHU5080410MSCUSCHSCHSBUN   BUNCOBUNDC40110F                                                                                                  
+261004MSCU4147911MSCUSCHSCHSBUN   BUNCOBUNDC40090F                                                                                                  
+261006CRXU4731676MSCUSCHSCHSBUN   BUNCOBUNDC40121F                                                                                                  
+261008GSTU8383046MSCUSCHSCHSBUN   BUNCOBUNDC40099F                                                                                                  
+261010GSTU8087640MSCUSCHSCHSGYE   GYEEGGYEDC40269F                                                                                                  
+261012GSTU7350808MSCUSCHSCHSGYE   GYEEGGYEDC40298F                                                                                                  
+261014ICSU1305619MSCUSCHSCHSBUN   BUNCOBUNDC40125F                                                                                                  
+260882TRIU5949184MSCUSNEWFPOBUN   BUNCOBUNDC40262F                                                                                                  
+260884MSCU8743307MSCUSHOUFPOGYE   GYEECGYEDCHC251F                                                                                                  
+260886MSCU4249298MSCUSJAXJAXBUN   BUNCOBUNDC40270F                                                                                                  
+260888GSTU9364858MSCUSHOUFPOBUN   BUNCOBUNDC40076F                                                                                                  
+260682MSCU4169931MSCUSNEWFPOBUN   BUNCOBUNDC40264F                                                                                                  
+260684MSCU8817210MSCUSMTNFPOGYE   GYEECGYEDCHC254F                                                                                                  
+260686MSCU4257077MSCUSJAXJAXBUN   BUNCOBUNDC40272F                                                                                                  
+260688MSCU4038778MSCBEANRFPOGYE   GYEECGYEDC40144F                                                                                                  
+260614TPHU4884543MSCFRLEHFPOGYE   GYEECGYEDC40289F                                                                                                  
+260482MSCU8209713MSCUSNEWFPOBUN   BUNCOBUNDCHC240F                                                                                                  
+260484MSCU8029244MSCUSHOUFPOGYE   GYEECGYEDCHC245F                                                                                                  
+260486MSCU4158900MSCUSNYCFPOGYE   GYEECGYEDC40236F                                                                                                  
+260488INBU5172948MSCFRLEHFPOBUN   BUNCOBUNDC40072F                                                                                                  
+260414INBU5174160MSCBEANRFPOGYE   GYEECGYEDC40260F       9 2211                                                                                     
+260282IEAU4569874MSCUSHOUFPOGYE   GYEECGYEDC40243F                                                                                                  
+260284MSCU4104611MSCUSNEWFPOBUN   BUNCOBUNDC40245F                                                                                                  
+260286ICSU1783201MSCBEANRFPOGYE   GYEECGYEDC40240F       3 3092                                                                                     
+260288CAXU4977120MSCUSHOUFPOGYE   GYEECGYEDCHC091F       311263                                                                                     
+260214MSCU4256867MSCUSSAVFPOBUN   BUNCOBUNDC40251F                                                                                                  
+260082MSCU4159532MSCBRSSZFPOGYE   GYEECGYEDC40291F       3 1993                                                                                     
+260084MSCU4139916MSCUSSAVFPOBUN   BUNCOBUNDC40270F                                                                                                  
+260086TGHU7029507MSCGBFXTFPOGYE   GYEECGYEDCHC186F       611812                                                                                     
+260088CAXU4079624MSCFRLEHFPOGYE   GYEECGYEDC40081F                                                                                                  
+260114CRXU4514583MSCUSNEWFPOBUN   BUNCOBUNDC40245F                                                                                                  
+260182GSTU6679255MSCUSHOUFPOGYE   GYEECGYEDC40245F                                                                                                  
+260184TRIU5774276MSCUSNEWFPOBUN   BUNCOBUNDC40245F                                                                                                  
+260186TRLU4428822MSCUSNEWFPOBUN   BUNCOBUNDC40238F                                                                                                  
+260188MSCU4257009MSCGBFXTFPOGYE   GYEECGYEDC40110F                                                                                                  
+260314CAXU4286067MSCUSNYCFPOBUN   BUNCOBUNDC40250F                                                                                                  
+260382TRLU1845057MSCBRRIGFPOBUN   BUNCOBUNRFHC315F   -18C                                                                                           
+260384MSCU8878730MSCUSNEWFPOBUN   BUNCOBUNDCHC248F                                                                                                  
+260386MSCU8201374MSCBRSSZFPOBUN   BUNCOBUNDCHC210F                                                                                                  
+260388MSCU4269592MSCUSSAVFPOBUN   BUNCOBUNDC40196F                                                                                                  
+260514TRLU4779982MSCUSNEWFPOBUN   BUNCOBUNDC40245F                                                                                                  
+260582GSTU7887119MSCUSMTNFPOGYE   GYEECGYEDCHC253F                                                                                                  
+260584MSCU8223964MSCUSNEWFPOGYE   GYEECGYEDCHC274F                                                                                                  
+260586SCZU5665891MSCBRSSZFPOBUN   BUNCOBUNDCHC208F                                                                                                  
+260588TRLU4100031MSCGBFXTFPOGYE   GYEECGYEDC40142F                                                                                                  
+260714TGHU4060216MSCUSJAXJAXBUN   BUNCOBUNDC40271F                                                                                                  
+260782TRIU4922189MSCUSHOUFPOGYE   GYEECGYEDC40243F                                                                                                  
+260784MSCU8704424MSCUSHOUFPOGYE   GYEECGYEDCHC247F                                                                                                  
+260786MSCU8039197MSCUSHOUFPOBUN   BUNCOBUNDCHC233F                                                                                                  
+260788TRLU6393427MSCBRRIGFPOGYE   GYEECGYEDC40135F                                                                                                  
+260902TTNU4707284MSCUSCHSCHSGYE   GYEEGGYEDC40214F                                                                                                  
+260904ITLU5345999MSCUSCHSCHSGYE   GYEEGGYEDC40275F                                                                                                  
+260906GSTU6162621MSCUSCHSCHSGYE   GYEEGGYEDC40215F                                                                                                  
+260908TRIU5475378MSCUSCHSCHSGYE   GYEEGGYEDC40216F                                                                                                  
+260910MSCU4260569MSCUSCHSCHSGYE   GYEEGGYEDC40270F                                                                                                  
+260912MSCU4241419MSCUSCHSCHSGYE   GYEEGGYEDC40273F                                                                                                  
+260914OCLU1441869NDLUSHOUFPOGYE   GYEECGYEDC40248F                                                                                                  
+260982TPHU5251787MSCFRLEHFPOGYE   GYEECGYEDC40289F                                                                                                  
+260984TRLU5709634MSCUSHOUFPOGYE   GYEECGYEDCHC250F                                                                                                  
+260986TRIU9038308MSCUSHOUFPOGYE   GYEECGYEDCHC240F                                                                                                  
+260988MSCU4511978MSCFRLEHFPOBUN   BUNCOBUNOT40108F AK                 50            1                                                               
+261182INBU4926431MSCBRRIGFPOBUN   BUNCOBUNDC40287F                                                                                                  
+261184MSCU4136563MSCUSNEWFPOBUN   BUNCOBUNDC40264F                                                                                                  
+261186CARU4698665MSCUSHOUFPOGYE   GYEECGYEDC40239F                                                                                                  
+261188ICSU1597573MSCFRLEHFPOBUN   BUNCOBUNDC40072F                                                                                                  
+270802TRIU2758440MSCUSCHSCHSBUN   BUNCOBUNDC20225F                                                                                                  
+270804ICSU0280990MSCUSHOUFPOBUN   BUNCOBUNTK20225F                                                                                                  
+270806TOLU9160819MSCUSHOUFPOBUN   BUNCOBUNTK20228F                                                                                                  
+270808TOLU9060300MSCUSHOUFPOBUN   BUNCOBUNTK20222F                                                                                                  
+270810TRLU0212624MSCUSHOUFPOBUN   BUNCOBUNTK20240F                                                                                                  
+270812TOLU9060110MSCUSHOUFPOBUN   BUNCOBUNTK20236F                                                                                                  
+270602MSCU2769201MSCBRSSZFPOBUN   BUNCOBUNDC20227F                                                                                                  
+270604GSTU2539342MSCUSNYCFPOBUN   BUNCOBUNDC20236F                                                                                                  
+270606MSCU1635050MSCUSHOUFPOGYE   GYEECGYEDC20208F                                                                                                  
+270608GSTU4683657MSCUSHOUFPOGYE   GYEECGYEDC20206F                                                                                                  
+270610PONU0877675NDLUSNEWFPOGYE   GYEECGYEDC20212F                                                                                                  
+270612ITLU6749491MSCBEANRFPOGYE   GYEECGYEDC20072F       2 1950                                                                                     
+270402GSTU5570017MSCBRRIGFPOBUN   BUNCOBUNDC20209F                                                                                                  
+270404TPXU7095333MSCBRVIXFPOBUN   BUNCOBUNDC20237F                                                                                                  
+270406TPHU6579507MSCBRRIOFPOBUN   BUNCOBUNDC20210F                                                                                                  
+270408TPHU2442007MSCBRSSZFPOGYE   GYEECGYEDC20186F                                                                                                  
+270410MSCU1636056MSCUSHOUFPOGYE   GYEECGYEDC20200F                                                                                                  
+270412MSCU2633935MSCGBFXTFPOGYE   GYEECGYEDC20183F                                                                                                  
+270202MSCU1500603MSCUSNYCFPOBUN   BUNCOBUNDC20222F                                                                                                  
+270204CAXU2238270MSCUSNEWFPOBUN   BUNCOBUNDC20230F                                                                                                  
+270206ITLU6774961MSCUSNYCFPOBUN   BUNCOBUNDC20195F                                                                                                  
+270208MSCU2245312MSCUSHOUFPOGYE   GYEECGYEDC20192F                                                                                                  
+270210MSCU2278553MSCUSNYCFPOGYE   GYEECGYEDC20209F       9 3082                                                                                     
+270212TPHU8011814MSCBRSSZFPOGYE   GYEECGYEDC20224F       9 2590                                                                                     
+270102MSCU1748610MSCBRSSZFPOBUN   BUNCOBUNDC20267F                                                                                                  
+270104MSCU2906860MSCFRLEHFPOBUN   BUNCOBUNDC20237F                                                                                                  
+270106TOLU2321418MSCBRRIGFPOBUN   BUNCOBUNDC20209F                                                                                                  
+270108SCZU8736427MSCUSHOUFPOGYE   GYEECGYETK20225F                                                                                                  
+270110CAXU2149419MSCBRSSZFPOGYE   GYEECGYEDC20226F       9 2590                                                                                     
+270112MSCU2780659MSCGBFXTFPOGYE   GYEECGYEDC20173F                                                                                                  
+270302GSTU4734395MSCBRVIXFPOBUN   BUNCOBUNDC20229F                                                                                                  
+270304MSCU2848759MSCFRLEHFPOGYE   GYEECGYEDC20237F                                                                                                  
+270306MSCU1252261MSCUSNYCFPOBUN   BUNCOBUNDC20209F                                                                                                  
+270308MSCU1843259MSCUSHOUFPOGYE   GYEECGYEDC20199F                                                                                                  
+270310MSCU2925789MSCBRSSZFPOGYE   GYEECGYEDC20225F       9 2590                                                                                     
+270312MSCU2454354MSCUSNEWFPOGYE   GYEECGYEDC20188F                                                                                                  
+270502MSCU2189559MSCUSNYCFPOBUN   BUNCOBUNDC20227F                                                                                                  
+270504MSCU1293548MSCMXLMRFPOGYE   GYEECGYEDC20228F                                                                                                  
+270506MSCU1109271MSCUSNYCFPOBUN   BUNCOBUNDC20195F                                                                                                  
+270508MSCU1771354MSCUSHOUFPOGYE   GYEECGYEDC20193F                                                                                                  
+270510TRLU3381079MSCMXLMRFPOGYE   GYEECGYEDC20228F                                                                                                  
+270512TRIU3125067MSCBRRIGFPOBUN   BUNCOBUNDC20208F                                                                                                  
+270702TPHU8162148MSCZADURFPOBUN   BUNCOBUNDC20223F                                                                                                  
+270704MSCU2045783MSCMXLMRFPOGYE   GYEECGYEDC20228F                                                                                                  
+270706MSCU2290862MSCFRLEHFPOBUN   BUNCOBUNDC20222F                                                                                                  
+270708OCLU0847107NDLUSHOUFPOGYE   GYEECGYEDC20199F                                                                                                  
+270710MSCU2165768MSCUSHOUFPOGYE   GYEECGYEDC20207F                                                                                                  
+270712MSCU1146275MSCUSNYCFPOBUN   BUNCOBUNDC20195F                                                                                                  
+310602MSCU2061383MSCFRLEHFPOARI   ARICLARIDC20237F                                                                                                  
+310604LCRU2829354MSCUSNEWFPOARI   ARICLARIDC20188F                                                                                                  
+310402MSCU2375960MSCMXVERFPOARI   ARICLARIDC20184F                                                                                                  
+310202GSTU2806536MSCGBFXTFPOARI   ARICLARIDC20223F                                                                                                  
+310102TRIU3953307MSCBEANRFPOARI   ARICLARIDC20237F                                                                                                  
+310302MSCU2743300MSCFRLEHFPOARI   ARICLARIDC20237F                                                                                                  
+321282TPHU5112225MSCUSNYCFPOCLL   CLLPECLLDC40056F                                                                                                  
+321082TRLU4779560MSCBEANRFPOCLL   CLLPECLLDC40260F       511479                                                                                     
+321084TRLU5490762MSCUSHOUFPOCLL   CLLPECLLDCHC238F                                                                                                  
+321086MSCU8700049MSCUSMTNFPOCLL   CLLPECLLDCHC078F                                                                                                  
+321004CRXU9174594MSCUSCHSCHSCLL   CLLPECLLDCHC294F                                                                                                  
+321006MSCU8764700MSCUSCHSCHSCLL   CLLPECLLDCHC282F                                                                                                  
+321008INKU2286282MSCUSCHSCHSCLL   CLLPECLLDCHC284F                                                                                                  
+321010CAXU9560864MSCUSCHSCHSCLL   CLLPECLLDCHC280F                                                                                                  
+321012TRLU5889752MSCUSCHSCHSCLL   CLLPECLLDCHC290F                                                                                                  
+320882AMFU8415244MSCBSFPOFPOCLL   CLLPECLLDCHC234F                                                                                                  
+320884MSCU8007923MSCUSHOUFPOCLL   CLLPECLLDCHC240F                                                                                                  
+320886MSCU8962434MSCBSFPOFPOCLL   CLLPECLLDCHC094F                                                                                                  
+320802MSCU8777360MSCUSCHSCHSCLL   CLLPECLLDCHC272F                                                                                                  
+320804MSCU8022785MSCUSCHSCHSCLL   CLLPECLLDCHC288F                                                                                                  
+320806MSCU8802098MSCUSCHSCHSCLL   CLLPECLLDCHC284F                                                                                                  
+320808MSCU8196128MSCUSCHSCHSCLL   CLLPECLLDCHC274F                                                                                                  
+320810INKU2273496MSCUSCHSCHSCLL   CLLPECLLDCHC285F                                                                                                  
+320812LCRU9605000MSCUSCHSCHSCLL   CLLPECLLDCHC286F                                                                                                  
+320682MSCU8029054MSCBRSSAFPOCLL   CLLPECLLDCHC295F                                                                                                  
+320684MSCU8065576MSCUSHOUFPOCLL   CLLPECLLDCHC233F                                                                                                  
+320686MSCU8008133MSCBSFPOFPOCLL   CLLPECLLDCHC197F                                                                                                  
+320606MSCU4083566MSCUSHOUFPOARI   ARICLARIDC40273F                                                                                                  
+320608MSCU4234425MSCUSHOUFPOARI   ARICLARIDC40278F                                                                                                  
+320610TEXU4523971MSCGBFXTFPOARI   ARICLARIDC40108F                                                                                                  
+320612TRIU5812186MSCGBFXTFPOARI   ARICLARIDC40108F                                                                                                  
+320614CRXU4964446MSCUSHOUFPOARI   ARICLARIDC40051F                                                                                                  
+320482MSCU8859787MSCUSHOUFPOCLL   CLLPECLLDCHC245F                                                                                                  
+320484MSCU8287758MSCUSNEWFPOCLL   CLLPECLLDCHC240F                                                                                                  
+320486MSCU8214957MSCUSHOUFPOCLL   CLLPECLLDCHC063F                                                                                                  
+320404TPHU5065397MSCUSHOUFPOARI   ARICLARIDC40269F                                                                                                  
+320406ICSU1733216MSCUSHOUFPOARI   ARICLARIDC40264F                                                                                                  
+320408CAXU7087330MSCUSHOUFPOARI   ARICLARIDC40257F                                                                                                  
+320410GSTU9383040MSCZADURFPOARI   ARICLARIDC40219F                                                                                                  
+320412CLHU4358530MSCBEANRFPOARI   ARICLARIDC40094F                                                                                                  
+320414GSTU8106524MSCUSHOUFPOARI   ARICLARIDC40059F                                                                                                  
+320282MSCU8324086MSCUSHOUFPOCLL   CLLPECLLDCHC246F                                                                                                  
+320284GSTU9709800MSCUSNEWFPOCLL   CLLPECLLDCHC263F                                                                                                  
+320286CAXU4853026MSCBSFPOFPOCLL   CLLPECLLDCHC094F                                                                                                  
+320204MSCU4321279MSCUSHOUFPOARI   ARICLARIDC40274F                                                                                                  
+320206LCRU4001923MSCUSHOUFPOARI   ARICLARIDC40266F                                                                                                  
+320208MSCU4223354MSCUSHOUFPOARI   ARICLARIDC40270F                                                                                                  
+320210CRXU4477690MSCUSHOUFPOARI   ARICLARIDC40264F                                                                                                  
+320212TRLU6264116MSCBEANRFPOCLL   CLLPECLLDC40240F                                                                                                  
+320214MSCU4015860MSCBEANRFPOCLL   CLLPECLLDC40080F                                                                                                  
+320082TRIU9751495MSCUSNEWFPOCLL   CLLPECLLDCHC244F                                                                                                  
+320084MSCU8966722MSCUSHOUFPOCLL   CLLPECLLDCHC239F                                                                                                  
+320086TRLU5442912MSCUSHOUFPOCLL   CLLPECLLDCHC238F                                                                                                  
+320104MSCU8930777MSCGBFXTFPOARI   ARICLARIDCHC262F                                                                                                  
+320106PONU7194412NDLUSMTNFPOARI   ARICLARIDCHC231F                                                                                                  
+320108FRLU9681001NDLUSMTNFPOARI   ARICLARIDCHC221F                                                                                                  
+320110MSCU8029814MSCFRLEHFPOCLL   CLLPECLLDCHC292F                                                                                                  
+320112MSCU8020611MSCUSHOUFPOCLL   CLLPECLLDCHC248F                                                                                                  
+320182IEAU4516236MSCBEANRFPOCLL   CLLPECLLDC40280F       9 2211                                                                                     
+320184CAXU4903960MSCUSHOUFPOCLL   CLLPECLLDCHC241F                                                                                                  
+320186CRXU9061643MSCBSFPOFPOCLL   CLLPECLLDCHC108F                                                                                                  
+320304TRLU5489843MSCGBFXTFPOARI   ARICLARIDCHC262F                                                                                                  
+320306GLDU0615372MSCUSHOUFPOARI   ARICLARIDCHC222F                                                                                                  
+320308MSCU8268315MSCUSNYCFPOARI   ARICLARIDCHC149F                                                                                                  
+320310GSTU9868550MSCBEANRFPOARI   ARICLARIDCHC081F                                                                                                  
+320312MSCU8846671MSCUSMTNFPOCLL   CLLPECLLDCHC085F                                                                                                  
+320382MSCU4067605MSCBEANRFPOCLL   CLLPECLLDC40280F       9 2211                                                                                     
+320384GSTU9794890MSCUSHOUFPOCLL   CLLPECLLDCHC238F                                                                                                  
+320386MSCU8233010MSCUSHOUFPOCLL   CLLPECLLDCHC218F                                                                                                  
+320502TRLU4076640MSCUSHOUFPOARI   ARICLARIDC40263F                                                                                                  
+320504GSTU7339270MSCUSHOUFPOARI   ARICLARIDC40270F                                                                                                  
+320506TRIU5319077MSCUSHOUFPOARI   ARICLARIDC40255F                                                                                                  
+320508TPHU4811439MSCUSHOUFPOARI   ARICLARIDC40263F                                                                                                  
+320510MSCU4260466MSCUSHOUFPOARI   ARICLARIDC40270F                                                                                                  
+320512TPHU5222006MSCGBFXTFPOARI   ARICLARIDC40108F                                                                                                  
+320514GWCU 600473MSCXXOPTFPOARI   ARICLARIDC40116F                                                                                                  
+320582MSCU8867376MSCBRSSAFPOCLL   CLLPECLLDCHC270F                                                                                                  
+320584INKU2207658MSCUSHOUFPOCLL   CLLPECLLDCHC239F                                                                                                  
+320586MSCU8742358MSCUSHOUFPOCLL   CLLPECLLDCHC099F                                                                                                  
+320702GLDU0694406MSCUSCHSCHSCLL   CLLPECLLDCHC283F                                                                                                  
+320704MSCU8720831MSCUSCHSCHSCLL   CLLPECLLDCHC281F                                                                                                  
+320706MSCU8121031MSCUSCHSCHSCLL   CLLPECLLDCHC287F                                                                                                  
+320708TRIU9317093MSCUSCHSCHSCLL   CLLPECLLDCHC287F                                                                                                  
+320710MSCU8243913MSCUSCHSCHSCLL   CLLPECLLDCHC270F                                                                                                  
+320712MSCU8800984MSCUSCHSCHSCLL   CLLPECLLDCHC284F                                                                                                  
+320782ICSU1671367MSCBEANRFPOCLL   CLLPECLLDC40280F       9 2211                                                                                     
+320784MSCU8130795MSCFRLEHFPOCLL   CLLPECLLDCHC234F                                                                                                  
+320786MSCU8725134MSCUSHOUFPOCLL   CLLPECLLDCHC109F                                                                                                  
+320904ICSU1776141MSCUSCHSCHSCLL   CLLPECLLDC40118F                                                                                                  
+320906TPHU4884420MSCUSCHSCHSCLL   CLLPECLLDC40183F                                                                                                  
+320908TOLU3504239MSCUSCHSCHSCLL   CLLPECLLDC40096F                                                                                                  
+320910TRIU4651153MSCUSCHSCHSCLL   CLLPECLLDC40105F                                                                                                  
+320912CRXU4420503MSCUSCHSCHSCLL   CLLPECLLDC40294F                                                                                                  
+320914TRLU4072388MSCBEANRFPOCLL   CLLPECLLDC40240F                                                                                                  
+320982CRXU5905160MSCBEANRFPOCLL   CLLPECLLRF40276F    10C                                                                                           
+320984MSCU8012730MSCUSNEWFPOCLL   CLLPECLLDCHC239F                                                                                                  
+320986MSCU8325307MSCUSHOUFPOCLL   CLLPECLLDCHC073F                                                                                                  
+321182CLHU4099470MSCFRLEHFPOCLL   CLLPECLLDC40149F                                                                                                  
+321184TRLU6270058MSCUSCHSCHSCLL   CLLPECLLDC40114F                                                                                                  
+330602GSTU3209577MSCUSNYCFPOARI   ARICLARIDC20190F                                                                                                  
+330604TRLU2420313MSCUSNEWFPOARI   ARICLARIDC20188F                                                                                                  
+330402MSCU1567870MSCGBFXTFPOARI   ARICLARIDC20204F                                                                                                  
+330202MSCU2124476MSCGBFXTFPOARI   ARICLARIDC20238F                                                                                                  
+330102MSCU2231540MSCGBFXTFPOARI   ARICLARIDC20238F                                                                                                  
+330302MSCU2476693MSCUSNEWFPOARI   ARICLARIDC20237F                                                                                                  
+351006MSCU2048695MSCGBFXTFPOSVE   SVECLSVEDC20258F                                                                                                  
+350804MSCU2461986MSCBEANRFPOSVE   SVECLSVEDC20227F                                                                                                  
+350806MSCU2622925MSCBEANRFPOSVE   SVECLSVEDC20172F                                                                                                  
+350602MSCU1304257MSCBEANRFPOSVE   SVECLSVEDC20227F                                                                                                  
+350604PRSU2035978MSCBEANRFPOSVE   SVECLSVEDC20227F                                                                                                  
+350606MSCU2174590MSCBEANRFPOSVE   SVECLSVEDC20227F                                                                                                  
+350502MSCU1030520MSCBEANRFPOSVE   SVECLSVEDC20227F                                                                                                  
+350504INBU3265091MSCBEANRFPOSVE   SVECLSVEDC20227F                                                                                                  
+350506MSCU2661053MSCBEANRFPOSVE   SVECLSVEDC20227F                                                                                                  
+350704TRLU3478201MSCBEANRFPOSVE   SVECLSVEDC20227F                                                                                                  
+350706TRLU2126253MSCBEANRFPOSVE   SVECLSVEDC20227F                                                                                                  
+350782DWAU0000325MSCUSNEWFPOSVE   SVECLSVETK20114F       512015                                                                                     
+350784DWAU0001229MSCUSNEWFPOSVE   SVECLSVETK20220F       512015                                                                                     
+350786DWAU0001321MSCUSNEWFPOSVE   SVECLSVETK20217F       512015                                                                                     
+350906CRXU2993390MSCBEANRFPOSVE   SVECLSVEDC20227F                                                                                                  
+350982DWAU0001492MSCUSNEWFPOSVE   SVECLSVETK20218F       512015                                                                                     
+350984EVAU5801141MSCUSNEWFPOSVE   SVECLSVETK20221F       512015                                                                                     
+351182TPHU6530580MSCGBFXTFPOSVE   SVECLSVEDC20123F                                                                                                  
+351184CRXU2786941MSCFRLEHFPOSVE   SVECLSVEDC20028F                                                                                                  
+361282MSCU4040306MSCBRRIGFPOCTG   CTGCOCTGDC40289F                                                                                                  
+361284TPHU4283516MSCUSSAVFPOCTG   CTGCOCTGDC40236F                                                                                                  
+361286TOLU2193472MSCUSNYCFPOCTG   CTGCOCTGDC40204F                                                                                                  
+361288XTRU4099809MSCUSCHSCHSCTG   CTGCOCTGDC40143F                                                                                                  
+361082MSCU8690721MSCUSMTNFPOCTG   CTGCOCTGDCHC272F                                                                                                  
+361084MSCU8074541MSCUSHOUFPOCTG   CTGCOCTGDCHC240F                                                                                                  
+361086CAXU7100284MSCBEANRFPOCTG   CTGCOCTGDC40238F                                                                                                  
+361088CRXU6808735MSCJMKINFPOSVE   SVECLSVERFHC040E                                                                                                  
+361008ICSU6980760MSCUSJAXJAXSVE   SVECLSVEDCHC035E                                                                                                  
+361010CRXU9028060MSCUSJAXJAXSVE   SVECLSVEDCHC035E                                                                                                  
+361012MSCU8102746MSCUSJAXJAXSVE   SVECLSVEDCHC035E                                                                                                  
+360882TRIU9512470MSCUSHOUFPOCTG   CTGCOCTGDCHC241F                                                                                                  
+360884MSCU8955332MSCUSHOUFPOCTG   CTGCOCTGDCHC239F                                                                                                  
+360886MSCU8049739MSCUSHOUFPOCTG   CTGCOCTGDCHC239F                                                                                                  
+360888MSCU8155073MSCUSCHSCHSCTG   CTGCOCTGDCHC100F                                                                                                  
+360808MSCU8132381MSCUSJAXJAXSVE   SVECLSVEDCHC035E                                                                                                  
+360810MSCU8848669MSCUSJAXJAXSVE   SVECLSVEDCHC035E                                                                                                  
+360812MSCU8701493MSCUSJAXJAXSVE   SVECLSVEDCHC035E                                                                                                  
+360682MSCU8033183MSCUSHOUFPOCTG   CTGCOCTGDCHC241F                                                                                                  
+360684TRLU4253581MSCUSCHSCHSCTG   CTGCOCTGDC40113F                                                                                                  
+360686MSCU8954779MSCUSCHSCHSCTG   CTGCOCTGDCHC095F                                                                                                  
+360688SCZU5562260MSCUSCHSCHSCTG   CTGCOCTGDCHC083F                                                                                                  
+360608MSCU8987140MSCBEANRFPOSVE   SVECLSVEDCHC284F                                                                                                  
+360610TRIU5531609MSCBEANRFPOSVE   SVECLSVEDC40240F                                                                                                  
+360612MSCU4517019MSCFRLEHFPOSVE   SVECLSVEOT40130F                                                                                                  
+360482CRLU1173547MSCCNSHAFPOSVE   SVECLSVERFHC036E                                                                                                  
+360484GCEU7756315MSCMXVERFPOSVE   SVECLSVERFHC052E                                                                                                  
+360486CRLU7228523MSCKRPUSFPOSVE   SVECLSVERFHC039E                                                                                                  
+360488CRLU5221480MSCHTPAPFPOSVE   SVECLSVERFHC043E                                                                                                  
+360402MSCU8270185MSCUSJAXJAXSVE   SVECLSVEDCHC035E                                                                                                  
+360404MSCU8315000MSCUSJAXJAXSVE   SVECLSVEDCHC035E                                                                                                  
+360406MSCU8321277MSCUSJAXJAXSVE   SVECLSVEDCHC035E                                                                                                  
+360408MSCU8139128MSCUSJAXJAXSVE   SVECLSVEDCHC035E                                                                                                  
+360410INKU2898800MSCUSJAXJAXSVE   SVECLSVEDCHC039E                                                                                                  
+360412MSCU8871904MSCUSJAXJAXSVE   SVECLSVEDCHC035E                                                                                                  
+360282MSCU8323752MSCUSJAXJAXSVE   SVECLSVEDCHC035E                                                                                                  
+360284TRLU1845490MSCMXVERFPOSVE   SVECLSVERFHC052E                                                                                                  
+360286CRLU6204764MSCHTPAPFPOSVE   SVECLSVERFHC043E                                                                                                  
+360288CRLU9119521MSCHTPAPFPOSVE   SVECLSVERFHC043E                                                                                                  
+360202MSCU8176327MSCUSJAXJAXSVE   SVECLSVEDCHC035E                                                                                                  
+360204MSCU8289730MSCUSJAXJAXSVE   SVECLSVEDCHC035E                                                                                                  
+360206MSCU8013253MSCUSJAXJAXSVE   SVECLSVEDCHC035E                                                                                                  
+360208MSCU8265152MSCUSJAXJAXSVE   SVECLSVEDCHC035E                                                                                                  
+360210MSCU8732220MSCUSJAXJAXSVE   SVECLSVEDCHC035E                                                                                                  
+360212MSCU8226752MSCUSJAXJAXSVE   SVECLSVEDCHC035E                                                                                                  
+360082MSCU8272151MSCUSJAXJAXSVE   SVECLSVEDCHC035E                                                                                                  
+360084CRLU7202344MSCMXVERFPOSVE   SVECLSVERFHC052E                                                                                                  
+360086CRLU5133080MSCHTPAPFPOSVE   SVECLSVERFHC043E                                                                                                  
+360088CRLU9139889MSCBSNASFPOSVE   SVECLSVERFHC042E                                                                                                  
+360102MSCU8155746MSCUSJAXJAXSVE   SVECLSVEDCHC035E                                                                                                  
+360104TRLU5488446MSCUSJAXJAXSVE   SVECLSVEDCHC035E                                                                                                  
+360106TRLU5756765MSCUSJAXJAXSVE   SVECLSVEDCHC035E                                                                                                  
+360108MSCU8938720MSCUSJAXJAXSVE   SVECLSVEDCHC035E                                                                                                  
+360110TRLU5470196MSCUSJAXJAXSVE   SVECLSVEDCHC035E                                                                                                  
+360112MSCU8683960MSCUSJAXJAXSVE   SVECLSVEDCHC035E                                                                                                  
+360182MSCU8214129MSCUSJAXJAXSVE   SVECLSVEDCHC035E                                                                                                  
+360184CRLU1152415MSCMXVERFPOSVE   SVECLSVERFHC052E                                                                                                  
+360186CRLU7228713MSCKRPUSFPOSVE   SVECLSVERFHC039E                                                                                                  
+360188CRLU7202339MSCHTPAPFPOSVE   SVECLSVERFHC043E                                                                                                  
+360302MSCU8796884MSCUSJAXJAXSVE   SVECLSVEDCHC035E                                                                                                  
+360304INKU2271873MSCUSJAXJAXSVE   SVECLSVEDCHC035E                                                                                                  
+360306MSCU8153147MSCUSJAXJAXSVE   SVECLSVEDCHC035E                                                                                                  
+360308GESU9094319MSCUSJAXJAXSVE   SVECLSVERFHC043E                                                                                                  
+360310MSCU8312634MSCUSJAXJAXSVE   SVECLSVEDCHC035E                                                                                                  
+360312MSCU8164959MSCUSJAXJAXSVE   SVECLSVEDCHC035E                                                                                                  
+360382CRLU1173742MSCCNSHAFPOSVE   SVECLSVERFHC036E                                                                                                  
+360384CRLU5129666MSCMXVERFPOSVE   SVECLSVERFHC052E                                                                                                  
+360386TRLU1791937MSCHTPAPFPOSVE   SVECLSVERFHC043E                                                                                                  
+360388CRLU5158920MSCHTPAPFPOSVE   SVECLSVERFHC043E                                                                                                  
+360508GLDU0510427MSCGBFXTFPOSVE   SVECLSVEDCHC242F                                                                                                  
+360510MSCU8721571MSCBEANRFPOSVE   SVECLSVEDCHC184F                                                                                                  
+360512MSCU8762400MSCUSHOUFPOSVE   SVECLSVEDCHC106F                                                                                                  
+360582TRLU1793647MSCMXVERFPOSVE   SVECLSVERFHC052E                                                                                                  
+360584CRLU1174040MSCCNSHAFPOSVE   SVECLSVERFHC036E                                                                                                  
+360586CRLU5217509MSCHTPAPFPOSVE   SVECLSVERFHC043E                                                                                                  
+360588CRLU7228436MSCKRPUSFPOSVE   SVECLSVERFHC039E                                                                                                  
+360708MSCU8167808MSCUSJAXJAXSVE   SVECLSVEDCHC035E                                                                                                  
+360710TRLU5480933MSCUSJAXJAXSVE   SVECLSVEDCHC035E                                                                                                  
+360712MSCU8041403MSCUSJAXJAXSVE   SVECLSVEDCHC035E                                                                                                  
+360908TRLU5675766MSCUSJAXJAXSVE   SVECLSVEDCHC035E                                                                                                  
+360910MSCU8265506MSCUSJAXJAXSVE   SVECLSVEDCHC035E                                                                                                  
+360912MSCU8111199MSCUSJAXJAXSVE   SVECLSVEDCHC035E                                                                                                  
+370806UFCU6446786MSCGBFXTFPOSVE   SVECLSVEDC20155F                                                                                                  
+370604MSCU1536210MSCBEANRFPOSVE   SVECLSVEDC20227F                                                                                                  
+370606TRLU3361827MSCBEANRFPOSVE   SVECLSVEDC20227F                                                                                                  
+370504MSCU1384231MSCBEANRFPOSVE   SVECLSVEDC20227F                                                                                                  
+370506GSTU5572642MSCBEANRFPOSVE   SVECLSVEDC20227F                                                                                                  
+370706MSCU2643105MSCBEANRFPOSVE   SVECLSVEDC20227F                                                                                                  
+370782MSCU2311076MSCXXOPTFPOCTG   CTGCOCTGDC20073F                                                                                                  
+370982MSCU2850355MSCBEANRFPOSVE   SVECLSVEDC20072F                                                                                                  
+370984MSCU1060839MSCCNCWNFPOCTG   CTGCOCTGDC20092F                                                                                                  
+390282MSCU1777368MSCUSJAXJAXSVE   SVECLSVEDC20021E                                                                                                  
+401084MSCU8245080MSCUSJAXJAXSVE   SVECLSVEDCHC035E                                                                                                  
+401086MSCU8154781MSCUSJAXJAXSVE   SVECLSVEDCHC035E                                                                                                  
+401088MSCU8135251MSCUSJAXJAXSVE   SVECLSVEDCHC035E                                                                                                  
+401090MSCU8288841MSCUSJAXJAXSVE   SVECLSVEDCHC035E                                                                                                  
+400882MSCU8996590MSCUSJAXJAXSVE   SVECLSVEDCHC035E                                                                                                  
+400884MSCU8229031MSCUSJAXJAXSVE   SVECLSVEDCHC035E                                                                                                  
+400886MSCU8269100MSCUSJAXJAXSVE   SVECLSVEDCHC035E                                                                                                  
+400888MSCU8745130MSCUSJAXJAXSVE   SVECLSVEDCHC035E                                                                                                  
+400890MSCU8329339MSCUSJAXJAXSVE   SVECLSVEDCHC035E                                                                                                  
+400682MSCU8729000MSCUSJAXJAXSVE   SVECLSVEDCHC035E                                                                                                  
+400684MSCU8777380MSCUSJAXJAXSVE   SVECLSVEDCHC035E                                                                                                  
+400686TRIU9682408MSCUSJAXJAXSVE   SVECLSVEDCHC035E                                                                                                  
+400688MSCU8944451MSCUSJAXJAXSVE   SVECLSVEDCHC035E                                                                                                  
+400690TOLU1587234MSCUSJAXJAXSVE   SVECLSVEDCHC035E                                                                                                  
+400482GSTU8648150MSCUSJAXJAXSVE   SVECLSVEDCHC039E                                                                                                  
+400484MSCU8853813MSCUSJAXJAXSVE   SVECLSVEDCHC035E                                                                                                  
+400486MSCU8961417MSCUSJAXJAXSVE   SVECLSVEDCHC035E                                                                                                  
+400488MSCU8119625MSCUSJAXJAXSVE   SVECLSVEDCHC035E                                                                                                  
+400490MSCU8201991MSCUSJAXJAXSVE   SVECLSVEDCHC035E                                                                                                  
+400284MSCU8241470MSCUSJAXJAXSVE   SVECLSVEDCHC035E                                                                                                  
+400286MSCU8324213MSCUSJAXJAXSVE   SVECLSVEDCHC035E                                                                                                  
+400288MSCU8369516MSCUSJAXJAXSVE   SVECLSVEDCHC035E                                                                                                  
+400290MSCU8917287MSCUSJAXJAXSVE   SVECLSVEDCHC035E                                                                                                  
+400082MSCU8261624MSCUSJAXJAXSVE   SVECLSVEDCHC035E                                                                                                  
+400084TRLU5621590MSCUSJAXJAXSVE   SVECLSVEDCHC035E                                                                                                  
+400086MSCU8727543MSCUSJAXJAXSVE   SVECLSVEDCHC035E                                                                                                  
+400088MSCU8323500MSCUSJAXJAXSVE   SVECLSVEDCHC035E                                                                                                  
+400090MSCU8824040MSCUSJAXJAXSVE   SVECLSVEDCHC035E                                                                                                  
+400182MSCU8155962MSCUSJAXJAXSVE   SVECLSVEDCHC035E                                                                                                  
+400184MSCU8954104MSCUSJAXJAXSVE   SVECLSVEDCHC035E                                                                                                  
+400186INKU2271338MSCUSJAXJAXSVE   SVECLSVEDCHC035E                                                                                                  
+400188MSCU8113252MSCUSJAXJAXSVE   SVECLSVEDCHC035E                                                                                                  
+400190TRLU5885227MSCUSJAXJAXSVE   SVECLSVEDCHC035E                                                                                                  
+400382MSCU8011369MSCUSJAXJAXSVE   SVECLSVEDCHC035E                                                                                                  
+400384MSCU8963472MSCUSJAXJAXSVE   SVECLSVEDCHC035E                                                                                                  
+400386MSCU8761039MSCUSJAXJAXSVE   SVECLSVEDCHC035E                                                                                                  
+400388MSCU8205507MSCUSJAXJAXSVE   SVECLSVEDCHC035E                                                                                                  
+400390MSCU8107603MSCUSJAXJAXSVE   SVECLSVEDCHC035E                                                                                                  
+400582MSCU8082085MSCUSJAXJAXSVE   SVECLSVEDCHC035E                                                                                                  
+400584MSCU8903489MSCUSJAXJAXSVE   SVECLSVEDCHC035E                                                                                                  
+400586MSCU8692616MSCUSJAXJAXSVE   SVECLSVEDCHC035E                                                                                                  
+400588ITLU7371111MSCUSJAXJAXSVE   SVECLSVEDCHC041E                                                                                                  
+400590LCRU9603517MSCUSJAXJAXSVE   SVECLSVEDCHC035E                                                                                                  
+400782CRXU9734560MSCUSJAXJAXSVE   SVECLSVEDCHC035E                                                                                                  
+400784MSCU8702822MSCUSJAXJAXSVE   SVECLSVEDCHC035E                                                                                                  
+400786MSCU8245460MSCUSJAXJAXSVE   SVECLSVEDCHC035E                                                                                                  
+400788MSCU8052460MSCUSJAXJAXSVE   SVECLSVEDCHC035E                                                                                                  
+400790MSCU8989230MSCUSJAXJAXSVE   SVECLSVEDCHC035E                                                                                                  
+400984MSCU8283686MSCUSJAXJAXSVE   SVECLSVEDCHC035E                                                                                                  
+400986TRIU9311794MSCUSJAXJAXSVE   SVECLSVEDCHC035E                                                                                                  
+400988MSCU8033136MSCUSJAXJAXSVE   SVECLSVEDCHC035E                                                                                                  
+400990MSCU8845058MSCUSJAXJAXSVE   SVECLSVEDCHC035E                                                                                                  
+431084EXFU0511361MSCUSNYCFPOSAI   SAICLSAITK20054F                                                                                                  
+431086MSCU2086463MSCUSMIAFPOSAI   SAICLSAIDC20046F                                                                                                  
+431088TPHU6882262MSCGBFXTFPOSAI   SAICLSAIDC20068F                                                                                                  
+430884ERFU9912927MSCUSMTNFPOSAI   SAICLSAITK20070F                                                                                                  
+430886MSCU2643846MSCUSNYCFPOSAI   SAICLSAIDC20107F                                                                                                  
+430888TPHU8224276MSCBEANRFPOSAI   SAICLSAIDC20060F                                                                                                  
+430684TIFU3481264MSCUSNYCFPOSAI   SAICLSAITK20041F                                                                                                  
+430686MSCU1538764MSCFRLEHFPOSAI   SAICLSAIDC20056F                                                                                                  
+430688MSCU2841517MSCUSNYCFPOSAI   SAICLSAIDC20073F                                                                                                  
+430484ERFU9912932MSCUSMTNFPOSAI   SAICLSAITK20067F                                                                                                  
+430486CRXU8503843MSCUSNYCFPOSAI   SAICLSAITK20054F                                                                                                  
+430488SCZU7634821MSCUSNYCFPOSAI   SAICLSAIDC20052F                                                                                                  
+430284TRXU2551054MSCUSNYCFPOSAI   SAICLSAITK20052F                                                                                                  
+430286ERFU8520238MSCUSMTNFPOSAI   SAICLSAITK20036F                                                                                                  
+430288INBU3785663MSCBEANRFPOSAI   SAICLSAIDC20052F                                                                                                  
+430084PONU0728835NDLUSNEWFPOSAI   SAICLSAIDC20134F                                                                                                  
+430086    2195922MSCGBFXTFPOSAI   SAICLSAIDC20100F                                                                                                  
+430088MLCU2452045MSCGBFXTFPOSAI   SAICLSAIDC20120F                                                                                                  
+430184ERFU9912423MSCUSMTNFPOSAI   SAICLSAITK20041F                                                                                                  
+430186ERFU9912568MSCUSMTNFPOSAI   SAICLSAITK20067F                                                                                                  
+430188MSCU2045588MSCUSNEWFPOSAI   SAICLSAIDC20051F                                                                                                  
+430384TRXU2550145MSCUSNYCFPOSAI   SAICLSAITK20097F                                                                                                  
+430386ERFU9912260MSCUSMTNFPOSAI   SAICLSAITK20038F                                                                                                  
+430388MSCU1315755MSCUSNENFPOSAI   SAICLSAIDC20050F                                                                                                  
+430584TRXU2450043MSCUSNYCFPOSAI   SAICLSAITK20052F                                                                                                  
+430586MSCU1546923MSCFRLEHFPOSAI   SAICLSAIDC20040F                                                                                                  
+430588MSCU1774395MSCUSHOUFPOSAI   SAICLSAIDC20027F                                                                                                  
+430784CRXU8503308MSCUSNYCFPOSAI   SAICLSAITK20057F                                                                                                  
+430786MSCU1783231MSCFRLEHFPOSAI   SAICLSAIDC20044F                                                                                                  
+430788MSCU1749094MSCBEANRFPOSAI   SAICLSAIDC20092F                                                                                                  
+430984ERFU9912254MSCUSMTNFPOSAI   SAICLSAITK20070F                                                                                                  
+430986CAXU2037661MSCZADURFPOSAI   SAICLSAIDC20050F                                                                                                  
+***Refer to the following remark.                                                                                                                   

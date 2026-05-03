@@ -1,0 +1,67 @@
+5591 	              ADAPAUSTRO S.A.                                   
+7020 	              AGMARESA (PERMISIONARIA)                          
+1315 	              ALGRACESA
+4035 	              ALMACENERA DEL AGRO S.A. - ALMAGRO (QUITO)
+6913 	              ALMACENERA DEL PACIFICO                           
+1324 	              ALMACEPRO                                         
+4015 	              ALMACONTI
+6031 	              ALMACOPIO (GUAYAQUIL)
+7292 	              ALMACOPIO S.A. (QUITO)
+8822 	              ALMACOPIO S.A.(CUENCA)
+4033 	              ALMAGRO GUYAQUIL
+4042 	              ALMAQUIL
+4051 	              ALMESA (GUAYAQUIL)
+4052 	              ALMESA (MANTA)                                    
+4053 	              ALMESA (QUITO)
+6040 	              AMERICAN AIRLINE
+2350 	              ANDIGRAIN S.A.                                    
+8318 	              ANDINA LICORES S.A.                               
+0029 	              AUTO CONFIANZA S.A.                               
+6888 	              AUTOMOTORES BRITANICOS DEL ECUADOR "BRITANMOTORS"
+1333 	              AUTOMOTORES Y ANEXOS
+8552 	              AYASA                                             
+6923 	              BARAINVER S.A                                     
+9010 	              BODALMET                                          
+9011 	              BODALMET (QUITO)                                  
+2305 	              CARGO SERVICE S.A.
+1306 	              CHALLENGE
+3818 	              COIMPEXA CIA. LTDA
+7049 	              COMEXPORT S.A.                                    
+6897 	              COMPAÑIA MINGA S.A.
+8291 	              CONDESCARGO                                       
+7337 	              DEPCONMACO                                        
+5031 	              DEPOGAS DCP S.A. (PTO BOLIVAR)                    
+5032 	              DEPOGAS S.A
+7777 	              DEPOSITO COMERCIAL PRIVADO C.A. EL COMERCIO       
+9632 	              DINA S.A.                                         
+6912 	              DITECA S.A                                        
+1351 	              ECON.NELSON GONZALEZ
+1379 	              FERRERO DEL ECUADOR                               
+9272 	              FERTISA, FERTILIZANTES, TERMINALES Y SERVICIOS S.A
+9641 	              FRIOEXPORT                                        
+5564 	              GRUPO CORP-ACET CIA LTDA                          
+6910 	              IMPORTADORA ANDINA                                
+3872 	              INDUSTRIAS ALES C.A.                              
+0668 	              INDUSTRIAS SENEFELDER                             
+6950 	              LOGISTAPIR GESTORIA C. LTDA
+2297 	              MADESA
+1766 	              MARESA                                            
+9930 	              MOLINOS DEL ECUADOR                               
+1805 	              MULTIMODAL
+2477 	              MUNICIPIO-DUCTO
+6917 	              NORIMPORT C. LTDA                                 
+6022 	              PANATLANTIC
+6945 	              PREMIUMMAR S.A.
+1405 	              SAGEC DEL ECUADOR
+6920 	              SAIEXPERSS
+6914 	              SALICA DEL ECUADOR                                
+1397 	              SANTA FE PETROLEUM
+1388 	              SERDASA                                           
+7670 	              SHREE NATHJI S.A                       
+2468 	              SIPRESSA                                          
+1414 	              SKIDA
+7012 	              SKIODA S.A.                                       
+1423 	              TAT DEL ECUADOR
+9100 	              TRADIMAR                             
+4097 	              TRANDINA - QUITO                                  
+4098 	              TRANDINA S. A.

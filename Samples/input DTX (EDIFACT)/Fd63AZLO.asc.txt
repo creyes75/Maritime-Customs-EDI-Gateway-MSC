@@ -1,0 +1,200 @@
+$604MSFD/MSC FEDERICA        /163A        /FEDERICA    /POL:ZLO/20030203/RECORD=0183/            /                                                                                                    
+$600PORT ROTATION/                                                                                                                                                                                    
+060202 MSCU8093428 MSCZLO  ZLOIQQ   IQQCLIQQDCHC200F                                                                                                                                                  
+060204 MSCU4221916 MSCZLO  ZLOIQQ   IQQCLIQQDC40200F                                                                                                                                                  
+060102 MSCU4286060 MSCZLO  ZLOIQQ   IQQCLIQQDC40140F                                                                                                                                                  
+060104 SCZU5574390 MSCZLO  ZLOIQQ   IQQCLIQQDCHC170F                                                                                                                                                  
+060106 TRLU5341898 MSCZLO  ZLOIQQ   IQQCLIQQDCHC120F                                                                                                                                                  
+070182 MSCU2115601 MSCZLO  ZLOIQQ   IQQCLIQQDC20056F                                                                                                                                                  
+090202 GSTU2418628 MSCZLO  ZLOCLL   CLLPECLLDC20240F                                                                                                                                                  
+090204 MSCU2912930 MSCZLO  ZLOCLL   CLLPECLLDC20200F                                                                                                                                                  
+090282 MSCU1949908 MSCZLO  ZLOCLL   CLLPECLLDC20061F                                                                                                                                                  
+090102 TEXU2945319 MSCZLO  ZLOCLL   CLLPECLLDC20240F                                                                                                                                                  
+090104 MSCU2960898 MSCZLO  ZLOCLL   CLLPECLLDC20243F                                                                                                                                                  
+090182 MSCU2278770 MSCZLO  ZLOCLL   CLLPECLLDC20082F                                                                                                                                                  
+100606 MSCU8184868 MSCZLO  ZLOCLL   CLLPECLLDCHC132F                                                                                                                                                  
+100404 MSCU4291596 MSCZLO  ZLOCLL   CLLPECLLDC40178F                                                                                                                                                  
+100406 TRIU5763564 MSCZLO  ZLOCLL   CLLPECLLDC40110F                                                                                                                                                  
+100482 MSCU8927916 MSCZLO  ZLOCLL   CLLPECLLDCHC150F                                                                                                                                                  
+100206 CLHU4259630 MSCZLO  ZLOCLL   CLLPECLLDC40125F                                                                                                                                                  
+100106 CRXU4450874 MSCZLO  ZLOCLL   CLLPECLLDC40125F                                                                                                                                                  
+100304 CRXU4404312 MSCZLO  ZLOCLL   CLLPECLLDC40160F                                                                                                                                                  
+100306 MSCU4293500 MSCZLO  ZLOCLL   CLLPECLLDC40160F                                                                                                                                                  
+100382 MSCU8229509 MSCZLO  ZLOCLL   CLLPECLLDCHC170F                                                                                                                                                  
+110202 CAXU6303190 MSCZLO  ZLOCLL   CLLPECLLDC20100F                                                                                                                                                  
+110204 ITLU6543999 MSCZLO  ZLOCLL   CLLPECLLDC20240F                                                                                                                                                  
+110282 MSCU1942708 MSCZLO  ZLOCLL   CLLPECLLDC20077F                                                                                                                                                  
+110102 MSCU2943972 MSCZLO  ZLOCLL   CLLPECLLDC20243F                                                                                                                                                  
+110104 IEAU2529872 MSCZLO  ZLOCLL   CLLPECLLDC20135F                                                                                                                                                  
+110182 MSCU1917475 MSCZLO  ZLOCLL   CLLPECLLDC20092F                                                                                                                                                  
+130602 CRXU2874847 MSCZLO  ZLOGYE   GYEECGYEDC20160F                                                                                                                                                  
+130604 UFCU6202136 MSCZLO  ZLOGYE   GYEECGYEDC20160F                                                                                                                                                  
+130402 MSCU2988956 MSCZLO  ZLOGYE   GYEECGYEDC20160F                                                                                                                                                  
+130404 TTNU2274400 MSCZLO  ZLOGYE   GYEECGYEDC20160F                                                                                                                                                  
+130202 ICSU4921006 MSCZLO  ZLOGYE   GYEECGYEDC20170F                                                                                                                                                  
+130204 CAXU2144124 MSCZLO  ZLOGYE   GYEECGYEDC20170F                                                                                                                                                  
+130102 CRXU2207700 MSCZLO  ZLOGYE   GYEECGYEDC20170F                                                                                                                                                  
+130104 XTRU2097767 MSCZLO  ZLOGYE   GYEECGYEDC20170F                                                                                                                                                  
+130302 MSCU2073717 MSCZLO  ZLOGYE   GYEECGYEDC20320F                                                                                                                                                  
+130304 CAXU2448868 MSCZLO  ZLOGYE   GYEECGYEDC20170F                                                                                                                                                  
+130502 TPHU8037655 MSCZLO  ZLOGYE   GYEECGYEDC20059F                                                                                                                                                  
+141082 CARU9616280 MSCZLO  ZLOGYE   GYEECGYEDCHC163F                                                                                                                                                  
+140882 MSCU8553755 MSCZLO  ZLOGYE   GYEECGYEDCHC100F                                                                                                                                                  
+140884 MSCU4058795 MSCZLO  ZLOGYE   GYEECGYEDC40150F                                                                                                                                                  
+140682 MSCU8337571 MSCZLO  ZLOGYE   GYEECGYEDCHC095F                                                                                                                                                  
+140684 MSCU4347545 MSCZLO  ZLOGYE   GYEECGYEDC40112F                                                                                                                                                  
+140482 MSCU8357393 MSCZLO  ZLOGYE   GYEECGYEDCHC220F                                                                                                                                                  
+140484 MSCU4341491 MSCZLO  ZLOGYE   GYEECGYEDC40140F                                                                                                                                                  
+140282 CAXU9803352 MSCZLO  ZLOGYE   GYEECGYEDCHC194F                                                                                                                                                  
+140284 MSCU4316101 MSCZLO  ZLOGYE   GYEECGYEDC40270F                                                                                                                                                  
+140182 TRLU5489442 MSCZLO  ZLOGYE   GYEECGYEDCHC220F                                                                                                                                                  
+140184 TPHU5346481 MSCZLO  ZLOGYE   GYEECGYEDC40230F                                                                                                                                                  
+140382 PRSU4048233 MSCZLO  ZLOGYE   GYEECGYEDC40240F        0001                                                                                                                                      
+140384 MSCU4058429 MSCZLO  ZLOGYE   GYEECGYEDC40240F                                                                                                                                                  
+140582 CRXU4970393 MSCZLO  ZLOGYE   GYEECGYEDC40300F                                                                                                                                                  
+140584 MSCU4306865 MSCZLO  ZLOGYE   GYEECGYEDC40240F                                                                                                                                                  
+140782 MSCU4096033 MSCZLO  ZLOGYE   GYEECGYEDC40340F                                                                                                                                                  
+150602 MSCU2668490 MSCZLO  ZLOGYE   GYEECGYEDC20160F                                                                                                                                                  
+150604 MSCU1947470 MSCZLO  ZLOGYE   GYEECGYEDC20156F                                                                                                                                                  
+150402 TPHU8234187 MSCZLO  ZLOGYE   GYEECGYEDC20160F                                                                                                                                                  
+150404 MSCU1940069 MSCZLO  ZLOGYE   GYEECGYEDC20111F                                                                                                                                                  
+150202 GSTU5158611 MSCZLO  ZLOGYE   GYEECGYEDC20160F                                                                                                                                                  
+150204 MSCU1466896 MSCZLO  ZLOGYE   GYEECGYEDC20130F                                                                                                                                                  
+150102 NTCU2005079 MSCZLO  ZLOGYE   GYEECGYEDC20160F                                                                                                                                                  
+150104 ICSU4774749 MSCZLO  ZLOGYE   GYEECGYEDC20130F                                                                                                                                                  
+150302 TPHU6784800 MSCZLO  ZLOGYE   GYEECGYEDC20160F                                                                                                                                                  
+150304 MSCU1288794 MSCZLO  ZLOGYE   GYEECGYEDC20160F                                                                                                                                                  
+150502 GSTU4780702 MSCZLO  ZLOGYE   GYEECGYEDC20160F                                                                                                                                                  
+170802 MSCU1942903 MSCZLO  ZLOSAI   SAICLSAIDC20077F                                                                                                                                                  
+170602 CRXU2248870 MSCZLO  ZLOSAI   SAICLSAIDC20090F                                                                                                                                                  
+170402 MSCU1345549 MSCZLO  ZLOSAI   SAICLSAIDC20090F                                                                                                                                                  
+170202 MSCU1913823 MSCZLO  ZLOSAI   SAICLSAIDC20065F                                                                                                                                                  
+170204 MSCU1966401 MSCZLO  ZLOSAI   SAICLSAIDC20084F                                                                                                                                                  
+170102 MSCU1926230 MSCZLO  ZLOSAI   SAICLSAIDC20038F                                                                                                                                                  
+170104 MSCU1888654 MSCZLO  ZLOSAI   SAICLSAIDC20065F                                                                                                                                                  
+170302 MSCU1914732 MSCZLO  ZLOSAI   SAICLSAIDC20229F                                                                                                                                                  
+170502 MSCU1845117 MSCZLO  ZLOSAI   SAICLSAIDC20120F                                                                                                                                                  
+170702 MSCU1915512 MSCZLO  ZLOSAI   SAICLSAIDC20194F                                                                                                                                                  
+180804 CRXU4984062 MSCZLO  ZLOSAI   SAICLSAIDC40260F                                                                                                                                                  
+180806 MSCU4278866 MSCZLO  ZLOSAI   SAICLSAIDC40091F                                                                                                                                                  
+180808 MSCU8504540 MSCZLO  ZLOSAI   SAICLSAIDCHC097F                                                                                                                                                  
+180604 MSCU4159126 MSCZLO  ZLOSAI   SAICLSAIDC40178F                                                                                                                                                  
+180606 MSCU4222379 MSCZLO  ZLOSAI   SAICLSAIDC40087F                                                                                                                                                  
+180608 GSTU8698830 MSCZLO  ZLOSAI   SAICLSAIDCHC220F                                                                                                                                                  
+180404 MSCU4330840 MSCZLO  ZLOSAI   SAICLSAIDC40178F                                                                                                                                                  
+180406 MSCU4279482 MSCZLO  ZLOSAI   SAICLSAIDC40091F                                                                                                                                                  
+180408 MSCU8558340 MSCZLO  ZLOSAI   SAICLSAIDCHC125F                                                                                                                                                  
+180410 GSTU8148411 MSCZLO  ZLOSAI   SAICLSAIDC40070F                                                                                                                                                  
+180206 MSCU4278341 MSCZLO  ZLOSAI   SAICLSAIDC40091F                                                                                                                                                  
+180208 MSCU8044228 MSCZLO  ZLOSAI   SAICLSAIDCHC190F                                                                                                                                                  
+180210 MSCU8824780 MSCZLO  ZLOSAI   SAICLSAIDCHC111F                                                                                                                                                  
+180106 MSCU4296556 MSCZLO  ZLOSAI   SAICLSAIDC40100F                                                                                                                                                  
+180108 CAXU4828044 MSCZLO  ZLOSAI   SAICLSAIDCHC178F                                                                                                                                                  
+180110 MSCU8505398 MSCZLO  ZLOSAI   SAICLSAIDCHC140F                                                                                                                                                  
+180304 TRIU5699721 MSCZLO  ZLOSAI   SAICLSAIDC40216F                                                                                                                                                  
+180306 TRLU4252754 MSCZLO  ZLOSAI   SAICLSAIDC40091F                                                                                                                                                  
+180308 MSCU8505525 MSCZLO  ZLOSAI   SAICLSAIDCHC205F                                                                                                                                                  
+180310 MSCU8560585 MSCZLO  ZLOSAI   SAICLSAIDCHC130F                                                                                                                                                  
+180504 MSCU4128125 MSCZLO  ZLOSAI   SAICLSAIDC40235F                                                                                                                                                  
+180506 MSCU4278803 MSCZLO  ZLOSAI   SAICLSAIDC40091F                                                                                                                                                  
+180508 MSCU8935634 MSCZLO  ZLOSAI   SAICLSAIDCHC111F                                                                                                                                                  
+180704 GSTU7534390 MSCZLO  ZLOSAI   SAICLSAIDC40260F                                                                                                                                                  
+180706 TRIU5335381 MSCZLO  ZLOSAI   SAICLSAIDC40260F                                                                                                                                                  
+180708 MSCU8808183 MSCZLO  ZLOSAI   SAICLSAIDCHC310F                                                                                                                                                  
+190802 CRXU2103372 MSCZLO  ZLOSAI   SAICLSAIDC20120F                                                                                                                                                  
+190602 MSCU1946827 MSCZLO  ZLOSAI   SAICLSAIDC20090F                                                                                                                                                  
+190402 MSCU1947926 MSCZLO  ZLOSAI   SAICLSAIDC20061F                                                                                                                                                  
+190202 ITLU6954840 MSCZLO  ZLOSAI   SAICLSAIDC20100F                                                                                                                                                  
+190204 CRXU1936311 MSCZLO  ZLOSAI   SAICLSAIDC20058F                                                                                                                                                  
+190102 MSCU1948774 MSCZLO  ZLOSAI   SAICLSAIDC20183F                                                                                                                                                  
+190104 MSCU2651287 MSCZLO  ZLOSAI   SAICLSAIDC20096F                                                                                                                                                  
+190302 MSCU2084603 MSCZLO  ZLOSAI   SAICLSAIDC20250F                                                                                                                                                  
+190502 MSCU1949153 MSCZLO  ZLOSAI   SAICLSAIDC20183F                                                                                                                                                  
+190702 MSCU1837364 MSCZLO  ZLOSAI   SAICLSAIDC20197F                                                                                                                                                  
+210802 MSCU1942009 MSCZLO  ZLOBUN   BUNCOBUNDC20109F                                                                                                                                                  
+210882 CRXU2573484 MSCZLO  ZLOBUN   BUNCOBUNDC20221F        0002                                                                                                                                      
+210602 INBU3277718 MSCZLO  ZLOBUN   BUNCOBUNDC20237F                                                                                                                                                  
+210682 MSCU2909480 MSCZLO  ZLOBUN   BUNCOBUNDC20221F        0003                                                                                                                                      
+210402 MSCU1874481 MSCZLO  ZLOBUN   BUNCOBUNDC20173F                                                                                                                                                  
+210482 MSCU1084682 MSCZLO  ZLOBUN   BUNCOBUNDC20221F        0004                                                                                                                                      
+210202 CARU2821683 MSCZLO  ZLOBUN   BUNCOBUNDC20237F                                                                                                                                                  
+210282 TPHU8212892 MSCZLO  ZLOBUN   BUNCOBUNDC20221F        0005                                                                                                                                      
+210102 MSCU1940290 MSCZLO  ZLOARI   ARICLARIDC20056F                                                                                                                                                  
+210182 CRXU2047670 MSCZLO  ZLOBUN   BUNCOBUNDC20221F        0006                                                                                                                                      
+210302 MSCU1260858 MSCZLO  ZLOARI   ARICLARIDC20085F                                                                                                                                                  
+210382 CARU2005463 MSCZLO  ZLOBUN   BUNCOBUNDC20221F        0007                                                                                                                                      
+210502 TOLU2466664 MSCZLO  ZLOBUN   BUNCOBUNDC20244F                                                                                                                                                  
+210702 MSCU1232732 MSCZLO  ZLOBUN   BUNCOBUNDC20108F                                                                                                                                                  
+221082 LCRU9604663 MSCZLO  ZLOBUN   BUNCOBUNDCHC060F                                                                                                                                                  
+220804 MSCU8166144 MSCZLO  ZLOBUN   BUNCOBUNDCHC204F                                                                                                                                                  
+220806 MSCU8690552 MSCZLO  ZLOBUN   BUNCOBUNDCHC070F                                                                                                                                                  
+220808 INKU2899582 MSCZLO  ZLOBUN   BUNCOBUNDCHC130F                                                                                                                                                  
+220810 TRLU5673676 MSCZLO  ZLOBUN   BUNCOBUNDCHC060F                                                                                                                                                  
+220604 MSCU8352811 MSCZLO  ZLOBUN   BUNCOBUNDCHC230F                                                                                                                                                  
+220606 MSCU8752079 MSCZLO  ZLOBUN   BUNCOBUNDCHC080F                                                                                                                                                  
+220608 MSCU8721118 MSCZLO  ZLOBUN   BUNCOBUNDCHC050F                                                                                                                                                  
+220610 MSCU8873276 MSCZLO  ZLOBUN   BUNCOBUNDCHC110F                                                                                                                                                  
+220404 MSCU8969758 MSCZLO  ZLOBUN   BUNCOBUNDCHC209F                                                                                                                                                  
+220406 MSCU8042924 MSCZLO  ZLOBUN   BUNCOBUNDCHC060F                                                                                                                                                  
+220408 GSTU8708012 MSCZLO  ZLOBUN   BUNCOBUNDCHC070F                                                                                                                                                  
+220410 GLDU0685451 MSCZLO  ZLOBUN   BUNCOBUNDCHC060F                                                                                                                                                  
+220204 MSCU8352832 MSCZLO  ZLOBUN   BUNCOBUNDCHC190F                                                                                                                                                  
+220206 GLDU0687897 MSCZLO  ZLOBUN   BUNCOBUNDCHC050F                                                                                                                                                  
+220208 MSCU8193258 MSCZLO  ZLOBUN   BUNCOBUNDCHC080F                                                                                                                                                  
+220210 TRLU5467037 MSCZLO  ZLOBUN   BUNCOBUNDCHC050F                                                                                                                                                  
+220284 CAXU9693569 MSCZLO  ZLOBUN   BUNCOBUNDCHC070F                                                                                                                                                  
+220104 TRIU5874830 MSCZLO  ZLOBUN   BUNCOBUNDC40170F                                                                                                                                                  
+220106 GLDU9050106 MSCZLO  ZLOBUN   BUNCOBUNDCHC050F                                                                                                                                                  
+220108 TRIU9305678 MSCZLO  ZLOBUN   BUNCOBUNDCHC190F                                                                                                                                                  
+220110 MSCU8352642 MSCZLO  ZLOARI   ARICLARIDCHC130F                                                                                                                                                  
+220184 MSCU8955461 MSCZLO  ZLOBUN   BUNCOBUNDCHC060F                                                                                                                                                  
+220304 GSTU6770750 MSCZLO  ZLOBUN   BUNCOBUNDC40220F                                                                                                                                                  
+220306 MSCU8726552 MSCZLO  ZLOBUN   BUNCOBUNDCHC060F                                                                                                                                                  
+220308 MSCU8154143 MSCZLO  ZLOBUN   BUNCOBUNDCHC220F                                                                                                                                                  
+220310 MSCU4269859 MSCZLO  ZLOARI   ARICLARIDC40134F                                                                                                                                                  
+220504 GSTU8913233 MSCZLO  ZLOBUN   BUNCOBUNDC40165F                                                                                                                                                  
+220506 CRXU9402293 MSCZLO  ZLOBUN   BUNCOBUNDCHC080F                                                                                                                                                  
+220508 MSCU8797303 MSCZLO  ZLOBUN   BUNCOBUNDCHC220F                                                                                                                                                  
+220510 TOLU2249720 MSCZLO  ZLOARI   ARICLARIDC40150F                                                                                                                                                  
+220582 TRLU5641051 MSCZLO  ZLOBUN   BUNCOBUNDCHC120F                                                                                                                                                  
+220584 INKU2289912 MSCZLO  ZLOBUN   BUNCOBUNDCHC050F                                                                                                                                                  
+220704 MSCU4324745 MSCZLO  ZLOBUN   BUNCOBUNDC40288F                                                                                                                                                  
+220706 GSTU9850839 MSCZLO  ZLOBUN   BUNCOBUNDCHC130F                                                                                                                                                  
+220708 CRXU9303475 MSCZLO  ZLOBUN   BUNCOBUNDCHC330F                                                                                                                                                  
+220710 MSCU8198096 MSCZLO  ZLOARI   ARICLARIDCHC250F                                                                                                                                                  
+220782 TOLU2264149 MSCZLO  ZLOBUN   BUNCOBUNDCHC110F                                                                                                                                                  
+220784 MSCU8912747 MSCZLO  ZLOBUN   BUNCOBUNDCHC050F                                                                                                                                                  
+220982 INKU2279112 MSCZLO  ZLOBUN   BUNCOBUNDCHC060F                                                                                                                                                  
+220984 MSCU8683430 MSCZLO  ZLOBUN   BUNCOBUNDCHC060F                                                                                                                                                  
+230802 MSCU1913280 MSCZLO  ZLOBUN   BUNCOBUNDC20100F                                                                                                                                                  
+230882 TRIU3752848 MSCZLO  ZLOBUN   BUNCOBUNDC20221F        0008                                                                                                                                      
+230602 TPHU6387968 MSCZLO  ZLOBUN   BUNCOBUNDC20237F                                                                                                                                                  
+230682 MSCU1047061 MSCZLO  ZLOBUN   BUNCOBUNDC20221F        0009                                                                                                                                      
+230402 MSCU1947994 MSCZLO  ZLOBUN   BUNCOBUNDC20156F                                                                                                                                                  
+230482 GSTU3306638 MSCZLO  ZLOBUN   BUNCOBUNDC20221F        0010                                                                                                                                      
+230202 GSTU4911572 MSCZLO  ZLOBUN   BUNCOBUNDC20237F                                                                                                                                                  
+230282 MSCU1207196 MSCZLO  ZLOBUN   BUNCOBUNDC20221F        0011                                                                                                                                      
+230102 TRIU2185903 MSCZLO  ZLOARI   ARICLARIDC20080F                                                                                                                                                  
+230182 GLDU2219684 MSCZLO  ZLOBUN   BUNCOBUNDC20221F        0012                                                                                                                                      
+230302 MSCU2883087 MSCZLO  ZLOARI   ARICLARIDC20208F                                                                                                                                                  
+230382 GSTU2977781 MSCZLO  ZLOBUN   BUNCOBUNDC20221F        0013                                                                                                                                      
+230502 MSCU1634958 MSCZLO  ZLOBUN   BUNCOBUNDC20200F                                                                                                                                                  
+230702 GSTU4611092 MSCZLO  ZLOBUN   BUNCOBUNDC20064F                                                                                                                                                  
+300206 TRIU8805621 MSCZLO  ZLOOPT   OPTOPOPTRFHC052E                                                                                                                                                  
+300106 CRLU1144620 MSCZLO  ZLOOPT   OPTOPOPTRFHC052E                                                                                                                                                  
+300306 CRLU5135870 MSCZLO  ZLOOPT   OPTPOOPTRFHC052E                                                                                                                                                  
+***Refer to the following remark.                                                                                                                                                                     
+***Refer to the following IMDG.                                                                                                                                                                       
+00010032    00000                                                                                                                                                                                     
+00020061175100000                                                                                                                                                                                     
+00030061175100000                                                                                                                                                                                     
+00040061175100000                                                                                                                                                                                     
+00050061175100000                                                                                                                                                                                     
+00060061175100000                                                                                                                                                                                     
+00070061175100000                                                                                                                                                                                     
+00080061175100000                                                                                                                                                                                     
+00090061175100000                                                                                                                                                                                     
+00100061175100000                                                                                                                                                                                     
+00110061175100000                                                                                                                                                                                     
+00120061175100000                                                                                                                                                                                     
+00130061175100000                                                                                                                                                                                     

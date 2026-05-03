@@ -1,0 +1,206 @@
+2828 	              ADHEPLAST                                         
+7120 	              AEROLIBRE ECUATORIANA                             
+6446 	              AGLOMERADOS COTOPAXI S.A. - ACOSA                 
+5070 	              AGRICOLA COMERCIAL INDUSTRIAL
+2586 	              AGRICOLA OFICIAL                                  
+6935 	              AGROINDUSTRIA DEL PACIFICO S.A.  AGPASA
+6907 	              ALBONOVA S.A.                                     
+2279 	              ANDINASA                                          
+4394 	              ARONEM AIR CARG                                   
+3377 	              ARTELEN S. A                                      
+4332 	              AYMESA
+6921 	              BALROSARIO                                        
+9092 	              BANANALIHGT S.A                                   
+0037 	              BANAPLAST                                         
+7247 	              BIC DEL ECUADOR                                   
+6919 	              BIOCARE                                           
+2323 	              BOPP DEL ECUADOR CIA.LTDA.
+6455 	              BOSQUES TROPICALES S.A. - BOTRASA                 
+1441 	              BRISTOL MYERS SQUIBB                              
+0289 	              BURNS PHILP ECUADOR S.A.
+9335 	              CAMELOT CIA.LTD                                   
+0055 	              CARTONERA ANDINA S.A.                             
+0064 	              CARTOPEL                                          
+1450 	              CARTORAMA C.A.                                    
+0073 	              CEDECA
+1531 	              CEGALSA
+8228 	              CENTRO GRAFICO S.A.                               
+7616 	              CERVESURSA                                        
+8282 	              CHIVIT DEL ECUADOR                                
+6896 	              CODESA CONTRACHAPADOS ESMERALDAS S.A.
+6909 	              COERPLAST S.A                                     
+2332 	              CONAPLAST (CIA.NACIONAL DE PLASTICOS S.A.)        
+0136 	              CONDUIT DEL ECUADOR                               
+0145 	              CONFECCIONES METRO S.A. COMESA                    
+7300 	              CONFITECA                                         
+5015 	              CONFOCO S.A.
+0163 	              CONSERVAS ISABEL ECUATORIANA S.A.                 
+1487 	              CONTIPLAST                                        
+7301 	              CONVERTIDORA DE PAPEL ZAIDAN COPZA CIA.LTDA.      
+0208 	              COPESA                                 
+1496 	              CORRUGADORA CRANSA                                
+9344 	              CORTYVIS CIA.LTDA                                 
+5106 	              COSTASUR S.A.
+1513 	              CRIDESA                                           
+6301 	              DANEC S.A.                                        
+6918 	              DELLTEX                                           
+9633 	              DINAMAR S. A                                      
+7200 	              DISTRIBUIDORA DE SACOS ZAIDAN DISAC CIA.LTDA.     
+1522 	              DOLTREX S.A.                                      
+2341 	              ECENSA                                            
+0235 	              ECUABARNICES                                      
+1811 	              EDESA  S.A.
+1550 	              EL CAFE C.A  MONTECRISTI
+1540 	              EL CAFE C.A.  GUAYAQUIL
+0280 	              ELECTROCABLES                                     
+1559 	              EMPAGRAN S.A.                                     
+7328 	              EMPRESAS PINTO COMERTEX S.A.
+0307 	              ENASA                                
+6464 	              ENCHAPES DECORATIVOS S.A. - ENDASA                
+0340 	              ENKADOR S.A.
+1568 	              ENTANACA                                          
+0316 	              ENVASES DEL LITORAL                               
+1577 	              ETIFLEX CIA.LTDA.                                 
+0334 	              ETIQUETAS GOMBO                                   
+1586 	              EXIOGRAF CIA.LTDA.                                
+1595 	              EXPALSA                                           
+1603 	              EXPLAST S.A.                                      
+1612 	              EXPORKLORE                                        
+5061 	              EXTECOMEXSA COMERCIO EXTERIOR
+0343 	              FADELMA                                           
+0352 	              FADESA                                            
+1379 	              FERRERO DEL ECUADOR                               
+1658 	              FILARET                                           
+8840 	              FISA                                              
+7676 	              FLEXIPLAST S.A.                                   
+0100 	              FLORALPACK CIA. LTDA.
+7401 	              FRUNEXSA                                          
+5942 	              FUTURCORP S.A.                                    
+0415 	              GELEC                                
+0424 	              GOLTRADE
+0433 	              GRAFANDINA                           
+0442 	              GRAFICAS FERAUD
+1973 	              GRAIMAN CIA.LTDA.                                 
+0317 	              GRUNENTHAL  ECUATORIANA CIA.LTDA.
+0460 	              GRUPASA                                           
+0488 	              HILANTEX                                          
+0497 	              HOLGUER GARZON                         
+0505 	              ICOSU                                             
+7878 	              IDEAL ALAMBREC S.A.
+0541 	              IMPREPLAST                                        
+0569 	              INCABLE                                           
+0578 	              INCACAO                              
+1667 	              INCASA S.A.                                       
+0587 	              INCOPES                                           
+7355 	              INCOPLAST S.A.                                    
+2585 	              INDUMAIZ DEL ECUADOR                              
+1809 	              INDUSTRIA ACERO DE LOS ANDES S.A.                 
+0622 	              INDUSTRIA BORJA                                   
+0631 	              INDUSTRIA CARTONERA ECUATORIANA                   
+7474 	              INDUSTRIA DE PLASTICOS EXPANDIBLE PLASTEX S.A.    
+1108 	              INDUSTRIAL PLÁSTICA PLASTIQUIR S.A.
+0659 	              INDUSTRIAS GRAFICAS ROCAFUERTE
+8253 	              INDUSTRIAS OMEGA                                  
+0668 	              INDUSTRIAS SENEFELDER                             
+0677 	              INEPACA                                           
+7733 	              INEXA INDUSTRIA                                   
+0470 	              INGESA
+1702 	              INPLASBAN S.A.                                    
+0532 	              INPLASTIC S.A
+3791 	              INSOMET CIA. LTDA.                                
+4210 	              INTERNACIONAL TRANDING SOCI
+1711 	              IPAC S.A.                                         
+0703 	              IQUIASA                                           
+1720 	              ISKRAEMEC S.A.                                    
+5014 	              KOBREC S.A                                        
+1670 	              LA FABRIL - LA FAVORITA- GUAYAQUIL
+1650 	              LA FABRIL S.A. (MANTA)                            
+0767 	              LA PORTUGUESA                                     
+2288 	              LA UNIVERSAL
+0785 	              LAMIPLAST
+2260 	              LAMITEX S. A.                                     
+2020 	              LATINA EXPORT CIA LTDA
+1757 	              LITOTEC S.A
+6887 	              LUBRITANSA S.A
+2314 	              MACARSA S.A.                                      
+0199 	              MATERPACKIN CIA. LTDA.
+6903 	              MAXIGRAF
+1775 	              MEGAGRAF S.A.                                     
+0820 	              MERINT DEL ECUADOR                                
+0839 	              MICROPLAST                                        
+0875 	              MULTIGRAFICA                                      
+0884 	              NEGOCIOS INDUSTRIALES REAL NIRSA S.A.             
+1784 	              NEPLAST                                           
+1793 	              NOVAPLAST S.A.                                    
+6473 	              NOVOPAN DEL ECUADOR                               
+6735 	              OFFSETEC S.A.                                     
+8859 	              OMARSA                                            
+0901 	              ONDUTEC                                           
+1810 	              OSRAM DEL ECUADOR S.A.
+2440 	              PALMAPLAST CIA. LTDA.
+1838 	              PAPELERA NACIONAL S.A.                            
+1829 	              PAPELESA CIA.LTDA.                                
+1847 	              PESCA ECUATORIANA CIA.LTDA.                       
+0947 	              PICKUEL                                           
+9308 	              PLAPASA                                           
+0983 	              PLASTICOS ALGAR
+0992 	              PLASTICOS CHESA                      
+1018 	              PLASTICOS DE EXPORTACION EXPOPLAST                
+1892 	              PLASTICOS DEL AGRO                                
+1027 	              PLASTICOS DEL LITORAL PLASTLIT S.A.
+1036 	              PLASTICOS ECUATORIANOS               
+1900 	              PLASTICOS ESPECIALES                              
+7346 	              PLASTICOS INTERNACIONALES                         
+1045 	              PLASTICOS LUGA
+1919 	              PLASTICOS RICHARDS S.A.                           
+1928 	              PLASTICOS RIVAL CIA.LTDA.                         
+4529 	              PLASTICOS SORIA                                   
+1063 	              PLASTICOSA CIA. LTDA.                             
+0308 	              PLASTICSACKS CIA. LTDA.
+1081 	              PLASTIGOMEZ                                       
+1090 	              PLASTIGUAYAS
+6916 	              PLASTIKYTO C.A                                    
+1946 	              PLASTIMSA                                         
+6320 	              PLASTISUR S.A.
+1955 	              PLASTRO S.A.                                      
+1117 	              POLIFIBRAS DEL ECUADOR POLIFELSA                  
+6955 	              POLIGRAFICA C.A.
+1126 	              POLIMALLA                                         
+1130 	              POLIPACK CIA. LTDA
+1135 	              POLIQUIMICOS                                      
+7661 	              POLYCHEMICAL S.A.
+1144 	              PORCOMECU                                         
+9291 	              PRISMAPLASTIC S.A.
+1153 	              PROCARSA                                          
+0379 	              PRODUCTOS FAMILIA SANCELA DEL ECUADOR S.A.
+1991 	              PRODUCTOS PARAISO DEL ECUADOR S.A.                
+9660 	              PRODUCTOS SINTÉTICOS S.A. "PROSISA"
+1180 	              PROMARISCO                                        
+6926 	              PROVEFRUT
+4201 	              QUIMICA INDUSTRIAL MERCANTI
+4212 	              R.A.Y.A.X. OVERSEAS INVESTM
+1216 	              REPALCO
+1225 	              SAMEDAN                                           
+6830 	              SELAP S,A.
+2026 	              SERDI S.A.                                        
+8273 	              SINTECUERO S.A.                                   
+7012 	              SKIODA S.A.                                       
+2071 	              SU PLASTICO S.A.                                  
+7643 	              SUNCHODESA REPRESENTACIONES                       
+2080 	              TAENSA S.A.
+2099 	              TANITE                                            
+7575 	              TATOO CIA. LTDA.                                  
+8355 	              TEXTILES NACIONALES S.A.                          
+4310 	              TEXTILES RIO BLANCO S.A.  TEXRIBLANSA
+8921 	              TEXTIPIEL S.A.                                    
+1252 	              TOLPRI                                            
+2116 	              TONACCI S.A.
+9173 	              TRAMABO
+1261 	              TRILEX                                            
+1289 	              TROPIFRUTAS                                       
+2134 	              UBIPLAST S.A.                                     
+6428 	              UNION TEXTIL UNITEX C.A.                          
+2143 	              VITERPLAS CIA.LTDA.                               
+2486 	              VITROACEROS S.A.                                  
+2152 	              ZAHAV S.A.                                        
+6419 	              ZAIMELLA DEL ECUADOR                              

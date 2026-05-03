@@ -1,0 +1,1 @@
+update dtx_detalle set longitud = 12 where (LINEA = 'MSC') AND (version = '55') AND (codigo = 'BL1') and campo = 'BL102'

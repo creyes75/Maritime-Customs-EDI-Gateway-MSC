@@ -1,0 +1,135 @@
+AE 	              AEROSOL 
+AP 	              AMPOLLA, PROTEGIDA
+AM 	              AMPOLLA, SIN PROTEGER
+RG 	              ANILLO
+CH 	              ARCÓN
+SE 	              ARCÓN MARINO
+BH 	              ATADO
+CJ 	              ATAÚD
+AT 	              ATOMIZADOR
+BL 	              BALA, COMPRIMIDA
+BN 	              BALA, SIN COMPRIMIR
+BJ 	              BALDE («BUCKET»)
+BP 	              BALÓN, PROTEGIDO
+BF 	              BALÓN, SIN PROTEGER
+PU 	              BANDEJA («TRAY») O PAQUETE DE BANDEJAS («TRAY PACK»)
+BR 	              BARRA
+BZ 	              BARRAS, EN HAZ/ATADO/FAJO
+BU 	              BARRICA («BUTT»)
+BA 	              BARRIL («BARREL»)
+KG 	              BARRILETE («KEG»)
+FI 	              BARRILITO
+TR 	              BAÚL («TRUNCK»)
+BB 	              BOBINA («BOBBIN»)
+CL 	              BOBINA («COIL»)
+SD 	              BOBINA («SPINDLE»)
+BG 	              BOLSA
+MB 	              BOLSA DE HOJAS SUPERPUESTAS
+SH 	              BOLSITA («SACHET»)
+GB 	              BOMBONA DE GAS
+TN 	              BOTE DE HOJALATA
+WB 	              BOTELLA ENFUNDADA
+BV 	              BOTELLA, PROTEGIDA, BULBOSA
+BQ 	              BOTELLA, PROTEGIDA, CILÍNDRICA
+BS 	              BOTELLA, SIN PROTEGER, BULBOSA
+BO 	              BOTELLA, SIN PROTEGER, CILÍNDRICA
+BX 	              CAJA («BOX»)
+CS 	              CAJA («CASE»)
+MX 	              CAJA DE FÓSFOROS
+NS 	              CAJA-NIDO
+PA 	              CAJETILLA
+CR 	              CAJÓN
+FD 	              CAJÓN ARMADO
+BC 	              CAJÓN DE BOTELLAS, BOTELLERO
+CB 	              CAJÓN DE CERVEZA
+FC 	              CAJÓN DE FRUTA
+MC 	              CAJÓN DE LECHE
+TC 	              CAJÓN DE TÉ
+SC 	              CAJÓN PLANO
+HR 	              CANASTA
+RL 	              CARRETE («REEL»)
+CT 	              CARTÓN
+BK 	              CESTA («BASKET»)
+PG 	              CHAPA
+PY 	              CHAPAS, EN HAZ/ATADO/FAJO
+CY 	              CILINDRO
+CF 	              COFRE («COFFER»)
+OF 	              COFRE («FOOTLOCKER»)
+TB 	              CUBA
+CK 	              CUBA («CASK»)
+HG 	              CUBA («HOGSHEAD»)
+PL 	              CUBETA («PAIL»)
+BI 	              CUBO («BIN»)
+CU 	              CUBO («CUP»)
+PH 	              CÁNTARO («PITCHER»)
+DP 	              DAMAJUANA, PROTEGIDA
+DJ 	              DAMAJUANA, SIN PROTEGER
+VP 	              ENVASADO AL VACÍO
+MT 	              ESTERA
+TS 	              FAJOS («TRUSS»)
+PK 	              FARDO («PACKAGE»)
+VI 	              FRASCA
+FL 	              FRASCO
+CV 	              FUNDA
+CP 	              GARRAFA, PROTEGIDA
+CO 	              GARRAFA, SIN PROTEGER
+VQ 	              GAS LICUADO A GRANEL (A TEMPERATURA/PRESIÓN ANORMALES)
+VG 	              GAS, A GRANEL (A 1031 MBAR A 15 °C)
+BE 	              HAZ («BUNDLE»)
+ST 	              HOJA
+SZ 	              HOJAS, EN HAZ/ATADO/FAJO
+JG 	              JARRA («JUG»)
+CG 	              JAULA
+SK 	              JAULA ABIERTA
+JC 	              JERRICÁN, RECTANGULAR
+JY 	              JERRICÁN,CILÍNDRICO
+CI 	              LATA
+CX 	              LATA, CILÍNDRICA
+CA 	              LATA, RECTANGULAR
+CC 	              LECHERA
+IN 	              LINGOTE
+IZ 	              LINGOTES, EN HAZ/ATADO/FAJO
+CZ 	              LONA
+SM 	              LÁMINA
+SL 	              LÁMINA DESLIZADORA («SLIPSHEET»)
+VL 	              LÍQUIDO, A GRANEL
+SU 	              MALETA
+FR 	              MARCO
+CE 	              NASA
+PC 	              PAQUETE («PARCEL»)
+FP 	              PELÍCULA PLÁSTICA («FILMPACK»)
+SW 	              PELÍCULA TERMORRETRÁCTIL
+NT 	              RED («NET»)
+BT 	              ROLLO («BOLT»)
+RO 	              ROLLO («ROLL»)
+SA 	              SACO
+MS 	              SACO DE PAREDES MÚLTIPLES
+RT 	              SACO DE RED («REDNET»)
+JT 	              SACO DE YUTE
+PO 	              SAQUITO («POUCH»)
+NE 	              SIN ENVASAR O SIN EMPAQUETAR
+EN 	              SOBRE
+VY 	              SÓLIDO A GRANEL, PARTÍCULAS FINAS (POLVOS)
+VO 	              SÓLIDO A GRANEL, PARTÍCULAS GRANDES (NÓDULOS)
+VR 	              SÓLIDO A GRANEL, PARTÍCULAS GRANULARES (GRANOS)
+BD 	              TABLA
+BY 	              TABLA, EN HAZ/ATADO/FAJO
+PZ 	              TABLONES, EN HAZ/ATADO/FAJO O TUBOS («PIPES»), EN HAZ/ATADO/FAJO
+PN 	              TABLÓN
+DR 	              TAMBOR
+VA 	              TANQUE
+TY 	              TANQUE, CILÍNDRICO
+TK 	              TANQUE, RECTANGULAR
+JR 	              TARRO
+TO 	              TONEL
+LG 	              TRONCO
+LZ 	              TRONCO, EN HAZ/ATADO/FAJO
+PI 	              TUBO («PIPE»)
+TU 	              TUBO («TUBE»)
+TD 	              TUBO, PLEGABLE («TUBE, COLLAPSIBLE»)
+TZ 	              TUBOS («TUBES»), EN HAZ/ATADO/FAJO
+RD 	              VARILLA
+RZ 	              VARILLAS, EN HAZ/ATADO/FAJO
+PT 	              VASIJA
+GI 	              VIGA
+GZ 	              VIGA, EN HAZ/ATADO/FAJO

@@ -1,0 +1,248 @@
+Spread Version 2.5 
+UPGRAD.TXT  
+FarPoint Technologies, Inc.  
+-------------------------------------------------------------------------  
+This document contains instructions for upgrading existing projects that   
+used either Spread/VBX version 2.1, Spread/VBX ++ version 2.0, ToolBox   
+version 3.0, or Grid/VBX version 1.0 controls. Refer to the appropriate   
+instructions for your development environment.  
+  
+**** Upgrading Existing Spread/VBX Version 2.1 Projects ****   
+     
+If you have created applications using Spread/VBX version 2.1, you must     
+upgrade your existing projects. Complete the steps provided for your     
+development environment.     
+  
+     
+Upgrading Visual Basic® Projects to Use the VBX Control     
+     
+If you formerly used Spread/VBX version 2.1 and now want to use    
+the version 2.5 VBX control, complete the following steps.     
+     
+1. Open your existing project.     
+2. If the project used the file VB_CONST.TXT,use the file SSVBX.BAS   
+   in place of it.   
+3. Save the project file and form files as text.     
+4. Edit the project file (.MAK) in a text editor to change the   
+   following references:     
+	Change . . .	To . . .     
+	SPREAD20.VBX	SSVBX25.VBX     
+5. Edit the form files (.FRM) in a text editor to change all Spread   
+   class references as follows:     
+	Change . . .		To . . .     
+	Spreadsheet		vaSpread     
+6. Load your project and verify your changes.     
+     
+  
+Upgrading Visual Basic Projects to Use the OCX Controls     
+     
+If you formerly used Spread/VBX version 2.1 and now want to    
+use the version 2.5 OCX control (16- or 32-bit), complete the   
+following steps.     
+     
+1. Open your existing project.     
+2. If the project used the file VB_CONST.TXT,use the file SSOCX.BAS   
+   in place of it.   
+3. Save the project file and form files as text.     
+4. Edit the project file (.MAK) in a text editor to change the   
+   following references:     
+	Change . . .	To . . .     
+	SPREAD20.VBX	SSVBX25.VBX     
+5. Edit the form files (.FRM) in a text editor to change all Spread   
+   class references as follows:     
+	Change . . .		To . . .     
+	Spreadsheet		vaSpread     
+6. Load your project and verify your changes.     
+7. Save the project to rewrite the binary data in the .FRX file.     
+8. Start Visual Basic 4.0 (16-bit) or Visual Basic 4.0 (32-bit) and load    
+   the project file (.MAK).  
+9. Within your project file, update the event parameters as needed. See  
+   the installed file, EVENTS.TXT, for the parameter changes needed for  
+   using the events with the OCX control.     
+10. For each program file (.FRM) containing a spreadsheet, functions must 
+   be changed to methods. Compare the following code: 
+ 
+	Visual Basic code using Spread/VBX 2.0 
+		bSuccess = SpreadAddCustomFunction (Spread1, "Cube", 1) 
+		bValid = SpreadIsFormulaValid (Spread1, "a1+b1") 
+		SpreadSetText (Spread1, Col, Row, "Text") 
+ 
+	Visual Basic code using the OCX version 
+		bSuccess = Spread1.AddCustomFunction ("Cube", 1) 
+		bValid = Spread1.IsFormulaValid ("a1+b1") 
+		Spread1.SetText Col, Row, "Text"  
+     
+**** Upgrading Existing Spread/VBX++ Version 2.0 Projects ****   
+     
+If you have created applications using Spread/VBX++ version 2.0, you must     
+upgrade your existing projects. Complete the steps provided for your     
+development environment.     
+  
+  
+Upgrading C++ Projects to Use the VBX Control     
+     
+If you formerly used Spread/VBX++ version 2.0 and now want to    
+use the version 2.5 VBX control, complete the following steps.     
+     
+1. Open your existing project.     
+2. If the project used the file SSPP.H, use the file SSVBX.H   
+   in place of it.     
+3. If you used AppStudio to put a Spread control on a dialog, open the     
+   .RC file as text in a text editor and make the following changes:     
+	Change:	CONTROL "SSPP20.VBX;Spreadsheet;	    
+	To: 	CONTROL "SSVBX25.VBX;vaSpread;     
+4. If you created the control at run time, make the following changes  
+   in your .CPP file:  
+	Change:	Create("SSPP20.VBX;Spreadsheet;" . . . )	    
+	To: 	Create("SSVBX25.VBX;vaSpread;" . . . )    
+5. In your project, where you loaded the VBX file, change the   
+   following reference:     
+	Change . . .	To . . .     
+	SSPP20.VBX	SSVBX25.VBX    
+6. If you have linked to the file SSPP.CPP, link instead to the following  
+   file as appropriate:  
+	If you are using . . .	Use . . .  
+	MFC			SSVBXMFC.CPP  
+	OWL			SSVBXOWL.CPP    
+7. Rebuild your project and run it.     
+     
+     
+**** Upgrading Existing ToolBox Version 3.0 Projects ****   
+     
+If you have created applications using ToolBox version 3.0, you must     
+upgrade your existing projects. Complete the steps provided for your     
+development environment.     
+  
+  
+Upgrading C or C++ Projects to Use the 16-Bit DLL Control     
+     
+If you formerly used ToolBox version 3.0 DLL controls and now want to    
+use Spread version 2.5 16-bit DLL controls, complete the following steps.     
+     
+1. Open your existing project.     
+2. If the project used the file TOOLBOX.H, change the filename to SSDLL.H. If  
+   the project used the file TOOLBOXX.H, change the filename to SSDLLX.H  
+3. If you hard coded the class name of the Spread control in     
+   your project, make the following changes:     
+	a. Either use the define (SS_CLASSNAME) or     
+	b. Make the following changes as needed:     
+		Change . . .	To . . .     
+		tbSpread	va16Spread25 (16-bit DLL)     
+		tbSpread	va32Spread25 (32-bit DLL)     
+4. If you explicitly load the file TBPRO3W.DLL using the LoadLibrary  
+   command, load the file SS16D25.DLL instead.  
+5. If your project links to TBPRO3W.LIB, change the project to link to   
+   SS16D25.LIB instead. 
+ 
+	Visual C++ users link Spread25\lib\ms\SS16D25.LIB 
+	Borland C++ user link Spread25\lib\bc\SS16D25.LIB 
+  
+6. Rebuild your project and run it.     
+     
+Note  To find the class names for 16- or 32-bit controls, search for the     
+      define SS_CLASSNAME in the SSDLL.H file.     
+   
+   
+**** Upgrading Existing Grid/VBX Version 1.0 Projects ****   
+   
+If you have created applications using Grid/VBX version 1.0, you must    
+upgrade your existing projects. Complete the steps provided for your    
+development environment.   
+   
+  
+Upgrading Visual Basic Projects to Use the VBX Control   
+   
+If you formerly used Grid/VBX version 1.0 control and now want to use    
+the Spread version 2.5 VBX control, complete the following steps.   
+   
+1. Open your existing project.   
+2. If the project used the file FPGRID.BAS, use the file SSVBX.BAS   
+   in place of it.   
+3. Save the project file and form files as text.   
+4. Edit the project file (.MAK) in a text editor to change the   
+   following references:   
+	Change . . .	To . . .   
+	FPGRID10.VBX	SSVBX25.VBX   
+5. Edit the form files (.FRM) in a text editor to change all Grid   
+   class references as follows:   
+	Change . . .	To . . .   
+	SpreadSheet	vaSpread   
+6. Load your project and verify your changes.   
+  
+   
+Upgrading Visual Basic Projects to Use the OCX Controls   
+   
+If you formerly used the Grid/VBX version 1.0 control and now want to use    
+Spread version 2.5 OCX controls, complete the following steps.   
+   
+1. Open your existing project.   
+2. If the project used the file FPGRID.BAS, use the file SSOCX.BAS   
+   in place of it.   
+3. Save the project file and form files as text.   
+4. Edit the project file (.MAK) in a text editor to change the   
+   following references:   
+	Change . . .	To . . .   
+	FPGRID10.VBX	SSVBX25.VBX   
+5. Edit the form files (.FRM) in a text editor to change all Spread   
+   class references as follows:   
+	Change . . .	To . . .   
+	SpreadSheet	vaSpread   
+6. Load your project and verify your changes.   
+7. Save the project to rewrite the binary data in the .FRX file.   
+8. Start Visual Basic 4.0 (16-bit) or Visual Basic 4.0 (32-bit) and    
+   load the project file (.MAK).   
+9. For each program file (.FRM) containing a grid, update the event parameters  
+   as needed. See the installed file, EVENTS.TXT, for the parameter changes  
+   needed for using the events with the OCX control.     
+10. For each program file, (.FRM) containinga grid, functions must be changed 
+    to methods. Compare the following code: 
+ 
+	Visual Basic code using Grid/VBX 2.0 
+ 
+		ret = SaveTabFile (Grid1, "\Test.txt") 
+		fpSetText (Grid1, Col, Row, "Text") 
+ 
+	Visual Basic code using the OCX version 
+ 
+		ret = Grid1.SaveTabFile("\Test.txt") 
+		Grid1.SetText Col, Row, "Text"  
+  
+  
+Upgrading C++ Projects to Use the VBX Controls   
+   
+If you formerly used the Grid/VBX version 1.0 control and now want to use    
+the Spread version 2.5 VBX control, complete the following steps.   
+   
+1. Open your existing project.   
+2. If the project used the file FPGRID.H, use the file SSVBX.H   
+   in place of it.   
+3. If you used AppStudio to put a Spread control on a dialog, open the .RC    
+   file as text in a text editor and make the following changes:   
+	Change:	CONTROL "FPGRID10.VBX;SpreadSheet;	    
+	To: 	CONTROL "SSVBX25.VBX;vaSpread;     
+4. If you created the control at run time, make the following changes  
+   in your .CPP file:  
+	Change:	Create("FPGRID10.VBX;Spreadsheet;" . . . )    
+	To: 	Create("SSVBX25.VBX;vaSpread;" . . . )    
+5. In your project, where you loaded the VBX file, change the   
+   following reference:     
+	Change . . .	To . . .     
+	FPGRID10.VBX	SSVBX25.VBX    
+6. If you have linked to the file FPGRID.CPP, link instead to the following  
+   file as appropriate:  
+	If you are using . . .	Use . . .  
+	MFC			SSVBXMFC.CPP  
+	OWL			SSVBXOWL.CPP    
+7. Rebuild your project and run it.     
+ 
+-------------------------------------------------------------------------------- 
+FarPoint Technologies, Inc. 
+133 Southcenter Court 
+Suite 1000 
+Morrisville, NC 27560 
+Phone (919) 460-4551 
+Fax (919) 460-7606 
+Tech Support (919) 460-1887 
+Web Site http://www.fpoint.com 
+email farpoint@fpoint.com  
+© 1996 FarPoint Technologies, Inc.
