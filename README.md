@@ -1,4 +1,4 @@
-# Maritime Customs EDI Gateway: Geneva-to-Local Integration
+# Maritime Customs EDI Gateway: Geneva(Switzerland) to Local Integration
 
 This repository preserves the legacy implementation of a **Customs Declaration & Cargo Management System** developed for **Mediterranean Shipping Company (MSC)**. The system served as a critical middleware between MSC's Global Headquarters in **Geneva** and National Customs Authorities.
 
